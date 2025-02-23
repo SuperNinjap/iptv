@@ -1,0 +1,21 @@
+{
+  "drives": [
+    {
+      "name": "luozia",
+      "search": true,
+      "searchable": true,
+      "server": "http://ip.luozia.cn:5678/"
+    },
+    {
+      "name": "旗米拉",
+      "search": true,
+      "searchable": true,
+      "server": "https://al.chirmyram.com/"        },    
+    {
+      "name": "alist.jar",
+      "search": true,
+      "searchable": true,
+      "server": "http://192.168.101.13:5244"
+    }
+  ]
+}
