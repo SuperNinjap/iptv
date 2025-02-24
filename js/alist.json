@@ -12,10 +12,22 @@
       "searchable": true,
       "server": "https://al.chirmyram.com/"        },    
     {
-      "name": "alist.jar",
+      "name": "追番",
       "search": true,
       "searchable": true,
-      "server": "http://192.168.101.13:5244"
+      "server": "https://zhuifan.link" 
+    },
+    {
+      "name": "聚合盘",
+      "search": true,
+      "searchable": true,
+      "server": "pan.clun.top"       
+    },        
+    {
+      "name": "短剧库",
+      "search": true,
+      "searchable": true,
+      "server": "https://cdn.modupan.com"
     }
   ]
 }
