@@ -14,18 +14,7 @@
                 "icon": "",
                 "des": "状态"
             },
-            {
-                "name": "Java引擎",
-                "key": "javaEnginetmProbe",
-                "icon": "",
-                "des": "探测"
-            },
-            {
-                "name": "引擎",
-                "key": "engineSelection",
-                "icon": "",
-                "des": "切换引擎"
-            },
+           
             {
                 "name": "凯速",
                 "key": "loginOrlogooutKStore",
@@ -50,13 +39,13 @@
         "name": "数据库",
         "list": [
             {
-                "name": "本地数据库映射文件",
+                "name": "本地数据库映射配置",
                 "key": "localDatabaseMapping",
                 "icon": "",
                 "des": "设置"
             },
             {
-                "name": "网络数据库映射文件",
+                "name": "网络数据库映射配置",
                 "key": "networkDatabaseMapping",
                 "icon": "",
                 "des": "设置"
@@ -70,7 +59,7 @@
         ]
     },
     {
-        "name": "白渡",
+        "name": "百度",
         "list": [
             {
                 "name": "清除cookie",
@@ -93,7 +82,7 @@
         ]
     },
     {
-        "name": "阿篱",
+        "name": "阿里",
         "list": [
             {
                 "name": "清除cookie",
