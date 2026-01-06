@@ -14,7 +14,6 @@
                 "icon": "",
                 "des": "状态"
             },
-           
             {
                 "name": "凯速",
                 "key": "loginOrlogooutKStore",
@@ -162,12 +161,6 @@
             {
                 "name": "设置cookie",
                 "key": "setTianyiCookie",
-                "icon": "",
-                "des": ""
-            },
-            {
-                "name": "多线程",
-                "key": "setTianyiMultiThread",
                 "icon": "",
                 "des": ""
             }
