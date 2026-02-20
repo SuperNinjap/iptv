@@ -292,6 +292,15 @@
             "ext": []
         },
         {
+            "key": "jianpian",
+            "name": "💥｜荐片｜影视",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/config/jianpian.json"
+        },        
+        {
             "key":"咕咕动漫",
             "name":"🌸｜咕咕｜动漫",
             "type":3,
@@ -299,16 +308,6 @@
             "api":"csp_AppGet",
             "ext":{"url":"https://www.gugu3.com","dataKey":"nKfZ8KX6JTNWRzTD","dataIv":"nKfZ8KX6JTNWRzTD"}
         },
-        {
-            "key": "jianpian",
-            "name": "💙｜荐片｜P2P",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/config/jianpian.json"
-        },
-
         {
             "key": "Huya",
             "name": "✨｜虎牙｜直播",
