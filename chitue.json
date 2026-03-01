@@ -78,23 +78,6 @@
             }
         },
         {
-            "key": "蜡笔",
-            "name": "💗｜蜡笔｜网盘",
-            "type": 3,
-            "api": "csp_MacCMS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "site": [
-                    "https://www.labi88.sbs",
-                    "https://feimao666.fun",
-                    "http://feimao888.fun"
-                ]
-            }
-        },
-        {
             "key": "至臻",
             "name": "💗｜至臻｜网盘",
             "type": 3,
@@ -299,6 +282,17 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/config/jianpian.json"
+        },     
+        {
+            "key": "厂长影视",
+            "name": "💥｜厂长｜影视",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzymovie.com",
+            "jar":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260228/bawx/02280827.png"
         },        
         {
             "key":"咕咕动漫",
