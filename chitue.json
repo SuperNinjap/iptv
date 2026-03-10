@@ -38,7 +38,7 @@
 				"ratio": 1.5
 			},
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-		},        
+		},       
         {
             "key": "wogg",
             "name": "💗｜玩偶｜网盘",
@@ -74,23 +74,6 @@
                     "https://666.666291.xyz",
                     "https://www.muou.site",
                     "https://www.muou.asia"
-                ]
-            }
-        },
-        {
-            "key": "蜡笔",
-            "name": "💗｜蜡笔｜网盘",
-            "type": 3,
-            "api": "csp_MacCMS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "site": [
-                    "https://www.labi88.sbs",
-                    "https://feimao666.fun",
-                    "http://feimao888.fun"
                 ]
             }
         },
@@ -273,6 +256,130 @@
 			},
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
 		},        
+		{
+            "key": "p2t",
+            "name": "🍊 盘搜┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+           "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
+        },
+        {
+            "key": "pansougaoma",
+            "name": "🍏 盘搜高码┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "type:tianyi,type:115,type:quark,type:aliyun,type:uc,keywords:HDR,keywords:DV,keywords:杜比,keywords:杜比视界,keywords:高码60",
+                "proxy": "noproxy",
+                "douban": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/douban.json",
+                "danmu": true
+            },
+                "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
+        }, 
+        {
+            "key": "quarkp2t",
+            "name": "⛱️ 夸克┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "type:quark"
+            },			 
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
+        },
+        {
+            "key": "aliyunp2t",
+            "name": "⛱️ 阿里云┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "type:aliyun"
+            }
+        },
+        {
+            "key": "ucp2t",
+            "name": "⛱️ UC┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "type:uc"
+            },			
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
+        },
+        {
+            "key": "115p2t",
+            "name": "⛱️ 115┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "type:115"
+            },			
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
+        },
+        {
+            "key": "天翼p2t",
+            "name": "⛱️ 天翼┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "type:tianyi"
+            },			
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
+        },
+        {
+            "key": "magnet",
+            "name": "⛱️ 磁力┃p2t",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+                "tgsearch_url": "https://zxbabyps.banye.tech:7777",
+                "tgsearch_media_url": "https://zxbabyps.banye.tech:7777",
+                "channellist": "type:magnet"
+            },			 
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
+        },		
         {
             "key": "金牌影视",
             "name": "💥｜金牌｜影视",
@@ -292,6 +399,26 @@
             "ext": []
         },
         {
+            "key": "jianpian",
+            "name": "💥｜荐片｜影视",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/config/jianpian.json"
+        },     
+        {
+            "key": "厂长影视",
+            "name": "💥｜厂长｜影视",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzymovie.com",
+            "jar":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260228/bawx/02280827.png"
+        },        
+        {
             "key":"咕咕动漫",
             "name":"🌸｜咕咕｜动漫",
             "type":3,
@@ -299,16 +426,6 @@
             "api":"csp_AppGet",
             "ext":{"url":"https://www.gugu3.com","dataKey":"nKfZ8KX6JTNWRzTD","dataIv":"nKfZ8KX6JTNWRzTD"}
         },
-        {
-            "key": "jianpian",
-            "name": "💙｜荐片｜P2P",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/config/jianpian.json"
-        },
-
         {
             "key": "Huya",
             "name": "✨｜虎牙｜直播",
@@ -874,7 +991,7 @@
 		{
 				"name": "潇雨萌萌",
 				"type": 0,
-				"url": "http://43.251.226.89:8080/live.txt",
+				"url": "http://www.xymm.de5.net:8880/live.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -898,7 +1015,7 @@
 	    {
 				"name": "JackTv",
 				"type": 0,
-				"url": "https://jacktvbot.946985.filegear-sg.me/get.php?username=tg_9tvq8fhx&password=jtbebky3z9w8&type=m3u_plus",
+				"url": "https://php.946985.filegear-sg.me/test.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "https://epg.946985.filegear-sg.me",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -1177,6 +1294,18 @@
 				}
 		},	
 		
+        {
+				"name": "CN",
+				"type": 0,
+				"url": "https://live.264788.xyz/sub/02Rs7gSs8uOpoqmE5q4cFvcsWdHFhI/txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+		},			
 		{
 				"name": "cat",
 				"type": 0,
@@ -1190,6 +1319,18 @@
 				}
 		},
 		
+        {
+				"name": "潇雨蒙蒙",
+				"type": 0,
+				"url": "http://156.238.248.80:8880/live.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+		},			
 		{
 				"name": "自用测试",
 				"type": 0,
