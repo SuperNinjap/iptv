@@ -943,18 +943,6 @@
 				}
 		},
 		{
-				"name": "JXDX",
-				"type": 0,
-				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/JXDX.txt",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-				"catchup": {
-					"type": "append",
-					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-				}
-		},		
-		{
 				"name": "JMD",
 				"type": 0,
 				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/rain12335/zbtv/main/jmd.m3u",
