@@ -38,7 +38,7 @@
 				"ratio": 1.5
 			},
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-		},   
+		},   		
 		{
             "key": "油管jar",
             "name": "⛽️｜油管｜视频",
@@ -50,9 +50,9 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": "YoutubeSpider$$$PL动作片#PL科幻片#PD沙雕穿越#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#PD短剧#PL谍战剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧#PDTVBComedy",
+            "ext": "YoutubeSpider$$$PL动作片#PL科幻片#香港片#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#经典音乐#PL海洋#PDTVBComedy#燕三嘤嘤嘤#解密狗#星辰趣味屋#麻薯波比呀Official#中规中矩",
             "filterable": 1,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro2.jar"
         },         
         {
             "key": "服务器油管go",
@@ -65,7 +65,7 @@
             },
             "searchable": 1,
             "changeable": 1,			
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/protest.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro2.jar"
         },
         {
             "key": "油管webjar",
@@ -80,7 +80,7 @@
             },
             "ext": "YoutubeSpider1$$$PL动作片#PL科幻片#PD沙雕穿越#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#PD短剧#PL战争剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧",
             "filterable": 1,  
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro1.jar"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro2.jar"
         },
         
         {
@@ -913,7 +913,7 @@
                 "channellist": "type:tianyi"
             },			
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
-        },
+        },      
         {
             "key": "magnet",
             "name": "⛱️ 磁力┃p2t",
@@ -1082,18 +1082,10 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
 		},			
- 	    {
-            "name": "XGP",
-            "type": 0,
-            "url": "https://live.tv.darwinchow.com/sub/02RR3LMHiO27UcLxeGnq7RQOXGP405/txt" ,
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },     		
 		{
 				"name": "cat",
 				"type": 0,
-				"url": "https://live.catvod.com/live.php?token=61449a63ba62ac5b649dfbc65355b24c0a79eccc34570532bec30445e8eefa9b",
+				"url": "https://live.catvod.com/live.php?token=f4da82fda6783cf1fe74ac764e0cb471ce17a3d5650c2f8ba2e250faaf6bfe9d",
 				"ua": "Goiptv/8.8.8",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -1197,7 +1189,103 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		      },	
+		      },	       
+		      {
+            "name": "🦄地方直播 TG:@usfgrjk",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+        }, 
+        {
+            "name": "🦄地方直播2 TG:@usfgrjk",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
+        }, 
+        {
+            "name": "🦄电视家",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u"
+        },
+        {
+            "name": "🦄mytv",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://tv.iill.top/m3u/MyTV"
+        },
+       {
+            "name": "🦄港台",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
+        },
+        {
+            "name": "🦄74源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://im5k.fun/vip.m3u"
+        },
+        {
+            "name": "🦄中港台直播源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://t.freetv.fun/m3u/playlist.txt"
+        },
+        {
+            "name": "🦄台湾欢乐看源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://ezc.xtvantsc.xyz/欢乐看.txt"
+        },
+        {
+            "name": "🦄4GTV(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
+        },
+        {
+            "name": "🦄小蚂蚁直播(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://ge.html-5.me//ii/%E5%B0%8F%F0%9F%90%9C%E8%9A%82%E8%9A%81%E7%9B%B4%E6%92%AD%EF%BC%88%E5%BF%85%E9%A1%BB%E7%94%A8%E7%A7%91%E5%AD%A6%E5%B7%A5%E5%85%B7%E5%8F%B0%E6%B9%BE%E8%8A%82%E7%82%B9%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B9%EF%BC%89.txt"
+        },
+        {
+            "name": "🦄台湾频道(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
+        {
+            "name": "🦄海豚iptvpro🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://hufa.zabc.net:8080/iptvpro.txt"
+        },
+        {
+            "name": "🦄安博(梯子)🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博"
+        },
+        {
+            "name": "🦄港台大陆频道🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"
+        },
+        {
+            "name": "🦄港台大陆频道无18",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"
+        },
+        {
+            "name": "🦄xxx视频资源🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+        },
  	    {
             "name": "风云TV",
             "type": 0,
