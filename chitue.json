@@ -50,7 +50,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": "YoutubeSpider$$$PL动作片#PL科幻片#香港片#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#经典音乐#PL海洋#PDTVBComedy#燕三嘤嘤嘤#解密狗#星辰趣味屋#麻薯波比呀Official#中规中矩",
+            "ext": "YoutubeSpider$$$PL动作片#PL科幻片#PL香港片#PL中国动漫#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#经典音乐#PLTVBComedy#燕三嘤嘤嘤#解密狗#星辰趣味屋#麻薯波比呀Official#中规中矩",
             "filterable": 1,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro2.jar"
         },         
@@ -138,6 +138,28 @@
                     "https://xiaomi666.fun",
                     "https://www.mihdr.top",
                     "https://www.zhizhenpan.fun"
+                ]
+            }
+        },        
+        {
+            "key": "蜡笔",
+            "name": "💗｜蜡笔｜网盘",
+            "type": 3,
+            "api": "csp_MacCMS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "site": [
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
+                    "https://feimao666.fun",
+                    "http://feimao888.fun",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocgege.shop"
                 ]
             }
         },
@@ -281,6 +303,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0
+        },        
+        {
+            "key": "FourKZn",
+            "name": "💗｜4K｜指南",
+            "type": 3,
+            "api": "csp_FourKZn",
+            "searchable": 1,
+            "filterable": 0,
             "changeable": 0
         },
 		{   
@@ -614,6 +645,22 @@
                 "type": "list"
             },
             "timeout": 30
+        },        
+        {
+            "key": "myxunlei",
+            "name": "❤️｜我的┃迅雷",
+            "type": 3,
+            "api": "csp_MyXunlei",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/config/myxunlei.json"
         },
         {
             "key": "商店",
@@ -788,6 +835,21 @@
                     "移动"
                 ]
             }
+        },        
+        {
+            "key": "PanSouXunlei",
+            "name": "💖｜迅雷┃盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "hide": 1,
+            "ext": {
+                "sources": [
+                    "迅雷"
+                ]
+            }
         },
         {
             "key": "PanSouMagnet",
@@ -828,7 +890,7 @@
         },
         {
             "key": "pansougaoma",
-            "name": "🍏 盘高┃p2t",
+            "name": "🍏 高码┃p2t",
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 120,
