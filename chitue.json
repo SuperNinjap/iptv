@@ -50,7 +50,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": "YoutubeSpider$$$PL动作片#PL科幻片#PL香港片#PL中国动漫#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#经典音乐#PLTVBComedy#燕三嘤嘤嘤#解密狗#星辰趣味屋#麻薯波比呀Official#中规中矩",
+            "ext": "YoutubeSpider$$$PL动作片#PL科幻片#PL香港电影#PL动漫#新闻直播#PL风光#经典音乐#PLtvbdrama粤语#燕三嘤嘤嘤#解密狗#星辰趣味屋#麻薯波比呀Official#中规中矩",
             "filterable": 1,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro2.jar"
         },         
