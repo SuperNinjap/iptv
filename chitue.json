@@ -313,7 +313,19 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0
-        },
+        }, 
+        {
+   "key": "Guanying",
+   "name": "观影|网盘|磁力",
+   "type": 3,
+   "api": "csp_Guanying",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json$$$https://www.教父.com/$$$noproxy$$$1$$$https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/guanying.txt$$$GUANYING",	
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
+  },
 		{   
 		    "key":"AlistShare",
 		    "name":"💗｜网盘｜合集",
