@@ -1145,9 +1145,21 @@
 				}
 		},			
 		{
-				"name": "cat",
+				"name": "cat1",
 				"type": 0,
-				"url": "https://live.catvod.com/live.php?token=f4da82fda6783cf1fe74ac764e0cb471ce17a3d5650c2f8ba2e250faaf6bfe9d",
+				"url": "https://live.catvod.com/live.php?token=https://iptv.catvod.com/list.php?token=74d18e88f990677f854b72aa197589bd118f3d8c5437b43abd4a333cb9fa2660",
+				"ua": "Goiptv/8.8.8",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+		},		
+		{
+				"name": "cat2",
+				"type": 0,
+				"url": "https://live.catvod.com/live.php?token=be5d939de7fa25b3128bf1f8a39e05816bdc8f59ce96447f09279d6e6517c87a",
 				"ua": "Goiptv/8.8.8",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
