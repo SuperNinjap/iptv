@@ -36,9 +36,9 @@
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
-			},
+			},   
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-		},   		
+		},   					
 		{
             "key": "油管jar",
             "name": "⛽️｜油管｜视频",
@@ -82,7 +82,6 @@
             "filterable": 1,  
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pro2.jar"
         },
-        
         {
             "key": "wogg",
             "name": "💗｜玩偶｜网盘",
@@ -313,19 +312,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0
-        }, 
-        {
-   "key": "Guanying",
-   "name": "观影|网盘|磁力",
-   "type": 3,
-   "api": "csp_Guanying",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json$$$https://www.教父.com/$$$noproxy$$$1$$$https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/guanying.txt$$$GUANYING",	
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
-  },
+        }, 		
 		{   
 		    "key":"AlistShare",
 		    "name":"💗｜网盘｜合集",
@@ -342,8 +329,7 @@
 				"ratio": 1.1
 			},
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
-		},        
-
+		},                  
         {
             "key": "金牌影视",
             "name": "💥｜金牌｜影视",
@@ -1157,9 +1143,9 @@
 				}
 		},			
 		{
-				"name": "cat1",
+				"name": "cat港台",
 				"type": 0,
-				"url": "https://live.catvod.com/live.php?token=https://iptv.catvod.com/list.php?token=74d18e88f990677f854b72aa197589bd118f3d8c5437b43abd4a333cb9fa2660",
+				"url": "https://live.catvod.com/?tk=851f70cda7765e3533d277cadc7590bf",
 				"ua": "Goiptv/8.8.8",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -1169,9 +1155,9 @@
 				}
 		},		
 		{
-				"name": "cat2",
+				"name": "cat央卫",
 				"type": 0,
-				"url": "https://live.catvod.com/live.php?token=be5d939de7fa25b3128bf1f8a39e05816bdc8f59ce96447f09279d6e6517c87a",
+				"url": "https://iptv.catvod.com/list.php?token=93d7e35e34614ffb338f19b4422fba88fb52f9503f7de8f601945b49242e85bc",
 				"ua": "Goiptv/8.8.8",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -1183,7 +1169,7 @@
         {
 				"name": "潇雨萌萌",
 				"type": 0,
-				"url": "http://43.251.226.110:9991/132710",
+				"url": "http://43.251.226.110:9991/nzilmk",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
