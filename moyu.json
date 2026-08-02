@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/1792552/2026-07-30/training_record/485647431_4_1785419052485.jar;md5;dfe949b1e7e5be2c719659d8c037693c",
+  "spider": "https://media.meilinvps.com/download.php?key=NWI3OTFmNjRhZGJjNjMyMzU3MjI5MjY1NGM0MWFkZWI6ZGM2ZTdkZjkxZGUzYTE5OTZiMzA1MWM5NmRjMjkwYjk4OGJlODUyNDZiMGI1Njg3NjJiMGFiMTJjOGMyOWNjNGMxOTRmMjYwNTc1N2M3NTI5ODFiMTQ0YmQ4ZjBkMGQzNzkxNGYzMDJiMDVmODg4MDk1NmZiMDg0MWQ5ZmM2OTM0YzYxMmVhZWQ2YmM0Yjk4NmFhNTk2ZmFlYTU5ZGI3OA;md5;4ec571b7bac0753ff8d6a228b881103b",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -18,14 +18,14 @@
           "tmdb": "https://6800.kstore.vip/tmdb.json"
         }
       }
-    },             
+    },
     {
       "key": "FishConfig",
       "name": "🍼┆设置┆中心",
       "type": 3,
       "api": "csp_FishConfig"
     },	
-		{
+    {
 			"key": "网盘配置",
 			"name": "🔨️┆网盘┆配置",
 			"type": 3,
@@ -38,70 +38,24 @@
 				"ratio": 1.5
 			},   
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-		},		       		
-		{
-      "key": "油管py",
-      "name": "👾️┆PY┆油管",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/youtube.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "ext": {
-        "proxy": "http://127.0.0.1:10172",
-        "youtube_txt": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/youtube.json"
-      },
-      "filterable": 1
-    },
-		{
-			"key":"Youtube",
-			"name":"⛽️️┆油管┆视频",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout":120,
-			"ext":{
-				"token":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
-				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			},			
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-		},		
-		{
-			"key":"bili",
-			"name":"📚️┆哔哩┆合集",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout":60,
-			"playerType": 2,
-			"ext":{
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":"buvid3=4A568D44-90BC-AA9F-65ED-3429A5638B1400173infoc; b_nut=1776583700; bsource=search_google; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; buvid4=45141449-1E8E-B726-0423-596A7B67BE1202661-126041915-yMP1ArBB5q4BVQyvptHqNA%3D%3D; _uuid=82CD1EC4-4852-5710D-5D92-E2E103D1FBD5701956infoc; buvid_fp=e134e207dc3a7d1f93cd2b4235067e61; DedeUserID=2333; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzc2ODYxNDcsImlhdCI6MTc3NzQyNjg4NywicGx0IjotMX0._6zD8AmSSkhogBo4rO97NOlORNVCItxFpoOCNRVTffo; bili_ticket_expires=1777686087; SESSDATA=0bc8058d%2C1792978992%2C9b7e8%2A42CjB_Z3sETMvapbExdz1_E02sXwfnZropPLjYvuxs5vJgm-abwtqxm-4momW-thxEl4ASVmtlNE9INlNmUks3S28tZWVhaFk2QnRKZk5MX21wRlkybHdwQXltaE11WEpzVFkyNkFoWG14Ry1McmkyallGNlJEMVdzSTd4WTlBNDk3SlY5Z0IwdVBnIIEC; bili_jct=016a47f9d56d28bdd0fad714cf39076c; DedeUserID=476091398; DedeUserID__ckMd5=27900e9fc073f43b; sid=7b5iov93; b_lsid=A2DC34BF_19DD6E7A576"
-			},			 
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-		},    			
+		},
     {
       "key": "ALLLive",
       "name": "🌟┆星河┆共影",
       "type": 3,
       "api": "csp_ALLLive",
       "searchable": 1
+    },
+    {
+      "key": "bili",
+      "name": "🎨┆笔触┆琉璃",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "cookie": ""
+      }
     },
     {
       "key": "FishPs",
@@ -111,6 +65,7 @@
       "searchable": 1,
       "filterable": 0
     },
+
     {
       "key": "gying",
       "name": "👀┆观影┆4K",
@@ -132,30 +87,23 @@
           "https://www.黑客帝国.com"
         ]
       }
-    },        
-    {
-            "key": "PanSouGo",
-            "name": "🧶️┆PG┆盘搜️",
-            "type": 3,
-            "api": "csp_PanSouGo",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 60,
-              "ext": {
-                "token":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
-                "danmu": "0",
-                "proxy": "noproxy",
-                "siteurl": "https://so.252035.xyz/",
-                "panlist": ["115","aliyun","baidu","quark","tianyi","mobile","magnet"],
-                "plugins": "all",
-                "filters": {
-                  "include": ["4K","REMUX","ISO","HDR","SDR","DV","原盘","高码","臻彩","真彩","杜比视界"],
-                  "exclude": []
-                }
-              },			
-              "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-        },		
-		{   
+    },				
+    {"key":"PanSouGo","name":"🕸️┆盘搜┆搜索","type":3,"api":"csp_PanSouGo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":
+			{
+				"token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+				"siteurl": "",
+				"proxy": "noproxy",
+				"danmu": "0",
+				"plugins": "all",
+				"panlist": "all",
+				"filters": {
+					"include": [],
+					"exclude": ["广告", "预告"]
+				}
+			},			 
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"		
+		},
+    {   
 		    "key":"AlistShare",
 		    "name":"💗️┆网盘┆合集",
 		    "type":3,
@@ -171,7 +119,7 @@
 				"ratio": 1.1
 			},
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
-		},           
+		},             
     {
       "key": "Guazi",
       "name": "🍉┆瓜子┆影视",
@@ -197,42 +145,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "ChuXin",
-      "name": "💕┆初心┆音乐",
-      "type": 3,
-      "api": "csp_ChuXin",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "aiting",
-      "name": "🎧┆爱听┆音乐",
-      "type": 3,
-      "api": "csp_AiTingMusic",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Music24bit",
-      "name": "🎼┆无损┆音乐",
-      "type": 3,
-      "api": "csp_Music24bit",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "categories": [
-          "周杰伦",
-          "林俊杰",
-          "陈奕迅",
-          "邓紫棋",
-          "薛之谦"
-        ]
-      }
-    },             
+    },    
     {
       "key": "Local",
       "name": "📁┆文件┆浏览",
@@ -257,15 +170,14 @@
       "timeout": 60
     }
   ],
-  "lives": [		
-
-			{
+  "lives": [
+    {
 				"name": "最强国内直播(合并版)",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://cdn.jsdmirror.com/gh/fanmingming/live@master/tv/{name}.png",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -277,19 +189,11 @@
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://cdn.jsdmirror.com/gh/fanmingming/live@master/tv/{name}.png",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-			},
-			{
-				"name": "最强国内直播(真低码)",
-				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ysptx.m3u",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://cdn.jsdmirror.com/gh/fanmingming/live@master/tv/{name}.png"
 			},
 			{
 				"name": "最强国内直播(EPG-1天回看)",
@@ -297,16 +201,28 @@
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://cdn.jsdmirror.com/gh/fanmingming/live@master/tv/{name}.png",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-			},			
+			},				
 			{
-				"name": "JX",
+				"name": "DX",
 				"type": 0,
-				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/JX.txt,
+				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/DX.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+		},					
+		{
+				"name": "YD",
+				"type": 0,
+				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/YD.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -315,7 +231,7 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
 		},		
-			{
+		{
 				"name": "JMD",
 				"type": 0,
 				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/rain12335/zbtv/main/jmd.m3u",
@@ -326,7 +242,7 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		},		
+		},					
 		{
 				"name": "tv123",
 				"type": 0,
@@ -338,7 +254,7 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		},			
+		},				
 		{
 				"name": "Gary",
 				"type": 0,
@@ -351,19 +267,6 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
 		},			
-		{
-				"name": "Jp",
-				"type": 0,
-				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-				"catchup": {
-					"type": "append",
-					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-				}
-		},	
-		
 		{
 				"name": "BOX1",
 				"type": 0,
@@ -387,10 +290,11 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		},			{
-				"name": "tv123",
+		},				
+		{
+				"name": "Jp",
 				"type": 0,
-				"url": "http://tv123.vvvv.ee/tv.m3u",
+				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -398,9 +302,9 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		},		
+		},				
 		{
-				"name": "俄罗斯",
+				"name": "Ru",
 				"type": 0,
 				"url": "https://ilook.epg.one/5CM5SY98BF24PL/2",
 				"ua": "okhttp/3.15",
@@ -410,9 +314,9 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		},			
+		},				
 		{
-				"name": "全球",
+				"name": "World",
 				"type": 0,
 				"url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u",
 				"ua": "okhttp/3.15",
@@ -422,8 +326,8 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		},							
-	    {
+		},			   
+		{
 				"name": "所长",
 				"type": 0,
 				"url": "https://iptv.8plus.eu.org/get.php?username=tg_ud6l0v6l&password=ihwr05568hge&type=m3u_plus",
@@ -434,7 +338,19 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		}
+		},               
+		{
+				"name": "易发",
+				"type": 0,
+				"url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+		        }	
   ],
   "parses": [],
   "flags": [],
