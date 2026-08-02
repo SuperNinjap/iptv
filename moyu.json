@@ -155,7 +155,6 @@
               },			
               "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
         },		
-        { "key": "盘链", "name":  "📀️┆盘链┆网盘", "type": 3, "api": "csp_PingLian", "searchable": 1, "timeout":60, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json$$$https://pinglian.lol$$$$$$0$$$$$$PANLIAN$$$USER1289675396@qq.comPASSadgjmptw","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"},
 		{   
 		    "key":"AlistShare",
 		    "name":"💗️┆网盘┆合集",
