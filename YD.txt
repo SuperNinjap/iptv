@@ -1,7 +1,3 @@
-#EXTM3U x-tvg-url="https://diyp0731.112114.xyz/pp.xml.gz"
-#江西移动内网源，仅限江西移动网络使用。
-#EXT-X-SUB-URL https://live.404003.xyz/m3u/jxyd.m3u
-
 
 4K,#genre#
 
