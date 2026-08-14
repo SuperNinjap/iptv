@@ -34,7 +34,7 @@
         ]
       },
       "timeout": 120
-    },           
+    },        
     {
       "key": "山楂",
       "name": "🍬山楂[2K]",
@@ -80,16 +80,6 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
-    },
-    {
-      "key": "瓜子影视",
-      "name": "🎞️瓜子[影视]",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
     },
     {
       "key": "爱营",
@@ -140,7 +130,38 @@
         ]
       },
       "timeout": 60
+    },            
+    {
+      "key": "xigua",
+      "name": "🍉西瓜[采集]",
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1
+    },       
+    {
+      "key": "ruyi",
+      "name": "🎉如意[采集]",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1
+    },        
+    {
+      "key": "zuida",
+      "name": "➿,最大[采集]
+      "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1
     },    
+    {
+      "key": "瓜子影视",
+      "name": "🎞️瓜子[影视]",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
     {
       "key": "天堂",
       "name": "🎞️天堂[影视]",
