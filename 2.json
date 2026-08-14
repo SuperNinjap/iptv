@@ -14,19 +14,6 @@
       "ext": "https://jk.catvod.site/jk/t4/douban.json"
     },   
     {
-      "key": "综合设置",
-      "name": "⚙️综合[配置]",
-      "type": 3,
-      "api": "csp_PanSettings",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "观影",
       "name": "🎬观影[4K]",
       "type": 3,
@@ -68,7 +55,56 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://www.vip1949.com/"
+    },     
+    {
+      "key": "七味",
+      "name": "🎬七味[2K]",
+      "type": 3,
+      "api": "csp_Qiwei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.68
+      },
+      "ext": {
+        "site": [
+          "https://www.qwmp4.com",
+          "https://www.qwmkv.com",
+          "https://www.qwfilm.com",
+          "https://www.qwfun.com",
+          "https://www.qwshow.com",
+          "https://www.qwavi.com",
+          "https://www.qnnull.com",
+          "https://www.qnhot.com",
+          "https://www.qncool.com",
+          "https://www.qwfree.com"
+        ]
+      },
+      "timeout": 60
     },    
+    {
+      "key": "天堂",
+      "name": "🎞️天堂[影视]",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      }
+    }, 
     {
       "key": "文才",
       "name": "✏️文才[影视]",
