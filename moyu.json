@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar;md5;e59b88f36887b0fb212ae117a3126a56",
+  "spider": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -209,7 +209,20 @@
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "mj"
       }
-    },    
+    },     
+    {
+      "key": "采集集合",
+      "name": "采集集合",
+      "type": 4,
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "0",
+      "changeable": 1
+    },
     {
       "key": "Gugu",
       "name": "🐤┆咕咕┆动漫",
