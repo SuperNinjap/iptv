@@ -145,14 +145,6 @@
       "searchable": 1
     },
     {
-      "key": "wencai",
-      "name": "✏️┆文才┆影视",
-      "type": 3,
-      "api": "csp_WenCai",
-      "searchable": 1,
-      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },    
-    {
       "key": "Jianpian",
       "name": "🧲┆荐片┆磁力",
       "type": 3,
@@ -161,68 +153,26 @@
       "filterable": 1
     },             
     {
-      "key": "云朵影视",
-      "name": "☁️┆云朵┆APP",
-      "type": 3,
-      "api": "csp_App3Q",
+      "key": "xigua",
+      "name": "🍉┆西瓜┆采集",
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/xml/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "AZ0bCdOUvQVBOaiOxVOpdEjrR4QphBZmOtfGlbHG6yePOQHP0PKG+safVrYPCAhoMIReG/eNPkJ940acnPCQUzZ+wbnvvf/DO90pT4sDpCqRGu2wBUipuEoesDMDXzhoA2T+fyRa0Lxa82ayevF21bxiq6KmXFrD2j4Bsa0tbDiU7Y9hOdqx9jX0FrMnTdKPj0k/mTQH28BhJNa/yTEkjupoM7cFcYsntR0OFLsZE3HQHhF6e/ObCwam/Yzso4ca40vMI1IHtVOuNJFFY4nn6Dzkep46et1fSnuQbFnnJyPJvNWaSeob0RZn8GnOGl33y5RK2+Aq9/sfkDLVvGoD3d9JHJDApmJ3mMuRYv2iFwa2ccL5aQ6APQi9KLRgQnw2u68aIrGFNLtr3to7DzGV+g4="
-    },
+      "quickSearch": 1
+    },       
     {
-      "key": "南枝",
-      "name": "🌱┆南枝┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "nz"
-      }
-    },
-    {
-      "key": "沐辞",
-      "name": "🍃┆沐辞┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "mc"
-      }
-    },
-    {
-      "key": "观澜",
-      "name": "🎞️┆观澜┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "gl"
-      }
-    },
-    {
-      "key": "孟葭",
-      "name": "🌿┆孟葭┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "mj"
-      }
-    },     
-    {
-      "key": "采集集合",
-      "name": "采集集合",
-      "type": 4,
-      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/",
+      "key": "ruyi",
+      "name": "🎉┆如意┆采集",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
       "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "ext": "0",
-      "changeable": 1
-    },
+      "quickSearch": 1
+    },        
+    {
+      "key": "zuida",
+      "name": "🏍┆最大┆采集",      
+      "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1
+    },             
     {
       "key": "Gugu",
       "name": "🐤┆咕咕┆动漫",
