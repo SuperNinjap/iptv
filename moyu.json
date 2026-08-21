@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+  "spider": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -58,6 +58,23 @@
       }
     },		
     {
+            "key": "YTB|挂代",
+            "name": "YTB|PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main//apiv19ytb.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": {
+                "youtube_txt": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/youtube.json",
+                "cookie": "/storage/emulated/0/Download/cookies.txt"
+            },
+            "filterable": 1
+        },
+    {
       "key": "油管py",
       "name": "👾️┆PY┆油管",
       "type": 3,
@@ -104,7 +121,7 @@
           "https://www.黑客帝国.com"
         ]
       }
-    },				
+    },
     {"key":"PanSouGo","name":"🧶️┆盘搜┆搜索","type":3,"api":"csp_PanSouGo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":
 			{
 				"token": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
