@@ -59,7 +59,7 @@
     },		
     {
             "key": "YTB|挂代",
-            "name": "YTB|PY",
+            "name": "👾️┆PY┆油管",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main//apiv19ytb.py",
             "searchable": 1,
@@ -74,23 +74,6 @@
             },
             "filterable": 1
         },
-    {
-      "key": "油管py",
-      "name": "👾️┆PY┆油管",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/youtube.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "ext": {
-        "proxy": "http://127.0.0.1:10172",
-        "youtube_txt": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/youtube.json"
-      },
-      "filterable": 1
-    },
     {
       "key": "FishPs",
       "name": "🐟┆鱼鱼┆盘搜",
