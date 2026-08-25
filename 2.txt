@@ -1,0 +1,2157 @@
+
+英国 · 本土,#genre#
+
+英国广播公司第一台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169062&extension=ts&play_token=XlZuHYYvAq
+英国广播公司第二台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169063&extension=ts&play_token=scnBDEeL01
+英国广播公司第三台 / 儿童台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=394411&extension=ts&play_token=xVShv4pGEp
+英国广播公司第四台 / 幼儿台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=394409&extension=ts&play_token=SIu2HWnXQI
+独立电视台第一台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169067&extension=ts&play_token=1si4kJICEd
+独立电视台第二台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169064&extension=ts&play_token=5g8dGfasce
+独立电视台第三台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169065&extension=ts&play_token=W8paTJCXTA
+独立电视台第四台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169066&extension=ts&play_token=ONdcmOmLCg
+第四频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169068&extension=ts&play_token=pWqyGJ7lr0
+第五频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169069&extension=ts&play_token=cigMjSakh7
+娱乐频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169070&extension=ts&play_token=OzYTQPCnUB
+更多第四频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169071&extension=ts&play_token=dNpdRDgqkx
+
+英国 · 新闻,#genre#
+
+英国广播公司新闻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169077&extension=ts&play_token=rNfxHP1Pdm
+天空新闻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169079&extension=ts&play_token=DEWl8vzFFN
+英国新闻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169080&extension=ts&play_token=L0oSM6aaM2
+有线电视新闻网,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169082&extension=ts&play_token=usfEiQ9PSk
+消费者新闻与商业频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169083&extension=ts&play_token=m9QrobUNzV
+彭博电视台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169084&extension=ts&play_token=lux7Wr8DCZ
+
+英国 · 儿童,#genre#
+
+天空儿童台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169090&extension=ts&play_token=qKLCfchiyI
+尼克罗迪恩儿童频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169091&extension=ts&play_token=AgcDgZ1kzN
+尼克小童频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169092&extension=ts&play_token=BT0MZScBZK
+卡通频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169093&extension=ts&play_token=h33SpMareO
+回旋镖动画频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169094&extension=ts&play_token=PysoVDQ13c
+
+英国 · 电影,#genre#
+
+天空影院首映台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169188&extension=ts&play_token=KPYEM8Z0tJ
+天空影院精选台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169189&extension=ts&play_token=AhsB2oAcoA
+天空影院动作台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169190&extension=ts&play_token=nDpUrHzlS8
+天空影院惊悚台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169191&extension=ts&play_token=1ZjckQFGlK
+天空影院喜剧台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169192&extension=ts&play_token=ZItk7EnzTD
+天空影院家庭台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169193&extension=ts&play_token=Ja0DOOzzhO
+天空影院剧情台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169194&extension=ts&play_token=3N8VCnsg5h
+天空影院科幻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169195&extension=ts&play_token=h95LjseXQp
+天空影院热播台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169196&extension=ts&play_token=R2KdDzNUwG
+天空影院经典台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169197&extension=ts&play_token=KjMHGIZcMr
+天空影院动画台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169198&extension=ts&play_token=wmOto3wBJE
+天空喜剧台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169199&extension=ts&play_token=PeM6tfEuTl
+天空大西洋台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169201&extension=ts&play_token=BGQjsKBPb6
+天空展播台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169202&extension=ts&play_token=cUPP3a20ar
+天空纪实台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169200&extension=ts&play_token=BnmClwjfrP
+天空极限台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169203&extension=ts&play_token=WC9OpgALfO
+科幻频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169204&extension=ts&play_token=SWkeCQri1O
+电影第四台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169205&extension=ts&play_token=yvSulgftwJ
+
+
+英国 · RAKUTEN,#genre#
+
+
+
+21跳街 ,https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
+宇宙前沿 ,https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
+犯罪节奏TV ,https://8e6c868c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lQmVhdF9ITFM/playlist.m3u8
+好奇当下 ,https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+成交或不成交 ,https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
+赏金猎犬 [地区限制] ,https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+鸭王朝 ,https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
+蛋头先生 ,https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8
+英国新闻 ,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
+硬核典当 ,https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8
+闹鬼TV ,https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
+地狱厨房 ,https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+地狱公路 ,https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8
+历史冲击 ,https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+历史猎人 ,https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+酒店督查 ,https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8
+INFAST ,https://lifestyle-rakuten.amagi.tv/playlist.m3u8
+内部犯罪 ,https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+爱宠 ,https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
+憨豆先生动画版 ,https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+神秘TV ,https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+流言终结者 ,https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
+我的时光电影网 ,https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+我的禅意健康TV ,https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+忍者勇士 ,https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
+新唐人英语 ,https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+流行 ,https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
+乐天英国热门电影 ,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+乐天英国动作电影 ,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+乐天英国喜剧电影 ,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+乐天英国剧情电影 ,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+乐天英国家庭电影 ,https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+乐天英国真人秀 ,https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+乐天英国爱情电影 ,https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+乐天英国科幻 ,https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+乐天英国惊悚片 ,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
+真实犯罪测试版 ,https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
+真实荒野 ,https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+红牛TV英国 ,https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+浪漫喜剧韩剧 ,https://7488d45c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JvbUNvbUtEcmFtYV9ITFM/playlist.m3u8
+美食频道 ,https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+美食频道 ,https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+网球+ ,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+脱口秀频道 ,https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
+设计网 ,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+小流行 ,https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+真实生活 ,https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
+Vevo嘻哈与节奏布鲁斯 ,https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+水熊 ,https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
+邪恶金枪鱼 ,https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
+世界大战TV ,https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+
+
+
+英国 · SAMSUNG,#genre#
+
+
+
+8选10猫 ,https://d1l7vcuh4hn9ei.cloudfront.net/8OutOf10Cats_GB.m3u8
+&TV国际 ,https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+阳光下的新生活 ,https://d36zu8tswi4fqu.cloudfront.net/playlist.m3u8
+半岛电视台 ,https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
+AMC丘比特 ,https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8
+AMC真人秀 ,https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
+美国达人秀 ,https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
+美国偶像 ,https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
+古董路演 ,https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8
+我们到了吗？ ,https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+年度艺术家  [地区限制],https://d3cm8xyrjwa22p.cloudfront.net/30504/88896035/hls/master.m3u8?ads.xumo_channelId=88896035
+血脉侦探 ,https://4399c7ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9NZWRpY2FsRGV0ZWN0aXZlc19ITFM/playlist.m3u8
+彭博TV+ (2160p),https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+生而为杀 ,https://amg00654-itv-amg00654c7-samsung-gb-1168.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-samsunggb/playlist.m3u8
+英国银幕经典 ,https://amg00654-itv-amg00654c25-samsung-gb-4838.playouts.now.amagi.tv/playlist.m3u8
+镜头下的混乱 ,https://amg26277-amg26277c7-samsung-gb-11285.playouts.now.amagi.tv/playlist.m3u8
+CNBC ,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+跟我一起用餐  [地区限制],https://amg00654-itvstudios-comedinewithmeu-samsunguk-m0euw.amagi.tv/playlist/amg00654-itvstudios-comedinewithmeu-samsunguk/playlist.m3u8
+柯南·奥布莱恩TV ,https://d1nu0yp2dagil0.cloudfront.net/Conan_OBrien_TV.m3u8
+犯罪与正义 ,https://d1vsdt3c2xcxl2.cloudfront.net/playlist.m3u8
+好奇当下 ,https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+日界线247 ,https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
+致命女人 ,https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+交易大师 ,https://amg00841-amg00841c10-samsung-gb-3033.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-dealmasterssamsung-samsunggb/playlist.m3u8
+成交或不成交美国版 ,https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8
+需求剧场 ,https://amg01487-amg01487c3-amgplt0002.playout.now3.amagi.tv/playlist/amg01487-amg01487c3-amgplt0002/playlist.m3u8
+丹尼斯与恶霸 ,https://d1upcw8nab85tc.cloudfront.net/dngn.m3u8
+赏金猎犬 ,https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8
+别告诉新娘  [地区限制],https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8
+鸭王朝 ,https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8
+完美搭档  [地区限制],https://amg07653-apmc-amg07653c4-samsung-gb-9942.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg07653-aparentmediacoinc-dudeperfectchannel-samsunggb/playlist.m3u8
+地球触控 ,https://amg01823-earthtouch-amg01823c1-samsung-gb-862.playouts.now.amagi.tv/playlist/amg01823-earthtouch-earthtouch-samsunggb/playlist.m3u8
+紧急247  [地区限制],https://d3cm8xyrjwa22p.cloudfront.net/30504/88896036/hls/master.m3u8?ads.xumo_channelId=88896036
+邪恶证据 ,https://9e7adb64.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9FdmlkZW5jZW9mRXZpbF9ITFM/playlist.m3u8
+进化地球 ,https://amg00276-amg00276c15-samsung-gb-3790.playouts.now.amagi.tv/playlist.m3u8
+家庭问答 ,https://amg00145-amg00145c23-samsung-gb-7654.playouts.now.amagi.tv/playlist.m3u8
+壁炉氛围 (2160p),https://d21izs34d0y5tl.cloudfront.net/Fireplace_4K_SONO20.m3u8
+法国24英语 ,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+英国新闻 ,https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist.m3u8
+GFN足球 ,https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8
+幽灵猎人  [地区限制],https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8
+精彩！电影 ,https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+精彩！浪漫 ,https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+H2O与朋友 ,https://dprx6ugrwz23t.cloudfront.net/H2O_Friends_GB.m3u8
+地狱厨房  [地区限制],https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8
+地狱公路 ,https://duplpbng64yvf.cloudfront.net/HighwayThruHell.m3u8
+历史猎人 ,https://amg00841-amg00841c9-samsung-gb-3032.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhunterssamsung-samsunggb/playlist.m3u8
+内部犯罪 ,https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
+国际米兰247 ,https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0002/playlist.m3u8
+干预 ,https://amg00276-amg00276c17-samsung-gb-3791.playouts.now.amagi.tv/playlist.m3u8
+INTAVEL ,https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8
+INWILD ,https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+杰克·汉纳 ,https://amg00111-hearstmediafast-amg00111c1-samsung-gb-2186.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-jackhanna-samsunggb/playlist.m3u8
+CJ ENM的K内容 ,https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
+Lifetime电影 ,https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8
+Live PD呈现 ,https://amg26277-amg26277c11-samsung-gb-11286.playouts.now.amagi.tv/playlist.m3u8
+选址选址选址 ,https://d30q6vjmdwhh1y.cloudfront.net/LocationLocationLocation_GB.m3u8
+LooLoo儿童 ,https://amg02757-amg02757c5-samsung-gb-5765.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkenfast-samsunggb/playlist.m3u8
+出狱后的爱 ,https://faedb543.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9Mb3ZlQWZ0ZXJMb2NrdXBfSExT/playlist.m3u8
+爱宠 ,https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
+爱地球 ,https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+玛莎与熊  [地区限制],https://amg01954-amg01954c2-samsung-gb-10391.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaandthebeareng-samsunggb/playlist.m3u8
+英国厨艺大师 ,https://d1nn4ic5ci0eid.cloudfront.net/MasterchefUKPoweredbyBanijay_GB.m3u8
+空难日 ,https://d1vx4007e1im6x.cloudfront.net/playlist.m3u8
+最多闹鬼 ,https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
+电影球UK ,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+憨豆先生动画版 ,https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8
+憨豆先生真人版 ,https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+神秘TV ,https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
+流言终结者 ,https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8
+自然时光 ,https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
+NBC新闻NOW ,https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+NEW KMOVIES ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
+NEW KPOP ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+忍者勇士 ,https://amg00654-itv-amg00654c27-samsung-gb-5494.playouts.now.amagi.tv/playlist.m3u8
+诺莱坞非洲高清 ,https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
+PGA巡回赛 ,https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+PICK猴子救援  [地区限制],https://d3cm8xyrjwa22p.cloudfront.net/30504/88896037/hls/master.m3u8?ads.xumo_channelId=88896037
+小小的我 ,https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
+英国点球大战 ,https://dvqpty1sb3rry.cloudfront.net/PointlessUKPoweredbyBanijay_GB.m3u8
+宝可梦 ,https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8
+流行 ,https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+弹出  [地区限制],https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
+天桥骄子 ,https://d2zkt0rpioct1v.cloudfront.net/ProjectRunway_GB.m3u8
+疯狂兔子入侵 ,https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
+拉力.TV FAST+ ,https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
+真实犯罪  [地区限制],https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8
+真实荒野  [地区限制],https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8
+红牛TV ,https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
+路透TV  [地区限制],https://d5bxknkoxytmb.cloudfront.net/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8
+路透TV ,https://amg00453-reuters-amg00453c1-samsung-gb-2113.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8
+河中巨怪 ,https://amg00654-itv-amg00654c24-samsung-gb-8890.playouts.now.amagi.tv/playlist.m3u8
+新丁警花  [地区限制],https://amg00353-amg00353c56-samsung-gb-8654.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueenglishvtt-samsunggb/playlist.m3u8
+太空直播 ,https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8
+幸存者 ,https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
+地球母亲野生  [地区限制],https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
+CEO日记 ,https://d27cdwalt3313h.cloudfront.net/TheDiaryofACEO_GB.m3u8
+格雷厄姆·诺顿秀 ,https://amg00654-itv-amg00654c14-samsung-gb-2308.playouts.now.amagi.tv/playlist.m3u8
+酒店督查 ,https://amg00654-itv-amg00654c4-samsung-gb-8889.playouts.now.amagi.tv/playlist.m3u8
+杰米·奥利弗频道 ,https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+乐高频道 ,https://dltiqboxjw21d.cloudfront.net/index.m3u8
+奥斯本一家 ,https://d1w2am5ftcgjx5.cloudfront.net/TheOsbournes_GB.m3u8
+邪恶金枪鱼频道 ,https://amg00353-lionsgatestudio-wickedtuna-samsunguk-ajti1.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsunguk/playlist.m3u8
+小流行 ,https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+临界点 ,https://d3qecywadovut1.cloudfront.net/TippingPointPoweredbyBanijay_GB.m3u8
+顶级巴萨 ,https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8
+Trace UK ,https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+Trace Urban ,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+真实犯罪UK ,https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+U&欢笑  [地区限制],https://amg00886-uktvmedialimite-uktvplaylaughs-samsunguk-ow1dn.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplaylaughs-samsunguk/playlist.m3u8
+U&真实英雄  [地区限制],https://amg00886-uktvmedialimite-uktvplayheroes-samsunguk-vy8op.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayheroes-samsunguk/playlist.m3u8
+U&过去  [地区限制],https://amg00886-uktvmedialimite-uktvplayuncovered-samsunguk-pxi83.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayuncovered-samsunguk/playlist.m3u8
+U&交通  [地区限制],https://amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk-36uja.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk/playlist.m3u8
+电子游戏英雄 ,https://amg01076-amg01076c16-samsung-gb-4793.playouts.now.amagi.tv/playlist/amg01076-lightning-kcvideogameseng-samsunggb/playlist.m3u8
+水熊 ,https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+wedo电影  [地区限制],https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8
+车轮与钢铁 ,https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8
+野生星球 ,https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+Wipeout Xtra ,https://d36nnn435goed2.cloudfront.net/WipeoutXtraPoweredbyBanijay_GB.m3u8
+世界扑克巡回赛 ,https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+世界大战TV ,https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
+
+
+
+英国 · 备用,#genre#
+
+回旋镖,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905954.m3u8
+卡通网络,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905951.m3u8
+喜剧中心,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905948.m3u8
+黄金台,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905945.m3u8
+MTV,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905942.m3u8
+尼克国际儿童频道,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905936.m3u8
+尼克少儿,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905939.m3u8
+尼克卡通,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905933.m3u8
+英超体育1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905930.m3u8
+英超体育2,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905927.m3u8
+天空动作,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905923.m3u8
+天空冒险,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905826.m3u8
+天空动画,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905823.m3u8
+天空艺术1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905920.m3u8
+天空大西洋,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905917.m3u8
+天空伯恩,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905914.m3u8
+天空影院首映,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905911.m3u8
+天空喜剧,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905908.m3u8
+天空犯罪,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905905.m3u8
+天空纪录片,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905902.m3u8
+天空戏剧,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905899.m3u8
+天空经典,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905896.m3u8
+天空历史,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905893.m3u8
+天空儿童,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905890.m3u8
+天空麦克斯,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905887.m3u8
+天空自然,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905884.m3u8
+天空新闻直播,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905881.m3u8
+天空科幻/恐怖,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905878.m3u8
+天空科幻,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905875.m3u8
+天空展示,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905872.m3u8
+天空体育+,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905835.m3u8
+天空体育动作,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905867.m3u8
+天空体育板球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905864.m3u8
+天空体育足球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905858.m3u8
+天空体育主赛事,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905853.m3u8
+天空体育混合,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905850.m3u8
+天空体育新闻总部,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905847.m3u8
+天空体育英超,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905844.m3u8
+天空体育赛马,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905841.m3u8
+天空体育网球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905838.m3u8
+天空惊悚,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905832.m3u8
+天空见证,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905829.m3u8
+TNT体育1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905819.m3u8
+TNT体育2,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905816.m3u8
+TNT体育3,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905813.m3u8
+TNT体育4,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905810.m3u8
+英国|英国广播公司第三台/儿童台（HEVC）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/111550.m3u8
+英国|英国广播公司第四台/幼儿台（HEVC）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/111551.m3u8
+英国|家居装饰台,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1014329.m3u8
+英国|天空纪录片台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/164072.m3u8
+英国|探索频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30549.m3u8
+英国|历史频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30534.m3u8
+英国|历史第二频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30535.m3u8
+英国|国家地理野生台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30525.m3u8
+英国|国家地理频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458749.m3u8
+英国|天空自然台（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458747.m3u8
+英国|天空犯罪台（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458761.m3u8
+英国|科幻频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458754.m3u8
+英国|犯罪调查频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458757.m3u8
+英国|电影狂热好莱坞台（4K）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1430509.m3u8
+英国|天空影院动作台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163996.m3u8
+英国|天空影院家庭台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163993.m3u8
+英国|天空影院剧情台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163997.m3u8
+英国|天空影院经典台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/164000.m3u8
+英国|天空影院热播台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163992.m3u8
+英国|天空影院首映台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163991.m3u8
+英国|天空影院科幻台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163998.m3u8
+英国|天空影院惊悚台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163999.m3u8
+DISCOVERY+ DOC 1,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187714.m3u8
+DISCOVERY+ DOC 2,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187715.m3u8
+DISCOVERY+ IMAX,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187713.m3u8
+DISNEY+ 经典,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503115.m3u8
+DISNEY+ 喜剧,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503116.m3u8
+DISNEY+ 儿童,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503117.m3u8
+DISNEY+ 漫威,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503118.m3u8
+DISNEY+ 国家地理,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503119.m3u8
+DISNEY+ 皮克斯,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503120.m3u8
+DISNEY+ 浪漫,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503121.m3u8
+HBO 频道 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1034767.m3u8
+
+
+
+美国 · 娱乐,#genre#
+A&E 历史纪实,http://lunar.pm:8080/RandyJ/9876/9229
+ABC 美国广播,http://lunar.pm:8080/RandyJ/9876/9228
+Adult Swim 成人游泳,http://lunar.pm:8080/RandyJ/9876/66602
+AFN 家庭/脉冲,http://lunar.pm:8080/RandyJ/9876/118462
+AFN 电影,http://lunar.pm:8080/RandyJ/9876/118463
+AFN 大西洋精选,http://lunar.pm:8080/RandyJ/9876/118465
+AFN 太平洋精选,http://lunar.pm:8080/RandyJ/9876/118466
+AFN 频谱,http://lunar.pm:8080/RandyJ/9876/118467
+AMC 电影频道,http://lunar.pm:8080/RandyJ/9876/9227
+AMC+ 电影,http://lunar.pm:8080/RandyJ/9876/108531
+美国英雄,http://lunar.pm:8080/RandyJ/9876/9218
+动物星球,http://lunar.pm:8080/RandyJ/9876/9217
+Antenna 天线电视,http://lunar.pm:8080/RandyJ/9876/9200
+Aspire 励志频道,http://lunar.pm:8080/RandyJ/9876/105642
+AXS 音乐频道,http://lunar.pm:8080/RandyJ/9876/47718
+BBC 美国台,http://lunar.pm:8080/RandyJ/9876/9215
+BET 黑人娱乐,http://lunar.pm:8080/RandyJ/9876/9214
+BET HER 女性频道,http://lunar.pm:8080/RandyJ/9876/49221
+BET Jamz 音乐,http://lunar.pm:8080/RandyJ/9876/98681
+BET Soul 灵魂乐,http://lunar.pm:8080/RandyJ/9876/98682
+Blaze 火焰电视,http://lunar.pm:8080/RandyJ/9876/105643
+Bounce 弹跳电视,http://lunar.pm:8080/RandyJ/9876/9211
+Bravo 精彩频道,http://lunar.pm:8080/RandyJ/9876/9210
+Bravo 精彩(西部),http://lunar.pm:8080/RandyJ/9876/56094
+Buzzr 益智游戏,http://lunar.pm:8080/RandyJ/9876/9209
+CBS 哥伦比亚广播,http://lunar.pm:8080/RandyJ/9876/9208
+Charge! 动作频道,http://lunar.pm:8080/RandyJ/9876/133603
+Cleo TV 女性频道,http://lunar.pm:8080/RandyJ/9876/105644
+CMT 乡村音乐电视,http://lunar.pm:8080/RandyJ/9876/9207
+喜剧中心,http://lunar.pm:8080/RandyJ/9876/9206
+美食频道,http://lunar.pm:8080/RandyJ/9876/9205
+Comet TV 科幻频道,http://lunar.pm:8080/RandyJ/9876/64816
+Cozi TV 复古频道,http://lunar.pm:8080/RandyJ/9876/21473
+Dog TV 宠物电视,http://lunar.pm:8080/RandyJ/9876/63404
+E! 娱乐电视,http://lunar.pm:8080/RandyJ/9876/9198
+E! 娱乐电视(西部),http://lunar.pm:8080/RandyJ/9876/56095
+Folk TV 民谣频道,http://lunar.pm:8080/RandyJ/9876/100321
+美食频道,http://lunar.pm:8080/RandyJ/9876/9195
+美食频道(西部),http://lunar.pm:8080/RandyJ/9876/56096
+FOX 福克斯广播,http://lunar.pm:8080/RandyJ/9876/9194
+Freeform 自由频道,http://lunar.pm:8080/RandyJ/9876/9193
+Fuse 音乐频道,http://lunar.pm:8080/RandyJ/9876/9192
+FX 影视频道,http://lunar.pm:8080/RandyJ/9876/9190
+FXM 电影频道,http://lunar.pm:8080/RandyJ/9876/9189
+FXX 喜剧频道,http://lunar.pm:8080/RandyJ/9876/9188
+FYI 生活资讯,http://lunar.pm:8080/RandyJ/9876/9187
+伟大美国乡村家庭,http://lunar.pm:8080/RandyJ/9876/105641
+Grit TV 西部动作,http://lunar.pm:8080/RandyJ/9876/9185
+GSN 游戏秀网,http://lunar.pm:8080/RandyJ/9876/9184
+Hallmark 贺曼频道,http://lunar.pm:8080/RandyJ/9876/9183
+Hallmark 戏剧,http://lunar.pm:8080/RandyJ/9876/105645
+Hallmark 电影与悬疑,http://lunar.pm:8080/RandyJ/9876/9182
+HGTV 家居园艺,http://lunar.pm:8080/RandyJ/9876/9181
+HGTV 家居园艺(西部),http://lunar.pm:8080/RandyJ/9876/56099
+HLN 头条新闻,http://lunar.pm:8080/RandyJ/9876/9180
+Insp 灵感频道,http://lunar.pm:8080/RandyJ/9876/69080
+调查发现频道,http://lunar.pm:8080/RandyJ/9876/9177
+ION 电视网,http://lunar.pm:8080/RandyJ/9876/9175
+司法中心频道,http://lunar.pm:8080/RandyJ/9876/97091
+Laff TV 喜剧,http://lunar.pm:8080/RandyJ/9876/105646
+Lifetime 终身频道,http://lunar.pm:8080/RandyJ/9876/9174
+Lifetime 电影,http://lunar.pm:8080/RandyJ/9876/9173
+Logo TV 频道,http://lunar.pm:8080/RandyJ/9876/64817
+MeTV 经典电视,http://lunar.pm:8080/RandyJ/9876/9172
+MTV 音乐电视,http://lunar.pm:8080/RandyJ/9876/47752
+MTV2,http://lunar.pm:8080/RandyJ/9876/109359
+MTV Live 直播,http://lunar.pm:8080/RandyJ/9876/102259
+NBC 全国广播公司,http://lunar.pm:8080/RandyJ/9876/9171
+OWN 奥普拉频道,http://lunar.pm:8080/RandyJ/9876/9169
+Oxygen 真实罪案,http://lunar.pm:8080/RandyJ/9876/9168
+Oxygen 真实罪案(西部),http://lunar.pm:8080/RandyJ/9876/56100
+派拉蒙电视网,http://lunar.pm:8080/RandyJ/9876/9158
+PBS 公共广播,http://lunar.pm:8080/RandyJ/9876/97089
+Pets TV 宠物频道,http://lunar.pm:8080/RandyJ/9876/110048
+Pop TV 流行频道,http://lunar.pm:8080/RandyJ/9876/35312
+QVC 电视购物,http://lunar.pm:8080/RandyJ/9876/9164
+Reelz 电影频道,http://lunar.pm:8080/RandyJ/9876/101896
+RFD-TV 乡村生活,http://lunar.pm:8080/RandyJ/9876/134676
+Revolt 音乐频道,http://lunar.pm:8080/RandyJ/9876/105647
+Start TV 剧情频道,http://lunar.pm:8080/RandyJ/9876/117496
+Sundance 圣丹斯频道,http://lunar.pm:8080/RandyJ/9876/9157
+Syfy 科幻频道,http://lunar.pm:8080/RandyJ/9876/9156
+Syfy 科幻(西部),http://lunar.pm:8080/RandyJ/9876/56101
+TBS 特纳广播,http://lunar.pm:8080/RandyJ/9876/9154
+TCM 经典电影,http://lunar.pm:8080/RandyJ/9876/56644
+乡村音乐网,http://lunar.pm:8080/RandyJ/9876/110299
+TLC 学习频道,http://lunar.pm:8080/RandyJ/9876/9152
+TNT 特纳电视网,http://lunar.pm:8080/RandyJ/9876/9151
+TNT 特纳电视网(西部),http://lunar.pm:8080/RandyJ/9876/56102
+旅游频道,http://lunar.pm:8080/RandyJ/9876/9150
+旅游频道(西部),http://lunar.pm:8080/RandyJ/9876/56103
+TruTV 真人电视,http://lunar.pm:8080/RandyJ/9876/9149
+TV Land 经典情景,http://lunar.pm:8080/RandyJ/9876/9147
+TV One 黑人频道,http://lunar.pm:8080/RandyJ/9876/9146
+环球频道,http://lunar.pm:8080/RandyJ/9876/9145
+UP TV 家庭频道,http://lunar.pm:8080/RandyJ/9876/99451
+USA 电视网,http://lunar.pm:8080/RandyJ/9876/9144
+USA 电视网(西部),http://lunar.pm:8080/RandyJ/9876/48468
+VH1 音乐频道,http://lunar.pm:8080/RandyJ/9876/9143
+Vice 新闻,http://lunar.pm:8080/RandyJ/9876/9142
+We TV 真人秀,http://lunar.pm:8080/RandyJ/9876/49222
+WGN 美国台,http://lunar.pm:8080/RandyJ/9876/9140
+
+美国 · 纪实,#genre#
+犯罪与调查,http://lunar.pm:8080/RandyJ/9876/110775
+美国目的地,http://lunar.pm:8080/RandyJ/9876/110776
+探索频道(东部),http://lunar.pm:8080/RandyJ/9876/110777
+探索频道(西部),http://lunar.pm:8080/RandyJ/9876/110778
+探索家庭,http://lunar.pm:8080/RandyJ/9876/110779
+探索生活,http://lunar.pm:8080/RandyJ/9876/110780
+探索科学,http://lunar.pm:8080/RandyJ/9876/110781
+DIY 动手网,http://lunar.pm:8080/RandyJ/9876/110782
+H2 历史频道2,http://lunar.pm:8080/RandyJ/9876/110783
+历史频道(东部),http://lunar.pm:8080/RandyJ/9876/110784
+历史频道(西部),http://lunar.pm:8080/RandyJ/9876/110785
+军事历史,http://lunar.pm:8080/RandyJ/9876/110786
+ID 调查频道,http://lunar.pm:8080/RandyJ/9876/110787
+国家地理(东部),http://lunar.pm:8080/RandyJ/9876/110788
+国家地理(西部),http://lunar.pm:8080/RandyJ/9876/110789
+国家地理野生,http://lunar.pm:8080/RandyJ/9876/110790
+户外频道,http://lunar.pm:8080/RandyJ/9876/110791
+Outside TV 户外,http://lunar.pm:8080/RandyJ/9876/110792
+史密森尼频道,http://lunar.pm:8080/RandyJ/9876/110793
+探索涡轮,http://lunar.pm:8080/RandyJ/9876/110794
+世界钓鱼网,http://lunar.pm:8080/RandyJ/9876/110795
+
+
+美国 · 儿童,#genre#
+卡通频道,http://lunar.pm:8080/RandyJ/9876/8869
+迪士尼频道,http://lunar.pm:8080/RandyJ/9876/9343
+迪士尼 Junior,http://lunar.pm:8080/RandyJ/9876/8871
+迪士尼 XD,http://lunar.pm:8080/RandyJ/9876/9341
+Nick Jr 儿童频道,http://lunar.pm:8080/RandyJ/9876/41614
+Nicktoons 动画,http://lunar.pm:8080/RandyJ/9876/8868
+Nickelodeon 尼克频道,http://lunar.pm:8080/RandyJ/9876/8870
+宝贝第一台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=858771&extension=ts&play_token=a6eTK39OQf
+大都会卡通台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=858772&extension=ts&play_token=3y6gHjLoG7
+公共电视儿童台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=858753&extension=ts&play_token=Whu49dktlr
+Boomerang 经典卡通,http://lunar.pm:8080/RandyJ/9876/110047
+
+美国 · 电影,#genre#
+Cinemax 电影,http://lunar.pm:8080/RandyJ/9876/18210
+Cinemax 动作,http://lunar.pm:8080/RandyJ/9876/18211
+Cinemax 更多,http://lunar.pm:8080/RandyJ/9876/98684
+MGM+ 米高梅电影,http://lunar.pm:8080/RandyJ/9876/18206
+MGM+ 热映,http://lunar.pm:8080/RandyJ/9876/98690
+MGM+ 汽车影院,http://lunar.pm:8080/RandyJ/9876/98691
+MGM+ 精选,http://lunar.pm:8080/RandyJ/9876/18205
+HBO 电影(东部),http://lunar.pm:8080/RandyJ/9876/18202
+HBO 电影(西部),http://lunar.pm:8080/RandyJ/9876/98692
+HBO 2(东部),http://lunar.pm:8080/RandyJ/9876/18203
+HBO 2(西部),http://lunar.pm:8080/RandyJ/9876/98693
+HBO 喜剧(东部),http://lunar.pm:8080/RandyJ/9876/18200
+HBO 喜剧(西部),http://lunar.pm:8080/RandyJ/9876/98694
+HBO 签名(东部),http://lunar.pm:8080/RandyJ/9876/18198
+HBO 签名(西部),http://lunar.pm:8080/RandyJ/9876/98696
+HBO Zone(西部),http://lunar.pm:8080/RandyJ/9876/98697
+HBO Zone(东部),http://lunar.pm:8080/RandyJ/9876/18197
+IndiePlex 独立电影,http://lunar.pm:8080/RandyJ/9876/98727
+MoviePlex 电影,http://lunar.pm:8080/RandyJ/9876/98730
+RetroPlex 怀旧电影,http://lunar.pm:8080/RandyJ/9876/98732
+Showtime 电影(东部),http://lunar.pm:8080/RandyJ/9876/18187
+Showtime 电影(西部),http://lunar.pm:8080/RandyJ/9876/18185
+Showtime 2(东部),http://lunar.pm:8080/RandyJ/9876/98715
+Showtime 2(西部),http://lunar.pm:8080/RandyJ/9876/98716
+Showtime BET X(东部),http://lunar.pm:8080/RandyJ/9876/98717
+Showtime BET X(西部),http://lunar.pm:8080/RandyJ/9876/98718
+Showtime 极限(东部),http://lunar.pm:8080/RandyJ/9876/18184
+Showtime 极限(西部),http://lunar.pm:8080/RandyJ/9876/98719
+Showtime 家庭(东部),http://lunar.pm:8080/RandyJ/9876/98720
+Showtime 家庭(西部),http://lunar.pm:8080/RandyJ/9876/98721
+Showtime Next(东部),http://lunar.pm:8080/RandyJ/9876/98722
+Showtime Next(西部),http://lunar.pm:8080/RandyJ/9876/98723
+Showtime 展映(东部),http://lunar.pm:8080/RandyJ/9876/18182
+Showtime 展映(西部),http://lunar.pm:8080/RandyJ/9876/98724
+Showtime 女性(东部),http://lunar.pm:8080/RandyJ/9876/98725
+Showtime 女性(西部),http://lunar.pm:8080/RandyJ/9876/98726
+Starz 电影(东部),http://lunar.pm:8080/RandyJ/9876/58532
+Starz 电影(西部),http://lunar.pm:8080/RandyJ/9876/58540
+Starz 影院,http://lunar.pm:8080/RandyJ/9876/58542
+Starz 喜剧,http://lunar.pm:8080/RandyJ/9876/58541
+Starz Edge 前沿,http://lunar.pm:8080/RandyJ/9876/58533
+Starz Encore(东部),http://lunar.pm:8080/RandyJ/9876/58538
+Starz Encore(西部),http://lunar.pm:8080/RandyJ/9876/98701
+Starz Encore 动作,http://lunar.pm:8080/RandyJ/9876/98702
+Starz Encore 黑人电影,http://lunar.pm:8080/RandyJ/9876/98704
+Starz Encore 经典,http://lunar.pm:8080/RandyJ/9876/98706
+Starz Encore 家庭,http://lunar.pm:8080/RandyJ/9876/98708
+Starz Encore 悬疑,http://lunar.pm:8080/RandyJ/9876/98710
+Starz Encore 西部,http://lunar.pm:8080/RandyJ/9876/58537
+Starz 黑人电影,http://lunar.pm:8080/RandyJ/9876/58536
+Starz 儿童与家庭,http://lunar.pm:8080/RandyJ/9876/58535
+
+美国 · 新闻,#genre#
+ABC 新闻直播,http://lunar.pm:8080/RandyJ/9876/21471
+AccuWeather 天气,http://lunar.pm:8080/RandyJ/9876/100367
+AFN 新闻,http://lunar.pm:8080/RandyJ/9876/118464
+BBC 世界新闻,http://lunar.pm:8080/RandyJ/9876/8805
+BNC 黑人新闻频道,http://lunar.pm:8080/RandyJ/9876/105617
+C-SPAN 国会频道,http://lunar.pm:8080/RandyJ/9876/98734
+CBSN 数字新闻,http://lunar.pm:8080/RandyJ/9876/8846
+CNBC 财经频道,http://lunar.pm:8080/RandyJ/9876/120016
+CNBC 世界财经,http://lunar.pm:8080/RandyJ/9876/25724
+CNN 有线电视新闻,http://lunar.pm:8080/RandyJ/9876/8854
+C-SPAN 2 国会频道,http://lunar.pm:8080/RandyJ/9876/98735
+FOX 商业频道,http://lunar.pm:8080/RandyJ/9876/9328
+FOX 新闻,http://lunar.pm:8080/RandyJ/9876/123011
+MSNBC 新闻,http://lunar.pm:8080/RandyJ/9876/9326
+NASA 太空电视,http://lunar.pm:8080/RandyJ/9876/105616
+Newsmax 新闻,http://lunar.pm:8080/RandyJ/9876/70184
+OAN 一国新闻网,http://lunar.pm:8080/RandyJ/9876/70185
+天气频道,http://lunar.pm:8080/RandyJ/9876/9317
+WeatherNation 天气,http://lunar.pm:8080/RandyJ/9876/100366
+CNN 高清新闻,http://lunar.pm:8080/RandyJ/9876/104092
+
+
+
+美国 · 体育,#genre#
+Altitude 体育,http://lunar.pm:8080/RandyJ/9876/109824
+Altitude 体育 2,http://lunar.pm:8080/RandyJ/9876/110306
+AFN 体育,http://lunar.pm:8080/RandyJ/9876/118468
+AFN 体育 2,http://lunar.pm:8080/RandyJ/9876/118469
+ACC 大西洋海岸联盟,http://lunar.pm:8080/RandyJ/9876/68765
+AT&T 体育网,http://lunar.pm:8080/RandyJ/9876/56636
+beIN 体育,http://lunar.pm:8080/RandyJ/9876/9406
+十大联盟体育网,http://lunar.pm:8080/RandyJ/9876/9572
+CBS 体育网,http://lunar.pm:8080/RandyJ/9876/9570
+ESPN 体育,http://lunar.pm:8080/RandyJ/9876/9569
+ESPN 2,http://lunar.pm:8080/RandyJ/9876/9568
+ESPN 西班牙语,http://lunar.pm:8080/RandyJ/9876/47478
+ESPN 长角牛频道,http://lunar.pm:8080/RandyJ/9876/109317
+ESPN 新闻,http://lunar.pm:8080/RandyJ/9876/9563
+ESPN U 大学体育,http://lunar.pm:8080/RandyJ/9876/9561
+FOX 体育 1,http://lunar.pm:8080/RandyJ/9876/9555
+FOX 体育 2,http://lunar.pm:8080/RandyJ/9876/9554
+FOX 大学体育(大西洋),http://lunar.pm:8080/RandyJ/9876/9556
+FOX 大学体育(中部),http://lunar.pm:8080/RandyJ/9876/9558
+FOX 大学体育(太平洋),http://lunar.pm:8080/RandyJ/9876/9557
+FOX 足球+,http://lunar.pm:8080/RandyJ/9876/9551
+Marquee 体育网,http://lunar.pm:8080/RandyJ/9876/95736
+Mav TV 汽车运动,http://lunar.pm:8080/RandyJ/9876/59693
+MLB 美国职棒网,http://lunar.pm:8080/RandyJ/9876/9548
+Monumental 体育网,http://lunar.pm:8080/RandyJ/9876/132421
+MSG 麦迪逊广场体育,http://lunar.pm:8080/RandyJ/9876/59686
+MSG+,http://lunar.pm:8080/RandyJ/9876/59687
+MSG 2,http://lunar.pm:8080/RandyJ/9876/59688
+MSG 2+,http://lunar.pm:8080/RandyJ/9876/59689
+NBA 电视,http://lunar.pm:8080/RandyJ/9876/9547
+NBC 高尔夫频道,http://lunar.pm:8080/RandyJ/9876/9528
+NBC 体育网,http://lunar.pm:8080/RandyJ/9876/9546
+NBC 体育(湾区),http://lunar.pm:8080/RandyJ/9876/9545
+NBC 体育(波士顿),http://lunar.pm:8080/RandyJ/9876/9544
+NBC 体育(加州),http://lunar.pm:8080/RandyJ/9876/9543
+NBC 体育(芝加哥),http://lunar.pm:8080/RandyJ/9876/9542
+NBC 体育(费城),http://lunar.pm:8080/RandyJ/9876/9540
+NESN 新英格兰体育,http://lunar.pm:8080/RandyJ/9876/69348
+NESN+,http://lunar.pm:8080/RandyJ/9876/69349
+NHL 冰球网,http://lunar.pm:8080/RandyJ/9876/9549
+红牛TV,http://lunar.pm:8080/RandyJ/9876/26630
+SEC 东南联盟体育,http://lunar.pm:8080/RandyJ/9876/44845
+Spectrum 体育网 LA(道奇),http://lunar.pm:8080/RandyJ/9876/109804
+Spectrum 体育网(湖人),http://lunar.pm:8080/RandyJ/9876/63627
+SportsNet 纽约,http://lunar.pm:8080/RandyJ/9876/67471
+Sportsnet 360,http://lunar.pm:8080/RandyJ/9876/9520
+Sportsnet 东部,http://lunar.pm:8080/RandyJ/9876/9519
+Sportsnet One,http://lunar.pm:8080/RandyJ/9876/9518
+Sportsnet 安大略,http://lunar.pm:8080/RandyJ/9876/9517
+Sportsnet 太平洋,http://lunar.pm:8080/RandyJ/9876/9516
+Sportsnet 西部,http://lunar.pm:8080/RandyJ/9876/9515
+牛仔频道,http://lunar.pm:8080/RandyJ/9876/132415
+网球频道,http://lunar.pm:8080/RandyJ/9876/40854
+TSN 1 加拿大体育,http://lunar.pm:8080/RandyJ/9876/9512
+TSN 2,http://lunar.pm:8080/RandyJ/9876/9511
+TSN 3,http://lunar.pm:8080/RandyJ/9876/9510
+TSN 4,http://lunar.pm:8080/RandyJ/9876/9509
+TSN 5,http://lunar.pm:8080/RandyJ/9876/9508
+UFC 格斗通行证,http://lunar.pm:8080/RandyJ/9876/47052
+Unbeaten 拳击频道,http://lunar.pm:8080/RandyJ/9876/111263
+Willow 板球,http://lunar.pm:8080/RandyJ/9876/49964
+Willow 板球 2,http://lunar.pm:8080/RandyJ/9876/132414
+YES 体育网,http://lunar.pm:8080/RandyJ/9876/59692
+
+
+
+加勒比-三方位广播电视网,http://lunar.pm:8080/RandyJ/9876/138951
+加勒比-艺术与娱乐频道,http://lunar.pm:8080/RandyJ/9876/138952
+加勒比-阿帕卡色彩台,http://lunar.pm:8080/RandyJ/9876/138953
+加勒比-美国广播公司,http://lunar.pm:8080/RandyJ/9876/138954
+加勒比-ABS电视台（安提瓜和巴布达）,http://lunar.pm:8080/RandyJ/9876/138955
+加勒比-非洲频道,http://lunar.pm:8080/RandyJ/9876/138956
+加勒比-半岛电视台,http://lunar.pm:8080/RandyJ/9876/138957
+加勒比-安普利亚电视台,http://lunar.pm:8080/RandyJ/9876/138958
+加勒比-动物星球频道,http://lunar.pm:8080/RandyJ/9876/138959
+加勒比-圣歌电视台,http://lunar.pm:8080/RandyJ/9876/138960
+加勒比-全美女性娱乐频道,http://lunar.pm:8080/RandyJ/9876/138961
+加勒比-AXN动作频道,http://lunar.pm:8080/RandyJ/9876/138962
+加勒比-宝贝第一台,http://lunar.pm:8080/RandyJ/9876/138963
+加勒比-英国广播公司世界台,http://lunar.pm:8080/RandyJ/9876/138964
+加勒比-黑人娱乐电视台,http://lunar.pm:8080/RandyJ/9876/138965
+加勒比-BET福音台,http://lunar.pm:8080/RandyJ/9876/138966
+加勒比-BET女性台,http://lunar.pm:8080/RandyJ/9876/138967
+加勒比-比兹电视台,http://lunar.pm:8080/RandyJ/9876/138968
+加勒比-彭博电视台,http://lunar.pm:8080/RandyJ/9876/138969
+加勒比-卡拉动作台,http://lunar.pm:8080/RandyJ/9876/138970
+加勒比-卡拉经典台,http://lunar.pm:8080/RandyJ/9876/138971
+加勒比-卡拉天气台,http://lunar.pm:8080/RandyJ/9876/138972
+加勒比-卡拉西部片台,http://lunar.pm:8080/RandyJ/9876/138973
+加勒比-卡通频道,http://lunar.pm:8080/RandyJ/9876/138974
+加勒比-卡托尼托儿童台,http://lunar.pm:8080/RandyJ/9876/138975
+加勒比-哥伦比亚广播公司,http://lunar.pm:8080/RandyJ/9876/138976
+加勒比-CCN电视6台,http://lunar.pm:8080/RandyJ/9876/138977
+加勒比-中国中央电视台中文国际频道,http://lunar.pm:8080/RandyJ/9876/138978
+加勒比-中国国际电视台,http://lunar.pm:8080/RandyJ/9876/138979
+加勒比-电影频道,http://lunar.pm:8080/RandyJ/9876/138980
+加勒比-电影最大值频道,http://lunar.pm:8080/RandyJ/9876/138981
+加勒比-城市电视台,http://lunar.pm:8080/RandyJ/9876/138982
+加勒比-经典艺术展播台,http://lunar.pm:8080/RandyJ/9876/138983
+加勒比-消费者新闻与商业频道,http://lunar.pm:8080/RandyJ/9876/138984
+加勒比-CNC3电视台,http://lunar.pm:8080/RandyJ/9876/138985
+加勒比-有线电视新闻网,http://lunar.pm:8080/RandyJ/9876/138986
+加勒比-CNN头条新闻,http://lunar.pm:8080/RandyJ/9876/138987
+加勒比-CNN国际台,http://lunar.pm:8080/RandyJ/9876/138988
+加勒比-色彩影院,http://lunar.pm:8080/RandyJ/9876/138989
+加勒比-色彩里斯泰台,http://lunar.pm:8080/RandyJ/9876/138990
+加勒比-喜剧中心频道,http://lunar.pm:8080/RandyJ/9876/138991
+加勒比-喜剧电视台,http://lunar.pm:8080/RandyJ/9876/138992
+加勒比-烹饪频道,http://lunar.pm:8080/RandyJ/9876/138993
+加勒比-加拿大电视台,http://lunar.pm:8080/RandyJ/9876/138994
+加勒比-CVM电视台,http://lunar.pm:8080/RandyJ/9876/138995
+加勒比-晨星电视台,http://lunar.pm:8080/RandyJ/9876/138996
+加勒比-探索频道,http://lunar.pm:8080/RandyJ/9876/138997
+加勒比-探索家居与健康台,http://lunar.pm:8080/RandyJ/9876/138998
+加勒比-探索家居与健康台,http://lunar.pm:8080/RandyJ/9876/138999
+加勒比-探索儿童台,http://lunar.pm:8080/RandyJ/9876/139000
+加勒比-探索科学台,http://lunar.pm:8080/RandyJ/9876/139001
+加勒比-探索涡轮台,http://lunar.pm:8080/RandyJ/9876/139002
+加勒比-迪士尼频道,http://lunar.pm:8080/RandyJ/9876/139003
+加勒比-迪士尼少儿台,http://lunar.pm:8080/RandyJ/9876/139004
+加勒比-E!娱乐频道,http://lunar.pm:8080/RandyJ/9876/139005
+加勒比-娱乐与体育节目网,http://lunar.pm:8080/RandyJ/9876/139006
+加勒比-ESPN第二台,http://lunar.pm:8080/RandyJ/9876/139007
+加勒比-ESPN东南联盟台,http://lunar.pm:8080/RandyJ/9876/139008
+加勒比-ESPN大学体育台,http://lunar.pm:8080/RandyJ/9876/139009
+加勒比-永恒圣言电视网,http://lunar.pm:8080/RandyJ/9876/139010
+加勒比-格斗频道,http://lunar.pm:8080/RandyJ/9876/139011
+加勒比-流媒体体育台,http://lunar.pm:8080/RandyJ/9876/139012
+加勒比-美食频道,http://lunar.pm:8080/RandyJ/9876/139013
+加勒比-福克斯商业网,http://lunar.pm:8080/RandyJ/9876/139014
+加勒比-福克斯新闻台,http://lunar.pm:8080/RandyJ/9876/139015
+加勒比-福克斯足球加台,http://lunar.pm:8080/RandyJ/9876/139016
+加勒比-福克斯体育第二台,http://lunar.pm:8080/RandyJ/9876/139017
+加勒比-福克斯赛车台,http://lunar.pm:8080/RandyJ/9876/139018
+加勒比-FX频道,http://lunar.pm:8080/RandyJ/9876/139019
+加勒比-FYI生活资讯台,http://lunar.pm:8080/RandyJ/9876/139020
+加勒比-游戏秀频道,http://lunar.pm:8080/RandyJ/9876/139021
+加勒比-GBN格林纳达台,http://lunar.pm:8080/RandyJ/9876/139022
+加勒比-高尔夫频道,http://lunar.pm:8080/RandyJ/9876/139023
+加勒比-GRIT电视台,http://lunar.pm:8080/RandyJ/9876/139024
+加勒比-HGTV家居装饰台,http://lunar.pm:8080/RandyJ/9876/139025
+加勒比-历史频道,http://lunar.pm:8080/RandyJ/9876/139026
+加勒比-伊斯兰广播网,http://lunar.pm:8080/RandyJ/9876/139027
+加勒比-岛屿电视台,http://lunar.pm:8080/RandyJ/9876/139028
+加勒比-ITV视觉台,http://lunar.pm:8080/RandyJ/9876/139029
+加勒比-IETV电视台,http://lunar.pm:8080/RandyJ/9876/139030
+加勒比-调查发现频道,http://lunar.pm:8080/RandyJ/9876/139031
+加勒比-JNN电视台,http://lunar.pm:8080/RandyJ/9876/139032
+加勒比-司法中心台,http://lunar.pm:8080/RandyJ/9876/139033
+加勒比-终身电影网,http://lunar.pm:8080/RandyJ/9876/139034
+加勒比-终身频道,http://lunar.pm:8080/RandyJ/9876/139035
+加勒比-终身真实女性台,http://lunar.pm:8080/RandyJ/9876/139036
+加勒比-马格诺利亚网,http://lunar.pm:8080/RandyJ/9876/139037
+加勒比-MSNBC新闻台,http://lunar.pm:8080/RandyJ/9876/139038
+加勒比-音乐电视网,http://lunar.pm:8080/RandyJ/9876/139039
+加勒比-MTV印度台,http://lunar.pm:8080/RandyJ/9876/139040
+加勒比-MTV第二台,http://lunar.pm:8080/RandyJ/9876/139041
+加勒比-MY 9（纽约WWOR）,http://lunar.pm:8080/RandyJ/9876/139042
+加勒比-我的目的地电视台,http://lunar.pm:8080/RandyJ/9876/139043
+加勒比-国家地理野生台,http://lunar.pm:8080/RandyJ/9876/139044
+加勒比-国家地理频道,http://lunar.pm:8080/RandyJ/9876/139045
+加勒比-全国广播公司,http://lunar.pm:8080/RandyJ/9876/139046
+加勒比-新闻18台,http://lunar.pm:8080/RandyJ/9876/139047
+加勒比-新闻最大台,http://lunar.pm:8080/RandyJ/9876/139048
+加勒比-尼克罗迪恩儿童频道,http://lunar.pm:8080/RandyJ/9876/139049
+加勒比-加勒比统一电视台,http://lunar.pm:8080/RandyJ/9876/139050
+加勒比-户外频道,http://lunar.pm:8080/RandyJ/9876/139051
+加勒比-奥普拉电视网,http://lunar.pm:8080/RandyJ/9876/139052
+加勒比-派拉蒙频道,http://lunar.pm:8080/RandyJ/9876/139053
+加勒比-议会频道,http://lunar.pm:8080/RandyJ/9876/139054
+加勒比-公共电视网,http://lunar.pm:8080/RandyJ/9876/139055
+加勒比-公共电视儿童台,http://lunar.pm:8080/RandyJ/9876/139056
+加勒比-甜心调频广播（100.1 FM）,http://lunar.pm:8080/RandyJ/9876/139057
+加勒比-城市谈话广播（91.1 FM）,http://lunar.pm:8080/RandyJ/9876/139058
+加勒比-真实电视台,http://lunar.pm:8080/RandyJ/9876/139059
+加勒比-RETV电视台,http://lunar.pm:8080/RandyJ/9876/139060
+加勒比-冲刺体育台,http://lunar.pm:8080/RandyJ/9876/139061
+加勒比-冲刺体育第二台,http://lunar.pm:8080/RandyJ/9876/139062
+加勒比-冲刺体育第三台,http://lunar.pm:8080/RandyJ/9876/139063
+加勒比-冲刺体育主台,http://lunar.pm:8080/RandyJ/9876/139064
+加勒比-桑基亚电视台,http://lunar.pm:8080/RandyJ/9876/139065
+加勒比-SBN生命之子台,http://lunar.pm:8080/RandyJ/9876/139066
+加勒比-微笑频道,http://lunar.pm:8080/RandyJ/9876/139067
+加勒比-索尼娱乐电视台,http://lunar.pm:8080/RandyJ/9876/139068
+加勒比-太空频道,http://lunar.pm:8080/RandyJ/9876/139069
+加勒比-星空频道,http://lunar.pm:8080/RandyJ/9876/139070
+加勒比-协同电视台,http://lunar.pm:8080/RandyJ/9876/139071
+加勒比-三一广播网,http://lunar.pm:8080/RandyJ/9876/139072
+加勒比-TBN灵感台,http://lunar.pm:8080/RandyJ/9876/139073
+加勒比-特纳经典电影台,http://lunar.pm:8080/RandyJ/9876/139074
+加勒比-青少年尼克台,http://lunar.pm:8080/RandyJ/9876/139075
+加勒比-阿鲁巴电视台,http://lunar.pm:8080/RandyJ/9876/139076
+加勒比-阿鲁巴电视台,http://lunar.pm:8080/RandyJ/9876/139077
+加勒比-阿鲁巴电视台23频道,http://lunar.pm:8080/RandyJ/9876/139078
+加勒比-阿鲁巴电视台49频道,http://lunar.pm:8080/RandyJ/9876/139079
+加勒比-库拉索电视台,http://lunar.pm:8080/RandyJ/9876/139080
+加勒比-Tin频道,http://lunar.pm:8080/RandyJ/9876/139081
+加勒比-TLC旅游生活频道,http://lunar.pm:8080/RandyJ/9876/139082
+加勒比-TNT电视网,http://lunar.pm:8080/RandyJ/9876/139083
+加勒比-TNT剧集台,http://lunar.pm:8080/RandyJ/9876/139084
+加勒比-多巴哥更新台,http://lunar.pm:8080/RandyJ/9876/139085
+加勒比-卡通转播台,http://lunar.pm:8080/RandyJ/9876/139086
+加勒比-加勒比音乐轨迹台,http://lunar.pm:8080/RandyJ/9876/139087
+加勒比-旅游频道,http://lunar.pm:8080/RandyJ/9876/139088
+加勒比-特立尼达和多巴哥电视台,http://lunar.pm:8080/RandyJ/9876/139089
+加勒比-三一电视台,http://lunar.pm:8080/RandyJ/9876/139090
+加勒比-TTT电视台,http://lunar.pm:8080/RandyJ/9876/139091
+加勒比-觉醒电视台,http://lunar.pm:8080/RandyJ/9876/139092
+加勒比-电视第四台,http://lunar.pm:8080/RandyJ/9876/139093
+加勒比-电视直通车13台,http://lunar.pm:8080/RandyJ/9876/139094
+加勒比-TVJ电视台,http://lunar.pm:8080/RandyJ/9876/139095
+加勒比-TVJ体育台,http://lunar.pm:8080/RandyJ/9876/139096
+加勒比-环球频道,http://lunar.pm:8080/RandyJ/9876/139097
+加勒比-环球影城台,http://lunar.pm:8080/RandyJ/9876/139098
+加勒比-USA电视网,http://lunar.pm:8080/RandyJ/9876/139099
+加勒比-VH1音乐频道,http://lunar.pm:8080/RandyJ/9876/139100
+加勒比-副媒体频道,http://lunar.pm:8080/RandyJ/9876/139101
+加勒比-华纳兄弟频道,http://lunar.pm:8080/RandyJ/9876/139102
+加勒比-WESN电视台,http://lunar.pm:8080/RandyJ/9876/139103
+加勒比-WGN第九台,http://lunar.pm:8080/RandyJ/9876/139104
+加勒比-WION国际新闻台,http://lunar.pm:8080/RandyJ/9876/139105
+加勒比-WPG 10台,http://lunar.pm:8080/RandyJ/9876/139106
+加勒比-WPIX电视台,http://lunar.pm:8080/RandyJ/9876/139107
+加勒比-WSVN福克斯台,http://lunar.pm:8080/RandyJ/9876/139108
+加勒比-泽影院,http://lunar.pm:8080/RandyJ/9876/139109
+加勒比-泽电视台,http://lunar.pm:8080/RandyJ/9876/139110
+加勒比-泽世界台,http://lunar.pm:8080/RandyJ/9876/139111
+
+
+
+国际4K,#genre#
+
+
+西班牙一台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1620282.m3u8
+十一体育 1 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1470618.m3u8
+V 体育 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1749221.m3u8
+博物馆纪实 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1632124.m3u8
+天空首映 1 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491180.m3u8
+天空首映 2 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491181.m3u8
+天空首映 3 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491183.m3u8
+天空首映 4 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491184.m3u8
+天空首映 5 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491185.m3u8
+天空首映 6 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491186.m3u8
+天空首映 7 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491187.m3u8
+天空首映 8 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491188.m3u8
+天空首映 9 台 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1491189.m3u8
+DIGI 综合 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1632122.m3u8
+M6 4K 频道,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/526148.m3u8
+Canal+ 4K 主频道,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/526135.m3u8
+好莱坞影院 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1430509.m3u8
+TNT顶级赛事,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1379047.m3u8
+天空体育F1,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905859.m3u8
+天空体育主赛事,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905924.m3u8
+天空体育1台,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905869.m3u8
+天空体育2台,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905868.m3u8
+
+
+
+
+剧集动画,#genre#
+
+破产姐妹,http://lunar.pm:8080/RandyJ/9876/132535
+21跳街,http://lunar.pm:8080/RandyJ/9876/132536
+警方 custody 24小时,http://lunar.pm:8080/RandyJ/9876/132537
+我为喜剧狂,http://lunar.pm:8080/RandyJ/9876/132538
+外星人报道,http://lunar.pm:8080/RandyJ/9876/132539
+监狱风云60天,http://lunar.pm:8080/RandyJ/9876/132540
+七重天,http://lunar.pm:8080/RandyJ/9876/132541
+简单规则8条,http://lunar.pm:8080/RandyJ/9876/132542
+新飞越比弗利,http://lunar.pm:8080/RandyJ/9876/132543
+不同的世界,http://lunar.pm:8080/RandyJ/9876/132544
+闹鬼,http://lunar.pm:8080/RandyJ/9876/132545
+阿博特和科斯特洛秀,http://lunar.pm:8080/RandyJ/9876/132546
+听吉姆说,http://lunar.pm:8080/RandyJ/9876/132547
+探险活宝,http://lunar.pm:8080/RandyJ/9876/132548
+探险活宝,http://lunar.pm:8080/RandyJ/9876/132549
+妙妙熊历险记,http://lunar.pm:8080/RandyJ/9876/132550
+外星人阿尔夫,http://lunar.pm:8080/RandyJ/9876/132551
+希区柯克剧场,http://lunar.pm:8080/RandyJ/9876/132552
+爱丽丝,http://lunar.pm:8080/RandyJ/9876/132553
+法国小馆儿,http://lunar.pm:8080/RandyJ/9876/132554
+美国老爹,http://lunar.pm:8080/RandyJ/9876/132555
+远古外星人,http://lunar.pm:8080/RandyJ/9876/132556
+天使,http://lunar.pm:8080/RandyJ/9876/132557
+动物王国,http://lunar.pm:8080/RandyJ/9876/132558
+小小安妮,http://lunar.pm:8080/RandyJ/9876/132559
+间谍亚契,http://lunar.pm:8080/RandyJ/9876/132560
+你害怕黑暗吗,http://lunar.pm:8080/RandyJ/9876/132561
+发展受阻,http://lunar.pm:8080/RandyJ/9876/132562
+绿箭侠,http://lunar.pm:8080/RandyJ/9876/132563
+降世神通,http://lunar.pm:8080/RandyJ/9876/132564
+降世神通,http://lunar.pm:8080/RandyJ/9876/132565
+奶爸大联盟,http://lunar.pm:8080/RandyJ/9876/132566
+回到未来动画版,http://lunar.pm:8080/RandyJ/9876/132567
+球手们,http://lunar.pm:8080/RandyJ/9876/132568
+兄弟连,http://lunar.pm:8080/RandyJ/9876/132569
+酒吧救援,http://lunar.pm:8080/RandyJ/9876/132570
+巴尼·米勒,http://lunar.pm:8080/RandyJ/9876/132571
+贝茨旅馆,http://lunar.pm:8080/RandyJ/9876/132572
+蝙蝠侠,http://lunar.pm:8080/RandyJ/9876/132573
+蝙蝠侠动画系列,http://lunar.pm:8080/RandyJ/9876/132574
+蝙蝠侠动画系列,http://lunar.pm:8080/RandyJ/9876/132575
+蝙蝠侠：英勇无畏,http://lunar.pm:8080/RandyJ/9876/132576
+海滩救护队,http://lunar.pm:8080/RandyJ/9876/132577
+美女与野兽1987,http://lunar.pm:8080/RandyJ/9876/132578
+美女与野兽2012,http://lunar.pm:8080/RandyJ/9876/132579
+瘪四与大头蛋,http://lunar.pm:8080/RandyJ/9876/132580
+玛丽简的单身生活,http://lunar.pm:8080/RandyJ/9876/132581
+少年骇客,http://lunar.pm:8080/RandyJ/9876/132582
+比弗利山妓院,http://lunar.pm:8080/RandyJ/9876/132583
+家有仙妻,http://lunar.pm:8080/RandyJ/9876/132584
+血变,http://lunar.pm:8080/RandyJ/9876/132585
+布莱克书店,http://lunar.pm:8080/RandyJ/9876/132586
+黑人耶稣,http://lunar.pm:8080/RandyJ/9876/132587
+黑镜,http://lunar.pm:8080/RandyJ/9876/132588
+喜新不厌旧,http://lunar.pm:8080/RandyJ/9876/132589
+烈焰与怪兽机器,http://lunar.pm:8080/RandyJ/9876/132590
+烈焰与怪兽机器,http://lunar.pm:8080/RandyJ/9876/132591
+警察世家,http://lunar.pm:8080/RandyJ/9876/132592
+蓝色线索,http://lunar.pm:8080/RandyJ/9876/132593
+布鲁伊,http://lunar.pm:8080/RandyJ/9876/132594
+布鲁伊,http://lunar.pm:8080/RandyJ/9876/132595
+大西洋帝国,http://lunar.pm:8080/RandyJ/9876/132596
+开心汉堡店,http://lunar.pm:8080/RandyJ/9876/132597
+伯南扎的牛仔,http://lunar.pm:8080/RandyJ/9876/132598
+边境安全,http://lunar.pm:8080/RandyJ/9876/132599
+博斯,http://lunar.pm:8080/RandyJ/9876/132600
+波士顿法律,http://lunar.pm:8080/RandyJ/9876/132601
+男孩成长记,http://lunar.pm:8080/RandyJ/9876/132602
+绝命毒师,http://lunar.pm:8080/RandyJ/9876/132603
+布罗克迈尔,http://lunar.pm:8080/RandyJ/9876/132604
+神烦警探,http://lunar.pm:8080/RandyJ/9876/132605
+吸血鬼猎人巴菲,http://lunar.pm:8080/RandyJ/9876/132606
+火线警告,http://lunar.pm:8080/RandyJ/9876/132607
+呼叫助产士,http://lunar.pm:8080/RandyJ/9876/132608
+地球超人,http://lunar.pm:8080/RandyJ/9876/132609
+你在哪里,http://lunar.pm:8080/RandyJ/9876/132610
+百夫长,http://lunar.pm:8080/RandyJ/9876/132611
+查普尔秀,http://lunar.pm:8080/RandyJ/9876/132612
+圣女魔咒,http://lunar.pm:8080/RandyJ/9876/132613
+干杯酒吧,http://lunar.pm:8080/RandyJ/9876/132614
+芝加哥烈焰,http://lunar.pm:8080/RandyJ/9876/132615
+芝加哥医院,http://lunar.pm:8080/RandyJ/9876/132616
+芝加哥警署,http://lunar.pm:8080/RandyJ/9876/132617
+奇奇与蒂蒂：救援突击队,http://lunar.pm:8080/RandyJ/9876/132618
+公路巡逻队,http://lunar.pm:8080/RandyJ/9876/132619
+地下城市,http://lunar.pm:8080/RandyJ/9876/132620
+眼镜蛇道馆,http://lunar.pm:8080/RandyJ/9876/132621
+铁证悬案,http://lunar.pm:8080/RandyJ/9876/132622
+神探可伦坡,http://lunar.pm:8080/RandyJ/9876/132623
+康斯坦丁,http://lunar.pm:8080/RandyJ/9876/132624
+超越时间线,http://lunar.pm:8080/RandyJ/9876/132625
+验尸官,http://lunar.pm:8080/RandyJ/9876/132626
+熟女镇,http://lunar.pm:8080/RandyJ/9876/132627
+犯罪心理,http://lunar.pm:8080/RandyJ/9876/132628
+犯罪现场调查：网络,http://lunar.pm:8080/RandyJ/9876/132629
+犯罪现场调查：迈阿密,http://lunar.pm:8080/RandyJ/9876/132630
+犯罪现场调查,http://lunar.pm:8080/RandyJ/9876/132631
+犯罪现场调查：纽约,http://lunar.pm:8080/RandyJ/9876/132632
+消消气,http://lunar.pm:8080/RandyJ/9876/132633
+好奇的乔治,http://lunar.pm:8080/RandyJ/9876/132634
+老爸的军队,http://lunar.pm:8080/RandyJ/9876/132635
+渔人的搏斗,http://lunar.pm:8080/RandyJ/9876/132636
+朽木,http://lunar.pm:8080/RandyJ/9876/132637
+天堂岛疑云,http://lunar.pm:8080/RandyJ/9876/132638
+迪格拉斯高中,http://lunar.pm:8080/RandyJ/9876/132639
+德里克,http://lunar.pm:8080/RandyJ/9876/132640
+德克斯特的实验室,http://lunar.pm:8080/RandyJ/9876/132641
+迪克·范·戴克秀,http://lunar.pm:8080/RandyJ/9876/132642
+细路仔,http://lunar.pm:8080/RandyJ/9876/132643
+美食大冒险,http://lunar.pm:8080/RandyJ/9876/132644
+恐龙,http://lunar.pm:8080/RandyJ/9876/132645
+迪士尼电影,http://lunar.pm:8080/RandyJ/9876/132646
+神秘博士,http://lunar.pm:8080/RandyJ/9876/132647
+爱探险的朵拉,http://lunar.pm:8080/RandyJ/9876/132648
+爱探险的朵拉,http://lunar.pm:8080/RandyJ/9876/132649
+唐顿庄园,http://lunar.pm:8080/RandyJ/9876/132650
+龙珠超,http://lunar.pm:8080/RandyJ/9876/132651
+龙珠Z,http://lunar.pm:8080/RandyJ/9876/132652
+龙珠Z,http://lunar.pm:8080/RandyJ/9876/132653
+梦工厂动画,http://lunar.pm:8080/RandyJ/9876/132654
+醉酒史,http://lunar.pm:8080/RandyJ/9876/132655
+鸭子王朝,http://lunar.pm:8080/RandyJ/9876/132656
+唐老鸭历险记,http://lunar.pm:8080/RandyJ/9876/132657
+唐老鸭历险记1987,http://lunar.pm:8080/RandyJ/9876/132658
+唐老鸭历险记2017,http://lunar.pm:8080/RandyJ/9876/132659
+艾莲娜公主,http://lunar.pm:8080/RandyJ/9876/132660
+艾莲娜公主,http://lunar.pm:8080/RandyJ/9876/132661
+明星伙伴,http://lunar.pm:8080/RandyJ/9876/132662
+急诊室的故事,http://lunar.pm:8080/RandyJ/9876/132663
+渐渐消逝的圆圈,http://lunar.pm:8080/RandyJ/9876/132664
+人人都恨克里斯,http://lunar.pm:8080/RandyJ/9876/132665
+人人都爱雷蒙德,http://lunar.pm:8080/RandyJ/9876/132666
+为家而战,http://lunar.pm:8080/RandyJ/9876/132667
+F小队,http://lunar.pm:8080/RandyJ/9876/132668
+恶搞之家,http://lunar.pm:8080/RandyJ/9876/132669
+恶搞之家,http://lunar.pm:8080/RandyJ/9876/132670
+成长没烦恼,http://lunar.pm:8080/RandyJ/9876/132671
+亲情纽带,http://lunar.pm:8080/RandyJ/9876/132672
+小俏妞南希,http://lunar.pm:8080/RandyJ/9876/132673
+梦幻岛,http://lunar.pm:8080/RandyJ/9876/132674
+冰血暴,http://lunar.pm:8080/RandyJ/9876/132675
+神父杜林探案,http://lunar.pm:8080/RandyJ/9876/132676
+神父泰德,http://lunar.pm:8080/RandyJ/9876/132677
+挑战恐惧,http://lunar.pm:8080/RandyJ/9876/132678
+萤火虫,http://lunar.pm:8080/RandyJ/9876/132679
+足球之妻,http://lunar.pm:8080/RandyJ/9876/132680
+千锤百炼,http://lunar.pm:8080/RandyJ/9876/132681
+弗拉格岩,http://lunar.pm:8080/RandyJ/9876/132682
+欢乐一家亲,http://lunar.pm:8080/RandyJ/9876/132683
+老友记,http://lunar.pm:8080/RandyJ/9876/132684
+欢乐满屋,http://lunar.pm:8080/RandyJ/9876/132685
+权力的游戏,http://lunar.pm:8080/RandyJ/9876/132686
+黑帮之地,http://lunar.pm:8080/RandyJ/9876/132687
+卧底黑帮,http://lunar.pm:8080/RandyJ/9876/132688
+加菲猫秀,http://lunar.pm:8080/RandyJ/9876/132689
+加文与斯泰西,http://lunar.pm:8080/RandyJ/9876/132690
+糊涂侦探,http://lunar.pm:8080/RandyJ/9876/132691
+鬼影探险,http://lunar.pm:8080/RandyJ/9876/132692
+捉鬼猎人,http://lunar.pm:8080/RandyJ/9876/132693
+吉利根岛,http://lunar.pm:8080/RandyJ/9876/132694
+吉尔莫女孩,http://lunar.pm:8080/RandyJ/9876/132695
+哈莱姆教父,http://lunar.pm:8080/RandyJ/9876/132696
+淘金热,http://lunar.pm:8080/RandyJ/9876/132697
+戈默·派尔，美国海军陆战队,http://lunar.pm:8080/RandyJ/9876/132698
+加油查莉,http://lunar.pm:8080/RandyJ/9876/132699
+美好时光,http://lunar.pm:8080/RandyJ/9876/132700
+晚安甜心,http://lunar.pm:8080/RandyJ/9876/132701
+鸡皮疙瘩,http://lunar.pm:8080/RandyJ/9876/132702
+哥谭市,http://lunar.pm:8080/RandyJ/9876/132703
+成长的烦恼,http://lunar.pm:8080/RandyJ/9876/132704
+荒野镖客,http://lunar.pm:8080/RandyJ/9876/132705
+欢乐时光,http://lunar.pm:8080/RandyJ/9876/132706
+幸福结局,http://lunar.pm:8080/RandyJ/9876/132707
+硬核典当,http://lunar.pm:8080/RandyJ/9876/132708
+夏威夷特勤组,http://lunar.pm:8080/RandyJ/9876/132709
+希曼与宇宙大师2002,http://lunar.pm:8080/RandyJ/9876/132710
+希曼与宇宙大师,http://lunar.pm:8080/RandyJ/9876/132711
+地狱之轮,http://lunar.pm:8080/RandyJ/9876/132712
+地狱厨房,http://lunar.pm:8080/RandyJ/9876/132713
+亨利·哈德,http://lunar.pm:8080/RandyJ/9876/132714
+大力士,http://lunar.pm:8080/RandyJ/9876/132715
+嗨！嗨！嗨！,http://lunar.pm:8080/RandyJ/9876/132716
+希尔街蓝调,http://lunar.pm:8080/RandyJ/9876/132717
+霍根英雄,http://lunar.pm:8080/RandyJ/9876/132718
+家居改善,http://lunar.pm:8080/RandyJ/9876/132719
+纸牌屋,http://lunar.pm:8080/RandyJ/9876/132720
+老爸老妈浪漫史,http://lunar.pm:8080/RandyJ/9876/132721
+太空仙女恋,http://lunar.pm:8080/RandyJ/9876/132722
+我爱露西,http://lunar.pm:8080/RandyJ/9876/132723
+笨贼一箩筐,http://lunar.pm:8080/RandyJ/9876/132724
+生动的颜色,http://lunar.pm:8080/RandyJ/9876/132725
+炎热的夜晚,http://lunar.pm:8080/RandyJ/9876/132726
+纹身大师,http://lunar.pm:8080/RandyJ/9876/132727
+蠢蛋搞怪秀,http://lunar.pm:8080/RandyJ/9876/132728
+成龙历险记,http://lunar.pm:8080/RandyJ/9876/132729
+乔尼·奎斯特,http://lunar.pm:8080/RandyJ/9876/132730
+侏罗纪世界：白垩纪营地,http://lunar.pm:8080/RandyJ/9876/132731
+只是好朋友,http://lunar.pm:8080/RandyJ/9876/132732
+维持出场,http://lunar.pm:8080/RandyJ/9876/132733
+与卡戴珊一家同行,http://lunar.pm:8080/RandyJ/9876/132734
+基和皮尔,http://lunar.pm:8080/RandyJ/9876/132735
+乡巴佬希尔一家的幸福生活,http://lunar.pm:8080/RandyJ/9876/132736
+厨房噩梦英国版,http://lunar.pm:8080/RandyJ/9876/132737
+厨房噩梦美国版,http://lunar.pm:8080/RandyJ/9876/132738
+霹雳游侠,http://lunar.pm:8080/RandyJ/9876/132739
+功夫熊猫,http://lunar.pm:8080/RandyJ/9876/132740
+最后的男人,http://lunar.pm:8080/RandyJ/9876/132741
+夏日葡萄酒最后的一季,http://lunar.pm:8080/RandyJ/9876/132742
+法律与秩序：有组织犯罪,http://lunar.pm:8080/RandyJ/9876/132743
+法律与秩序：特殊受害者,http://lunar.pm:8080/RandyJ/9876/132744
+乐高星球大战,http://lunar.pm:8080/RandyJ/9876/132745
+致命武器,http://lunar.pm:8080/RandyJ/9876/132746
+莱特肯尼,http://lunar.pm:8080/RandyJ/9876/132747
+小不列颠,http://lunar.pm:8080/RandyJ/9876/132748
+小爱因斯坦,http://lunar.pm:8080/RandyJ/9876/132749
+草原上的小房子,http://lunar.pm:8080/RandyJ/9876/132750
+乐一通,http://lunar.pm:8080/RandyJ/9876/132751
+乐一通经典,http://lunar.pm:8080/RandyJ/9876/132752
+乐一通,http://lunar.pm:8080/RandyJ/9876/132753
+路西法,http://lunar.pm:8080/RandyJ/9876/132754
+夏威夷神探,http://lunar.pm:8080/RandyJ/9876/132755
+马尔科姆的一家,http://lunar.pm:8080/RandyJ/9876/132756
+马丁,http://lunar.pm:8080/RandyJ/9876/132757
+复仇者联盟,http://lunar.pm:8080/RandyJ/9876/132758
+夜魔侠,http://lunar.pm:8080/RandyJ/9876/132759
+迈阿密风云,http://lunar.pm:8080/RandyJ/9876/132760
+米奇妙妙屋,http://lunar.pm:8080/RandyJ/9876/132761
+米奇妙妙屋,http://lunar.pm:8080/RandyJ/9876/132762
+无敌鸭,http://lunar.pm:8080/RandyJ/9876/132763
+老妈,http://lunar.pm:8080/RandyJ/9876/132764
+憨豆先生,http://lunar.pm:8080/RandyJ/9876/132765
+憨豆先生动画版,http://lunar.pm:8080/RandyJ/9876/132766
+布偶宝宝,http://lunar.pm:8080/RandyJ/9876/132767
+布偶宝宝秀,http://lunar.pm:8080/RandyJ/9876/132768
+我的家庭,http://lunar.pm:8080/RandyJ/9876/132769
+我的小马驹,http://lunar.pm:8080/RandyJ/9876/132770
+我的小马驹,http://lunar.pm:8080/RandyJ/9876/132771
+我的名字叫厄尔,http://lunar.pm:8080/RandyJ/9876/132772
+海军罪案调查处,http://lunar.pm:8080/RandyJ/9876/132773
+海军罪案调查处：洛杉矶,http://lunar.pm:8080/RandyJ/9876/132774
+海军罪案调查处：新奥尔良,http://lunar.pm:8080/RandyJ/9876/132775
+不出门,http://lunar.pm:8080/RandyJ/9876/132776
+巴士奇缘,http://lunar.pm:8080/RandyJ/9876/132777
+只有傻瓜和马,http://lunar.pm:8080/RandyJ/9876/132778
+女子监狱,http://lunar.pm:8080/RandyJ/9876/132779
+汪汪队立大功,http://lunar.pm:8080/RandyJ/9876/132780
+浴血黑帮,http://lunar.pm:8080/RandyJ/9876/132781
+小猪佩奇,http://lunar.pm:8080/RandyJ/9876/132782
+企鹅家族,http://lunar.pm:8080/RandyJ/9876/132783
+飞天小女警,http://lunar.pm:8080/RandyJ/9876/132784
+蒙面睡衣侠,http://lunar.pm:8080/RandyJ/9876/132785
+宝可梦,http://lunar.pm:8080/RandyJ/9876/132786
+宝可梦,http://lunar.pm:8080/RandyJ/9876/132787
+波尔达克,http://lunar.pm:8080/RandyJ/9876/132788
+大力水手,http://lunar.pm:8080/RandyJ/9876/132789
+狗狗朋友,http://lunar.pm:8080/RandyJ/9876/132790
+瑞克和莫蒂,http://lunar.pm:8080/RandyJ/9876/132791
+瑞克和莫蒂,http://lunar.pm:8080/RandyJ/9876/132792
+升起的 damp,http://lunar.pm:8080/RandyJ/9876/132793
+罗珊娜,http://lunar.pm:8080/RandyJ/9876/132794
+小淘气,http://lunar.pm:8080/RandyJ/9876/132795
+小淘气,http://lunar.pm:8080/RandyJ/9876/132796
+桑福德和儿子,http://lunar.pm:8080/RandyJ/9876/132797
+被铃声拯救,http://lunar.pm:8080/RandyJ/9876/132798
+史酷比与小 Scrappy Doo,http://lunar.pm:8080/RandyJ/9876/132799
+史酷比,http://lunar.pm:8080/RandyJ/9876/132800
+史酷比经典,http://lunar.pm:8080/RandyJ/9876/132801
+天蝎,http://lunar.pm:8080/RandyJ/9876/132802
+尖叫女王,http://lunar.pm:8080/RandyJ/9876/132803
+实习医生风云,http://lunar.pm:8080/RandyJ/9876/132804
+宋飞正传,http://lunar.pm:8080/RandyJ/9876/132805
+欲望都市,http://lunar.pm:8080/RandyJ/9876/132806
+希瑞：权力公主,http://lunar.pm:8080/RandyJ/9876/132807
+神探夏洛克,http://lunar.pm:8080/RandyJ/9876/132808
+福尔摩斯,http://lunar.pm:8080/RandyJ/9876/132809
+辛普森一家,http://lunar.pm:8080/RandyJ/9876/132810
+南方公园,http://lunar.pm:8080/RandyJ/9876/132811
+蜘蛛侠,http://lunar.pm:8080/RandyJ/9876/132812
+海绵宝宝,http://lunar.pm:8080/RandyJ/9876/132813
+海绵宝宝,http://lunar.pm:8080/RandyJ/9876/132814
+斯台普顿父子,http://lunar.pm:8080/RandyJ/9876/132815
+超级飞侠,http://lunar.pm:8080/RandyJ/9876/132816
+武田城堡,http://lunar.pm:8080/RandyJ/9876/132817
+航空小英雄,http://lunar.pm:8080/RandyJ/9876/132818
+少年泰坦出击,http://lunar.pm:8080/RandyJ/9876/132819
+忍者神龟2003,http://lunar.pm:8080/RandyJ/9876/132820
+忍者神龟,http://lunar.pm:8080/RandyJ/9876/132821
+那个女孩,http://lunar.pm:8080/RandyJ/9876/132822
+安迪·格里菲斯秀,http://lunar.pm:8080/RandyJ/9876/132823
+蝙蝠侠,http://lunar.pm:8080/RandyJ/9876/132824
+本尼·希尔秀,http://lunar.pm:8080/RandyJ/9876/132825
+生活大爆炸,http://lunar.pm:8080/RandyJ/9876/132826
+哈扎德公爵,http://lunar.pm:8080/RandyJ/9876/132827
+最初48小时,http://lunar.pm:8080/RandyJ/9876/132828
+摩登原始人,http://lunar.pm:8080/RandyJ/9876/132829
+摩登原始人,http://lunar.pm:8080/RandyJ/9876/132830
+新鲜王子妙事多,http://lunar.pm:8080/RandyJ/9876/132831
+黄金女郎,http://lunar.pm:8080/RandyJ/9876/132832
+大旅行,http://lunar.pm:8080/RandyJ/9876/132833
+无敌浩克,http://lunar.pm:8080/RandyJ/9876/132834
+杰斐逊一家,http://lunar.pm:8080/RandyJ/9876/132835
+后中之王,http://lunar.pm:8080/RandyJ/9876/132836
+爱之船,http://lunar.pm:8080/RandyJ/9876/132837
+玛丽·泰勒·摩尔秀,http://lunar.pm:8080/RandyJ/9876/132838
+变相怪杰动画版,http://lunar.pm:8080/RandyJ/9876/132839
+模特小队,http://lunar.pm:8080/RandyJ/9876/132840
+芒斯特一家,http://lunar.pm:8080/RandyJ/9876/132841
+保姆,http://lunar.pm:8080/RandyJ/9876/132842
+办公室,http://lunar.pm:8080/RandyJ/9876/132843
+粉红豹,http://lunar.pm:8080/RandyJ/9876/132844
+粉红豹,http://lunar.pm:8080/RandyJ/9876/132845
+PJs,http://lunar.pm:8080/RandyJ/9876/132846
+牧场,http://lunar.pm:8080/RandyJ/9876/132847
+辛普森一家,http://lunar.pm:8080/RandyJ/9876/132848
+六百万美元先生,http://lunar.pm:8080/RandyJ/9876/132849
+蓝精灵,http://lunar.pm:8080/RandyJ/9876/132850
+蓝精灵,http://lunar.pm:8080/RandyJ/9876/132851
+史蒂夫·哈维秀,http://lunar.pm:8080/RandyJ/9876/132852
+三个臭皮匠,http://lunar.pm:8080/RandyJ/9876/132853
+猫和老鼠秀,http://lunar.pm:8080/RandyJ/9876/132854
+非常人贩,http://lunar.pm:8080/RandyJ/9876/132855
+阴阳魔界,http://lunar.pm:8080/RandyJ/9876/132856
+行尸走肉,http://lunar.pm:8080/RandyJ/9876/132857
+沃尔顿一家,http://lunar.pm:8080/RandyJ/9876/132858
+岁月峥嵘,http://lunar.pm:8080/RandyJ/9876/132859
+三人行,http://lunar.pm:8080/RandyJ/9876/132860
+霹雳猫,http://lunar.pm:8080/RandyJ/9876/132861
+霹雳猫,http://lunar.pm:8080/RandyJ/9876/132862
+永恒,http://lunar.pm:8080/RandyJ/9876/132863
+忍者神龟,http://lunar.pm:8080/RandyJ/9876/132864
+猫和老鼠,http://lunar.pm:8080/RandyJ/9876/132865
+猫和老鼠经典,http://lunar.pm:8080/RandyJ/9876/132866
+玩具总动员,http://lunar.pm:8080/RandyJ/9876/132867
+拖车公园男孩,http://lunar.pm:8080/RandyJ/9876/132868
+变形金刚动画,http://lunar.pm:8080/RandyJ/9876/132869
+旅行达人48小时,http://lunar.pm:8080/RandyJ/9876/132870
+好汉两个半,http://lunar.pm:8080/RandyJ/9876/132871
+不可遗忘,http://lunar.pm:8080/RandyJ/9876/132872
+欢迎归来科特,http://lunar.pm:8080/RandyJ/9876/132873
+欢迎来到恶魔学校入间君,http://lunar.pm:8080/RandyJ/9876/132874
+谁是老大,http://lunar.pm:8080/RandyJ/9876/132875
+台词谁说了算,http://lunar.pm:8080/RandyJ/9876/132876
+X战警动画,http://lunar.pm:8080/RandyJ/9876/132877
+黄石,http://lunar.pm:8080/RandyJ/9876/132878
+
+
+电视剧集,#genre#
+
+12只猴子,http://lunar.pm:8080/RandyJ/9876/134004
+十三个原因,http://lunar.pm:8080/RandyJ/9876/134005
+15层楼高,http://lunar.pm:8080/RandyJ/9876/134006
+破产姐妹,http://lunar.pm:8080/RandyJ/9876/134007
+21跳街,http://lunar.pm:8080/RandyJ/9876/134008
+24小时,http://lunar.pm:8080/RandyJ/9876/134009
+急诊室24小时,http://lunar.pm:8080/RandyJ/9876/134010
+我为喜剧狂,http://lunar.pm:8080/RandyJ/9876/134011
+外星人报道,http://lunar.pm:8080/RandyJ/9876/134012
+简单规则8条,http://lunar.pm:8080/RandyJ/9876/134013
+紧急呼救：孤星,http://lunar.pm:8080/RandyJ/9876/134014
+不同的世界,http://lunar.pm:8080/RandyJ/9876/134015
+弗罗斯特探案,http://lunar.pm:8080/RandyJ/9876/134016
+失踪,http://lunar.pm:8080/RandyJ/9876/134017
+法国小馆儿,http://lunar.pm:8080/RandyJ/9876/134018
+听吉姆说,http://lunar.pm:8080/RandyJ/9876/134019
+飞狼,http://lunar.pm:8080/RandyJ/9876/134020
+万物生灵,http://lunar.pm:8080/RandyJ/9876/134021
+全家福,http://lunar.pm:8080/RandyJ/9876/134022
+法国小馆儿,http://lunar.pm:8080/RandyJ/9876/134023
+美国老爹,http://lunar.pm:8080/RandyJ/9876/134024
+一个傻瓜在国外,http://lunar.pm:8080/RandyJ/9876/134025
+远古外星人,http://lunar.pm:8080/RandyJ/9876/134026
+远古启示录2022,http://lunar.pm:8080/RandyJ/9876/134027
+发展受阻,http://lunar.pm:8080/RandyJ/9876/134028
+与 furys 在家,http://lunar.pm:8080/RandyJ/9876/134029
+宠物,http://lunar.pm:8080/RandyJ/9876/134030
+巴比伦5号,http://lunar.pm:8080/RandyJ/9876/134031
+重启人生,http://lunar.pm:8080/RandyJ/9876/134032
+坏女孩,http://lunar.pm:8080/RandyJ/9876/134033
+球手们,http://lunar.pm:8080/RandyJ/9876/134034
+兄弟连,http://lunar.pm:8080/RandyJ/9876/134035
+海外囚徒,http://lunar.pm:8080/RandyJ/9876/134036
+黑吃黑,http://lunar.pm:8080/RandyJ/9876/134037
+海滩救护队,http://lunar.pm:8080/RandyJ/9876/134038
+甲板之下,http://lunar.pm:8080/RandyJ/9876/134039
+贝尼多尔姆,http://lunar.pm:8080/RandyJ/9876/134040
+风骚律师,http://lunar.pm:8080/RandyJ/9876/134041
+大男孩,http://lunar.pm:8080/RandyJ/9876/134042
+大嘴巴,http://lunar.pm:8080/RandyJ/9876/134043
+亿万,http://lunar.pm:8080/RandyJ/9876/134044
+改装车,http://lunar.pm:8080/RandyJ/9876/134045
+黑镜,http://lunar.pm:8080/RandyJ/9876/134046
+黑帆,http://lunar.pm:8080/RandyJ/9876/134047
+祝福这所房子,http://lunar.pm:8080/RandyJ/9876/134048
+开心汉堡店,http://lunar.pm:8080/RandyJ/9876/134049
+识骨寻踪,http://lunar.pm:8080/RandyJ/9876/134050
+底层,http://lunar.pm:8080/RandyJ/9876/134051
+男孩成长记,http://lunar.pm:8080/RandyJ/9876/134052
+野玫瑰,http://lunar.pm:8080/RandyJ/9876/134053
+绝命毒师,http://lunar.pm:8080/RandyJ/9876/134054
+养育者,http://lunar.pm:8080/RandyJ/9876/134055
+砖块城,http://lunar.pm:8080/RandyJ/9876/134056
+小镇疑云,http://lunar.pm:8080/RandyJ/9876/134057
+神烦警探,http://lunar.pm:8080/RandyJ/9876/134058
+吸血鬼猎人巴菲,http://lunar.pm:8080/RandyJ/9876/134059
+火线警告,http://lunar.pm:8080/RandyJ/9876/134060
+加州靡情,http://lunar.pm:8080/RandyJ/9876/134061
+付不起？我们帮你搬走！,http://lunar.pm:8080/RandyJ/9876/134062
+汽车急救,http://lunar.pm:8080/RandyJ/9876/134063
+霹雳娇娃,http://lunar.pm:8080/RandyJ/9876/134064
+圣女魔咒,http://lunar.pm:8080/RandyJ/9876/134065
+干杯酒吧,http://lunar.pm:8080/RandyJ/9876/134066
+切尔诺贝利,http://lunar.pm:8080/RandyJ/9876/134067
+嚼嚼肥,http://lunar.pm:8080/RandyJ/9876/134068
+芝加哥烈焰,http://lunar.pm:8080/RandyJ/9876/134069
+芝加哥警署,http://lunar.pm:8080/RandyJ/9876/134070
+中国海滩,http://lunar.pm:8080/RandyJ/9876/134071
+鬼娃恰吉,http://lunar.pm:8080/RandyJ/9876/134072
+克拉克森的农场,http://lunar.pm:8080/RandyJ/9876/134073
+眼镜蛇道馆,http://lunar.pm:8080/RandyJ/9876/134074
+铁证悬案,http://lunar.pm:8080/RandyJ/9876/134075
+神探可伦坡,http://lunar.pm:8080/RandyJ/9876/134076
+废柴联盟,http://lunar.pm:8080/RandyJ/9876/134077
+警察故事,http://lunar.pm:8080/RandyJ/9876/134078
+犯罪现场调查,http://lunar.pm:8080/RandyJ/9876/134079
+消消气,http://lunar.pm:8080/RandyJ/9876/134080
+老爸的军队,http://lunar.pm:8080/RandyJ/9876/134081
+道森的小溪,http://lunar.pm:8080/RandyJ/9876/134082
+死人如我,http://lunar.pm:8080/RandyJ/9876/134083
+死后文,http://lunar.pm:8080/RandyJ/9876/134084
+渔人的搏斗,http://lunar.pm:8080/RandyJ/9876/134085
+朽木,http://lunar.pm:8080/RandyJ/9876/134086
+迪格拉斯初中,http://lunar.pm:8080/RandyJ/9876/134087
+德里克,http://lunar.pm:8080/RandyJ/9876/134088
+德里女孩,http://lunar.pm:8080/RandyJ/9876/134089
+绝望主妇,http://lunar.pm:8080/RandyJ/9876/134090
+嗜血法医,http://lunar.pm:8080/RandyJ/9876/134091
+狄金森,http://lunar.pm:8080/RandyJ/9876/134092
+晚餐女士,http://lunar.pm:8080/RandyJ/9876/134093
+马丁医生,http://lunar.pm:8080/RandyJ/9876/134094
+赏金猎人狗,http://lunar.pm:8080/RandyJ/9876/134095
+成瘾剂量,http://lunar.pm:8080/RandyJ/9876/134096
+唐顿庄园,http://lunar.pm:8080/RandyJ/9876/134097
+挤痘医生,http://lunar.pm:8080/RandyJ/9876/134098
+龙穴,http://lunar.pm:8080/RandyJ/9876/134099
+梦幻之队,http://lunar.pm:8080/RandyJ/9876/134100
+醉酒史,http://lunar.pm:8080/RandyJ/9876/134101
+王朝,http://lunar.pm:8080/RandyJ/9876/134102
+人人都爱雷蒙德,http://lunar.pm:8080/RandyJ/9876/134103
+传世,http://lunar.pm:8080/RandyJ/9876/134104
+恶搞之家,http://lunar.pm:8080/RandyJ/9876/134105
+成长没烦恼,http://lunar.pm:8080/RandyJ/9876/134106
+亲情纽带,http://lunar.pm:8080/RandyJ/9876/134107
+神父泰德,http://lunar.pm:8080/RandyJ/9876/134108
+福达,http://lunar.pm:8080/RandyJ/9876/134109
+弗尔蒂旅馆,http://lunar.pm:8080/RandyJ/9876/134110
+行尸之惧,http://lunar.pm:8080/RandyJ/9876/134111
+寻找卡特,http://lunar.pm:8080/RandyJ/9876/134112
+闪点,http://lunar.pm:8080/RandyJ/9876/134113
+闪点行动,http://lunar.pm:8080/RandyJ/9876/134114
+骗我一次（哈兰·科本）,http://lunar.pm:8080/RandyJ/9876/134115
+法医档案II,http://lunar.pm:8080/RandyJ/9876/134116
+千锤百炼,http://lunar.pm:8080/RandyJ/9876/134117
+要塞,http://lunar.pm:8080/RandyJ/9876/134118
+欢乐一家亲,http://lunar.pm:8080/RandyJ/9876/134119
+欢乐一家亲（2023）,http://lunar.pm:8080/RandyJ/9876/134120
+怪胎与书呆,http://lunar.pm:8080/RandyJ/9876/134121
+周五晚餐,http://lunar.pm:8080/RandyJ/9876/134122
+老友记,http://lunar.pm:8080/RandyJ/9876/134123
+危机边缘,http://lunar.pm:8080/RandyJ/9876/134124
+FUBAR,http://lunar.pm:8080/RandyJ/9876/134125
+欢乐满屋,http://lunar.pm:8080/RandyJ/9876/134126
+权力的游戏,http://lunar.pm:8080/RandyJ/9876/134127
+游戏继续,http://lunar.pm:8080/RandyJ/9876/134128
+伦敦黑帮,http://lunar.pm:8080/RandyJ/9876/134129
+加文与斯泰西,http://lunar.pm:8080/RandyJ/9876/134130
+加文与斯泰西特别篇,http://lunar.pm:8080/RandyJ/9876/134131
+糊涂侦探,http://lunar.pm:8080/RandyJ/9876/134132
+鬼语者,http://lunar.pm:8080/RandyJ/9876/134133
+吉利根岛,http://lunar.pm:8080/RandyJ/9876/134134
+吉尔莫女孩,http://lunar.pm:8080/RandyJ/9876/134135
+给我给我给我,http://lunar.pm:8080/RandyJ/9876/134136
+欢乐合唱团,http://lunar.pm:8080/RandyJ/9876/134137
+淘金热,http://lunar.pm:8080/RandyJ/9876/134138
+美好时光,http://lunar.pm:8080/RandyJ/9876/134139
+天佑我,http://lunar.pm:8080/RandyJ/9876/134140
+晚安甜心,http://lunar.pm:8080/RandyJ/9876/134141
+绯闻女孩,http://lunar.pm:8080/RandyJ/9876/134142
+哥谭骑士,http://lunar.pm:8080/RandyJ/9876/134143
+格林,http://lunar.pm:8080/RandyJ/9876/134144
+荒野镖客,http://lunar.pm:8080/RandyJ/9876/134145
+黑尔与佩斯,http://lunar.pm:8080/RandyJ/9876/134146
+欢乐时光,http://lunar.pm:8080/RandyJ/9876/134147
+硬核典当,http://lunar.pm:8080/RandyJ/9876/134148
+心跳,http://lunar.pm:8080/RandyJ/9876/134149
+地狱厨房,http://lunar.pm:8080/RandyJ/9876/134150
+地狱公路,http://lunar.pm:8080/RandyJ/9876/134151
+希尔街蓝调,http://lunar.pm:8080/RandyJ/9876/134152
+囤积狂,http://lunar.pm:8080/RandyJ/9876/134153
+霍根英雄,http://lunar.pm:8080/RandyJ/9876/134154
+国土安全,http://lunar.pm:8080/RandyJ/9876/134155
+锤子下的家,http://lunar.pm:8080/RandyJ/9876/134156
+地狱酒店,http://lunar.pm:8080/RandyJ/9876/134157
+豪斯医生,http://lunar.pm:8080/RandyJ/9876/134158
+纸牌屋,http://lunar.pm:8080/RandyJ/9876/134159
+龙之家族,http://lunar.pm:8080/RandyJ/9876/134160
+老爸老妈浪漫史,http://lunar.pm:8080/RandyJ/9876/134161
+制造原理,http://lunar.pm:8080/RandyJ/9876/134162
+逍遥法外,http://lunar.pm:8080/RandyJ/9876/134163
+追捕希特勒,http://lunar.pm:8080/RandyJ/9876/134164
+太空仙女恋,http://lunar.pm:8080/RandyJ/9876/134165
+我爱露西,http://lunar.pm:8080/RandyJ/9876/134166
+我是阿兰·帕特里奇,http://lunar.pm:8080/RandyJ/9876/134167
+冰路卡车司机,http://lunar.pm:8080/RandyJ/9876/134168
+笨贼一箩筐,http://lunar.pm:8080/RandyJ/9876/134169
+生动的颜色,http://lunar.pm:8080/RandyJ/9876/134170
+炎热的夜晚,http://lunar.pm:8080/RandyJ/9876/134171
+疯狂健身,http://lunar.pm:8080/RandyJ/9876/134172
+曼岛TT,http://lunar.pm:8080/RandyJ/9876/134173
+杰克·瑞恩,http://lunar.pm:8080/RandyJ/9876/134174
+蠢蛋搞怪秀,http://lunar.pm:8080/RandyJ/9876/134175
+乔纳森·克里克,http://lunar.pm:8080/RandyJ/9876/134176
+维持出场,http://lunar.pm:8080/RandyJ/9876/134177
+肯南与凯尔,http://lunar.pm:8080/RandyJ/9876/134178
+肯尼vs斯宾尼,http://lunar.pm:8080/RandyJ/9876/134179
+杀死伊芙,http://lunar.pm:8080/RandyJ/9876/134180
+乡巴佬希尔一家的幸福生活,http://lunar.pm:8080/RandyJ/9876/134181
+霹雳游侠,http://lunar.pm:8080/RandyJ/9876/134182
+科杰克,http://lunar.pm:8080/RandyJ/9876/134183
+拉布雷亚,http://lunar.pm:8080/RandyJ/9876/134184
+拉文与雪莉,http://lunar.pm:8080/RandyJ/9876/134185
+法律与秩序,http://lunar.pm:8080/RandyJ/9876/134186
+法律与秩序：犯罪倾向,http://lunar.pm:8080/RandyJ/9876/134187
+法律与秩序：有组织犯罪,http://lunar.pm:8080/RandyJ/9876/134188
+法律与秩序：特殊受害者,http://lunar.pm:8080/RandyJ/9876/134189
+莱特肯尼,http://lunar.pm:8080/RandyJ/9876/134190
+火星生活,http://lunar.pm:8080/RandyJ/9876/134191
+重任在肩,http://lunar.pm:8080/RandyJ/9876/134192
+小不列颠,http://lunar.pm:8080/RandyJ/9876/134193
+草原上的小房子,http://lunar.pm:8080/RandyJ/9876/134194
+单身生活,http://lunar.pm:8080/RandyJ/9876/134195
+迷失,http://lunar.pm:8080/RandyJ/9876/134196
+响度米尔克,http://lunar.pm:8080/RandyJ/9876/134197
+爱邻如己,http://lunar.pm:8080/RandyJ/9876/134198
+爱/恨,http://lunar.pm:8080/RandyJ/9876/134199
+路西法,http://lunar.pm:8080/RandyJ/9876/134200
+陆军野战医院,http://lunar.pm:8080/RandyJ/9876/134201
+百战天龙,http://lunar.pm:8080/RandyJ/9876/134202
+广告狂人,http://lunar.pm:8080/RandyJ/9876/134203
+国务卿女士,http://lunar.pm:8080/RandyJ/9876/134204
+私家侦探,http://lunar.pm:8080/RandyJ/9876/134205
+马尔科姆的一家,http://lunar.pm:8080/RandyJ/9876/134206
+屋中之人,http://lunar.pm:8080/RandyJ/9876/134207
+人与食物,http://lunar.pm:8080/RandyJ/9876/134208
+命运航班,http://lunar.pm:8080/RandyJ/9876/134209
+已婚...有孩子,http://lunar.pm:8080/RandyJ/9876/134210
+ Martial Law,http://lunar.pm:8080/RandyJ/9876/134211
+马丁,http://lunar.pm:8080/RandyJ/9876/134212
+特工卡特,http://lunar.pm:8080/RandyJ/9876/134213
+马特洛克,http://lunar.pm:8080/RandyJ/9876/134214
+男人可恶,http://lunar.pm:8080/RandyJ/9876/134215
+迈阿密风云,http://lunar.pm:8080/RandyJ/9876/134216
+麦克与莫莉,http://lunar.pm:8080/RandyJ/9876/134217
+米兰达,http://lunar.pm:8080/RandyJ/9876/134218
+摩登家庭,http://lunar.pm:8080/RandyJ/9876/134219
+神探阿蒙,http://lunar.pm:8080/RandyJ/9876/134220
+憨豆先生,http://lunar.pm:8080/RandyJ/9876/134221
+黑客军团,http://lunar.pm:8080/RandyJ/9876/134222
+布朗夫人的儿子们,http://lunar.pm:8080/RandyJ/9876/134223
+布朗夫人的儿子们（特别篇）,http://lunar.pm:8080/RandyJ/9876/134224
+我的名字叫厄尔,http://lunar.pm:8080/RandyJ/9876/134225
+我的妻子和孩子,http://lunar.pm:8080/RandyJ/9876/134226
+裸体诱惑,http://lunar.pm:8080/RandyJ/9876/134227
+毒枭,http://lunar.pm:8080/RandyJ/9876/134228
+俏妞新世代,http://lunar.pm:8080/RandyJ/9876/134229
+纽哈特,http://lunar.pm:8080/RandyJ/9876/134230
+纽约重案组,http://lunar.pm:8080/RandyJ/9876/134231
+巴士奇缘,http://lunar.pm:8080/RandyJ/9876/134232
+童话镇,http://lunar.pm:8080/RandyJ/9876/134233
+一脚进坟墓,http://lunar.pm:8080/RandyJ/9876/134234
+篮球兄弟,http://lunar.pm:8080/RandyJ/9876/134235
+只有傻瓜和马,http://lunar.pm:8080/RandyJ/9876/134236
+只有傻瓜和马特别篇,http://lunar.pm:8080/RandyJ/9876/134237
+女子监狱,http://lunar.pm:8080/RandyJ/9876/134238
+古战场传奇,http://lunar.pm:8080/RandyJ/9876/134239
+帕姆与汤米,http://lunar.pm:8080/RandyJ/9876/134240
+公园与游憩,http://lunar.pm:8080/RandyJ/9876/134241
+典当之星,http://lunar.pm:8080/RandyJ/9876/134242
+浴血黑帮,http://lunar.pm:8080/RandyJ/9876/134243
+窥视秀,http://lunar.pm:8080/RandyJ/9876/134244
+潘与泰勒：骗你没商量,http://lunar.pm:8080/RandyJ/9876/134245
+人民已经一无所有,http://lunar.pm:8080/RandyJ/9876/134246
+疑犯追踪,http://lunar.pm:8080/RandyJ/9876/134247
+彼得·凯的车享,http://lunar.pm:8080/RandyJ/9876/134248
+凤凰之夜,http://lunar.pm:8080/RandyJ/9876/134249
+波尔达克,http://lunar.pm:8080/RandyJ/9876/134250
+粥,http://lunar.pm:8080/RandyJ/9876/134251
+权力,http://lunar.pm:8080/RandyJ/9876/134252
+权欲第二章：幽灵,http://lunar.pm:8080/RandyJ/9876/134253
+美少女的谎言,http://lunar.pm:8080/RandyJ/9876/134254
+越狱,http://lunar.pm:8080/RandyJ/9876/134255
+南方女王,http://lunar.pm:8080/RandyJ/9876/134256
+拉布·C·内斯比特,http://lunar.pm:8080/RandyJ/9876/134257
+拉姆齐的厨房噩梦,http://lunar.pm:8080/RandyJ/9876/134258
+雷·多诺万,http://lunar.pm:8080/RandyJ/9876/134259
+侠探杰克,http://lunar.pm:8080/RandyJ/9876/134260
+红矮星号,http://lunar.pm:8080/RandyJ/9876/134261
+红矮星号（特别篇）,http://lunar.pm:8080/RandyJ/9876/134262
+雷明顿·斯蒂尔,http://lunar.pm:8080/RandyJ/9876/134263
+理查德·哈蒙德的巨作,http://lunar.pm:8080/RandyJ/9876/134264
+瑞克和莫蒂,http://lunar.pm:8080/RandyJ/9876/134265
+升起的 damp,http://lunar.pm:8080/RandyJ/9876/134266
+河流怪物,http://lunar.pm:8080/RandyJ/9876/134267
+妙女神探,http://lunar.pm:8080/RandyJ/9876/134268
+罗布森的极限钓鱼挑战,http://lunar.pm:8080/RandyJ/9876/134269
+罗斯·坎普的黑帮,http://lunar.pm:8080/RandyJ/9876/134270
+交战规则,http://lunar.pm:8080/RandyJ/9876/134271
+安全（哈兰·科本）,http://lunar.pm:8080/RandyJ/9876/134272
+桑福德和儿子,http://lunar.pm:8080/RandyJ/9876/134273
+富家穷路,http://lunar.pm:8080/RandyJ/9876/134274
+实习医生风云,http://lunar.pm:8080/RandyJ/9876/134275
+宋飞正传,http://lunar.pm:8080/RandyJ/9876/134276
+欲望都市,http://lunar.pm:8080/RandyJ/9876/134277
+无耻之徒,http://lunar.pm:8080/RandyJ/9876/134278
+神探夏洛克,http://lunar.pm:8080/RandyJ/9876/134279
+西蒙与西蒙,http://lunar.pm:8080/RandyJ/9876/134280
+皮囊,http://lunar.pm:8080/RandyJ/9876/134281
+流人,http://lunar.pm:8080/RandyJ/9876/134282
+超人前传,http://lunar.pm:8080/RandyJ/9876/134283
+有些妈妈就是这样,http://lunar.pm:8080/RandyJ/9876/134284
+混乱之子,http://lunar.pm:8080/RandyJ/9876/134285
+南方公园,http://lunar.pm:8080/RandyJ/9876/134286
+星际迷航：深空九号,http://lunar.pm:8080/RandyJ/9876/134287
+星际迷航系列,http://lunar.pm:8080/RandyJ/9876/134288
+星际迷航：发现号,http://lunar.pm:8080/RandyJ/9876/134289
+星际迷航：企业号,http://lunar.pm:8080/RandyJ/9876/134290
+星际迷航：皮卡德,http://lunar.pm:8080/RandyJ/9876/134291
+星际迷航：神童,http://lunar.pm:8080/RandyJ/9876/134292
+星际迷航：下一代,http://lunar.pm:8080/RandyJ/9876/134293
+星际迷航：航海家号,http://lunar.pm:8080/RandyJ/9876/134294
+星球大战：克隆人战争,http://lunar.pm:8080/RandyJ/9876/134295
+星际之门：亚特兰蒂斯,http://lunar.pm:8080/RandyJ/9876/134296
+星际之门：SG-1,http://lunar.pm:8080/RandyJ/9876/134297
+星际之门：宇宙,http://lunar.pm:8080/RandyJ/9876/134298
+保持亲密（哈兰·科本）,http://lunar.pm:8080/RandyJ/9876/134299
+斯特拉,http://lunar.pm:8080/RandyJ/9876/134300
+一步一步来,http://lunar.pm:8080/RandyJ/9876/134301
+依然游戏,http://lunar.pm:8080/RandyJ/9876/134302
+依然营业,http://lunar.pm:8080/RandyJ/9876/134303
+怪奇物语,http://lunar.pm:8080/RandyJ/9876/134304
+继承之战,http://lunar.pm:8080/RandyJ/9876/134305
+金装律师,http://lunar.pm:8080/RandyJ/9876/134306
+桑德兰直到我死,http://lunar.pm:8080/RandyJ/9876/134307
+超级商店,http://lunar.pm:8080/RandyJ/9876/134308
+T.J. 胡克,http://lunar.pm:8080/RandyJ/9876/134309
+魔界奇谭,http://lunar.pm:8080/RandyJ/9876/134310
+出租车,http://lunar.pm:8080/RandyJ/9876/134311
+教师,http://lunar.pm:8080/RandyJ/9876/134312
+天线宝宝,http://lunar.pm:8080/RandyJ/9876/134313
+终结者：莎拉·康纳编年史,http://lunar.pm:8080/RandyJ/9876/134314
+地球百子,http://lunar.pm:8080/RandyJ/9876/134315
+天龙特攻队,http://lunar.pm:8080/RandyJ/9876/134316
+阿博特和科斯特洛秀,http://lunar.pm:8080/RandyJ/9876/134317
+安迪·格里菲斯秀,http://lunar.pm:8080/RandyJ/9876/134318
+伯尼·麦克秀,http://lunar.pm:8080/RandyJ/9876/134319
+生活大爆炸,http://lunar.pm:8080/RandyJ/9876/134320
+警探比尔,http://lunar.pm:8080/RandyJ/9876/134321
+蓝色星球,http://lunar.pm:8080/RandyJ/9876/134322
+黑袍纠察队,http://lunar.pm:8080/RandyJ/9876/134323
+康纳一家,http://lunar.pm:8080/RandyJ/9876/134324
+考斯比秀,http://lunar.pm:8080/RandyJ/9876/134325
+鳄鱼猎手,http://lunar.pm:8080/RandyJ/9876/134326
+橡树岛的诅咒,http://lunar.pm:8080/RandyJ/9876/134327
+五月的可爱花蕾,http://lunar.pm:8080/RandyJ/9876/134328
+侦探们,http://lunar.pm:8080/RandyJ/9876/134329
+迪克·范·戴克秀,http://lunar.pm:8080/RandyJ/9876/134330
+哈扎德公爵,http://lunar.pm:8080/RandyJ/9876/134331
+快秀,http://lunar.pm:8080/RandyJ/9876/134332
+新鲜王子妙事多,http://lunar.pm:8080/RandyJ/9876/134333
+黄金女郎,http://lunar.pm:8080/RandyJ/9876/134334
+大旅行,http://lunar.pm:8080/RandyJ/9876/134335
+蜜月期,http://lunar.pm:8080/RandyJ/9876/134336
+中间人,http://lunar.pm:8080/RandyJ/9876/134337
+无敌浩克,http://lunar.pm:8080/RandyJ/9876/134338
+IT狂人,http://lunar.pm:8080/RandyJ/9876/134339
+杰瑞米·凯尔秀,http://lunar.pm:8080/RandyJ/9876/134340
+后中之王,http://lunar.pm:8080/RandyJ/9876/134341
+超感神探,http://lunar.pm:8080/RandyJ/9876/134342
+左右不逢源,http://lunar.pm:8080/RandyJ/9876/134343
+生活的呻吟,http://lunar.pm:8080/RandyJ/9876/134344
+芒斯特一家,http://lunar.pm:8080/RandyJ/9876/134345
+夜班医生,http://lunar.pm:8080/RandyJ/9876/134346
+橘子郡男孩,http://lunar.pm:8080/RandyJ/9876/134347
+办公室（英国版）,http://lunar.pm:8080/RandyJ/9876/134348
+办公室（美国版）,http://lunar.pm:8080/RandyJ/9876/134349
+初代吸血鬼,http://lunar.pm:8080/RandyJ/9876/134350
+帕特里奇家族,http://lunar.pm:8080/RandyJ/9876/134351
+洛克福德档案,http://lunar.pm:8080/RandyJ/9876/134352
+罗伊尔一家,http://lunar.pm:8080/RandyJ/9876/134353
+皮肤行者牧场的秘密,http://lunar.pm:8080/RandyJ/9876/134354
+盾牌,http://lunar.pm:8080/RandyJ/9876/134355
+辛普森一家,http://lunar.pm:8080/RandyJ/9876/134356
+六百万美元先生,http://lunar.pm:8080/RandyJ/9876/134357
+黑道家族,http://lunar.pm:8080/RandyJ/9876/134358
+血族,http://lunar.pm:8080/RandyJ/9876/134359
+陌生人（哈兰·科本）,http://lunar.pm:8080/RandyJ/9876/134360
+瘦蓝线,http://lunar.pm:8080/RandyJ/9876/134361
+都铎王朝,http://lunar.pm:8080/RandyJ/9876/134362
+约会男女,http://lunar.pm:8080/RandyJ/9876/134363
+吸血鬼日记,http://lunar.pm:8080/RandyJ/9876/134364
+迪布利牧师,http://lunar.pm:8080/RandyJ/9876/134365
+行尸走肉,http://lunar.pm:8080/RandyJ/9876/134366
+行尸走肉：达里尔·迪克森,http://lunar.pm:8080/RandyJ/9876/134367
+行尸走肉：死亡之城,http://lunar.pm:8080/RandyJ/9876/134368
+沃尔顿一家,http://lunar.pm:8080/RandyJ/9876/134369
+白宫风云,http://lunar.pm:8080/RandyJ/9876/134370
+火线,http://lunar.pm:8080/RandyJ/9876/134371
+墙里的女人,http://lunar.pm:8080/RandyJ/9876/134372
+岁月峥嵘,http://lunar.pm:8080/RandyJ/9876/134373
+X档案,http://lunar.pm:8080/RandyJ/9876/134374
+年轻人,http://lunar.pm:8080/RandyJ/9876/134375
+这个国家,http://lunar.pm:8080/RandyJ/9876/134376
+三人行,http://lunar.pm:8080/RandyJ/9876/134377
+上层男孩,http://lunar.pm:8080/RandyJ/9876/134378
+巅峰拍档,http://lunar.pm:8080/RandyJ/9876/134379
+拖车公园男孩,http://lunar.pm:8080/RandyJ/9876/134380
+树屋大师,http://lunar.pm:8080/RandyJ/9876/134381
+超市喜剧,http://lunar.pm:8080/RandyJ/9876/134382
+真探,http://lunar.pm:8080/RandyJ/9876/134383
+塔尔萨之王,http://lunar.pm:8080/RandyJ/9876/134384
+双峰,http://lunar.pm:8080/RandyJ/9876/134385
+好汉两个半,http://lunar.pm:8080/RandyJ/9876/134386
+两品脱啤酒和一包薯片,http://lunar.pm:8080/RandyJ/9876/134387
+副总统,http://lunar.pm:8080/RandyJ/9876/134388
+德州巡警,http://lunar.pm:8080/RandyJ/9876/134389
+单身毒妈,http://lunar.pm:8080/RandyJ/9876/134390
+欢迎归来科特,http://lunar.pm:8080/RandyJ/9876/134391
+温特沃斯,http://lunar.pm:8080/RandyJ/9876/134392
+西部世界,http://lunar.pm:8080/RandyJ/9876/134393
+二手车猎人,http://lunar.pm:8080/RandyJ/9876/134394
+白金,http://lunar.pm:8080/RandyJ/9876/134395
+谁是老大,http://lunar.pm:8080/RandyJ/9876/134396
+邪恶金枪鱼,http://lunar.pm:8080/RandyJ/9876/134397
+翻山越岭（美国版）,http://lunar.pm:8080/RandyJ/9876/134398
+WWE摔角狂热,http://lunar.pm:8080/RandyJ/9876/134399
+黄石,http://lunar.pm:8080/RandyJ/9876/134400
+你,http://lunar.pm:8080/RandyJ/9876/134401
+少年谢尔顿,http://lunar.pm:8080/RandyJ/9876/134402
+佐伊101,http://lunar.pm:8080/RandyJ/9876/134403
+
+
+
+
+
+儿童动画,#genre#
+
+
+探险活宝,http://lunar.pm:8080/RandyJ/9876/134404
+阿拉丁,http://lunar.pm:8080/RandyJ/9876/134405
+蛙小侠,http://lunar.pm:8080/RandyJ/9876/134406
+问问故事机器人,http://lunar.pm:8080/RandyJ/9876/134407
+巴尼和朋友们,http://lunar.pm:8080/RandyJ/9876/134408
+大蓝屋的熊,http://lunar.pm:8080/RandyJ/9876/134409
+甲壳虫乐队,http://lunar.pm:8080/RandyJ/9876/134410
+少年骇客,http://lunar.pm:8080/RandyJ/9876/134411
+本和霍利的小王国,http://lunar.pm:8080/RandyJ/9876/134412
+小兔兵兵,http://lunar.pm:8080/RandyJ/9876/134413
+烈焰与怪兽机器,http://lunar.pm:8080/RandyJ/9876/134414
+蓝色线索与你们！,http://lunar.pm:8080/RandyJ/9876/134415
+布鲁伊,http://lunar.pm:8080/RandyJ/9876/134416
+巴布工程师,http://lunar.pm:8080/RandyJ/9876/134417
+泡泡孔雀鱼,http://lunar.pm:8080/RandyJ/9876/134418
+可可瓜,http://lunar.pm:8080/RandyJ/9876/134419
+好奇的乔治,http://lunar.pm:8080/RandyJ/9876/134420
+幻影丹尼,http://lunar.pm:8080/RandyJ/9876/134421
+德克斯特的实验室,http://lunar.pm:8080/RandyJ/9876/134422
+恐龙牧场,http://lunar.pm:8080/RandyJ/9876/134423
+迪士尼经典1,http://lunar.pm:8080/RandyJ/9876/134424
+迪士尼经典2,http://lunar.pm:8080/RandyJ/9876/134425
+玩具小医生,http://lunar.pm:8080/RandyJ/9876/134426
+爱探险的朵拉,http://lunar.pm:8080/RandyJ/9876/134427
+消防员山姆,http://lunar.pm:8080/RandyJ/9876/134428
+飞出个未来,http://lunar.pm:8080/RandyJ/9876/134429
+冲冲！科里·卡森,http://lunar.pm:8080/RandyJ/9876/134430
+汉娜·蒙塔娜,http://lunar.pm:8080/RandyJ/9876/134431
+嘿！阿诺德,http://lunar.pm:8080/RandyJ/9876/134432
+嘿！道奇,http://lunar.pm:8080/RandyJ/9876/134433
+淘气亨利,http://lunar.pm:8080/RandyJ/9876/134434
+花园宝宝,http://lunar.pm:8080/RandyJ/9876/134435
+杰克与梦幻岛海盗,http://lunar.pm:8080/RandyJ/9876/134436
+约翰尼·布拉沃,http://lunar.pm:8080/RandyJ/9876/134437
+正义联盟,http://lunar.pm:8080/RandyJ/9876/134438
+奇波与神奇动物的时代,http://lunar.pm:8080/RandyJ/9876/134439
+懒人小镇,http://lunar.pm:8080/RandyJ/9876/134440
+丽兹·麦奎尔,http://lunar.pm:8080/RandyJ/9876/134441
+乐一通,http://lunar.pm:8080/RandyJ/9876/134442
+玛莎和熊,http://lunar.pm:8080/RandyJ/9876/134443
+米奇妙妙屋,http://lunar.pm:8080/RandyJ/9876/134444
+怪物高中,http://lunar.pm:8080/RandyJ/9876/134445
+憨豆先生动画系列,http://lunar.pm:8080/RandyJ/9876/134446
+童谣,http://lunar.pm:8080/RandyJ/9876/134447
+海底小纵队,http://lunar.pm:8080/RandyJ/9876/134448
+汪汪队立大功,http://lunar.pm:8080/RandyJ/9876/134449
+小猪佩奇,http://lunar.pm:8080/RandyJ/9876/134450
+彼得兔,http://lunar.pm:8080/RandyJ/9876/134451
+飞哥与小佛,http://lunar.pm:8080/RandyJ/9876/134452
+飞哥与小佛,http://lunar.pm:8080/RandyJ/9876/134453
+蒙面睡衣侠,http://lunar.pm:8080/RandyJ/9876/134454
+宝可梦,http://lunar.pm:8080/RandyJ/9876/134455
+恐龙战队,http://lunar.pm:8080/RandyJ/9876/134456
+啦啦呼噪的狮子,http://lunar.pm:8080/RandyJ/9876/134457
+摇摇铃！,http://lunar.pm:8080/RandyJ/9876/134458
+课间休息,http://lunar.pm:8080/RandyJ/9876/134459
+洛克的现代生活,http://lunar.pm:8080/RandyJ/9876/134460
+小淘气,http://lunar.pm:8080/RandyJ/9876/134461
+少年女巫,http://lunar.pm:8080/RandyJ/9876/134462
+你在哪里！,http://lunar.pm:8080/RandyJ/9876/134463
+芝麻街,http://lunar.pm:8080/RandyJ/9876/134464
+小羊肖恩,http://lunar.pm:8080/RandyJ/9876/134465
+闪闪与闪耀,http://lunar.pm:8080/RandyJ/9876/134466
+怪物史莱克,http://lunar.pm:8080/RandyJ/9876/134467
+蜘蛛侠和他神奇的朋友们,http://lunar.pm:8080/RandyJ/9876/134468
+海绵宝宝,http://lunar.pm:8080/RandyJ/9876/134469
+阿甘妙世界,http://lunar.pm:8080/RandyJ/9876/134470
+反斗家族,http://lunar.pm:8080/RandyJ/9876/134471
+摩登原始人,http://lunar.pm:8080/RandyJ/9876/134472
+狮子护卫队,http://lunar.pm:8080/RandyJ/9876/134473
+布偶秀,http://lunar.pm:8080/RandyJ/9876/134474
+飞天小女警,http://lunar.pm:8080/RandyJ/9876/134475
+野性索恩伯里,http://lunar.pm:8080/RandyJ/9876/134476
+托马斯小火车,http://lunar.pm:8080/RandyJ/9876/134477
+猫和老鼠,http://lunar.pm:8080/RandyJ/9876/134478
+咱们裸熊,http://lunar.pm:8080/RandyJ/9876/134479
+
+
+
+
+
+美国 · SAMSUNG,#genre#
+
+4UV ,https://d3qg1liq0unuxm.cloudfront.net/4UV.m3u8
+ABC 20/20 ,https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+ABC新闻直播  [Geo-blocked],https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
+ACC数字网络 ,https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
+天气频道NOW ,https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8
+家庭滑稽录像（阿尔丰索·里贝罗版） ,https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8
+异形国度（DUST） ,https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+全纪实真人秀 ,https://d3kyucsyhwa3ht.cloudfront.net/All_Out_Reality.m3u8
+美国搞笑家庭视频 ,https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+美国测试厨房  [Geo-blocked],https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
+美国罪案  [Geo-blocked],https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8
+美国拾荒者（历史频道）  [Geo-blocked],https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
+动画+  [Geo-blocked],https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+鲨鱼宝宝TV ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US17000208H&channel_id=newid_346&tp=samsung_tvplus
+幕后 ,https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+芭比和朋友 ,https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+BBC戏剧  [Geo-blocked],https://pb-0ix3l1oxmg1fj.akamaized.net/playlist.m3u8
+BBC地球  [Geo-blocked],https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+BBC美食 ,https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+BBC家居与园艺 ,https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+BBC新闻  [Geo-blocked],https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+海滩篝火氛围 ,https://d104o6d3ybbtr3.cloudfront.net/playlist.m3u8
+beIN体育XTRA ,https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
+BET × 泰勒·佩里喜剧 ,https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
+BET × 泰勒·佩里戏剧 ,https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
+Big 12体育工作室 ,https://d18pj8s9gbivdq.cloudfront.net/The_Big_12.m3u8
+公告牌TV ,https://d2zmd59prfyzho.cloudfront.net/Billboard_TV.m3u8
+台球TV  [Geo-blocked],https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
+传记：偶像 ,https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
+布里皮 ,https://d2p70ev1g5q1aj.cloudfront.net/Blippi_SONO46.m3u8
+彭博原创 ,https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+彭博TV+ (2160p),https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
+好胃口 ,https://bonappetit-samsung.amagi.tv/playlist.m3u8
+邦迪救援  [Geo-blocked],https://pb-xcqdiadvt1x0q.akamaized.net/playlist.m3u8
+Bounce XL  [Geo-blocked],https://pb-xp0ozx9lyqeiv.akamaized.net/BounceXL_US.m3u8
+捣蛋鬼TV ,https://brat-samsung-us.amagi.tv/playlist.m3u8
+勇敢荒野 ,https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8
+比舞大赛！  [Geo-blocked],https://pb-46i4usnz2g1z1.akamaized.net/Bring_It.m3u8
+BritBox悬疑  [Geo-blocked],https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
+BuzzFeed名人 ,https://d1gdoah3axw004.cloudfront.net/BuzzFeed_Celeb.m3u8
+BuzzFeed美味 ,https://d2tlbbjop5ksk2.cloudfront.net/BuzzFeed_Tasty.m3u8
+BuzzFeed未解之谜 ,https://d1727vwt6h9ghr.cloudfront.net/BuzzFeed_Unsolved.m3u8
+杨百翰大学TV ,https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
+篝火氛围 ,https://d1bcz21zn68he1.cloudfront.net/playlist.m3u8
+Canela.TV ,https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
+实拍录像  [Geo-blocked],https://pb-chkjjtiael60a.akamaized.net/playlist.m3u8
+CBC新闻 ,https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+接受挑战 ,https://d1vy897y7cwgcv.cloudfront.net/playlist.m3u8
+出轨调查  [Geo-blocked],https://pb-yu0ylzo7vk8v4.akamaized.net/Cheaters_SONO39.m3u8
+Cheddar新闻 ,https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
+圆圈 ,https://circle-samsung.amagi.tv/playlist.m3u8
+清晰4K (2160p) [Geo-blocked],https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
+悬案档案  [Geo-blocked],https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
+喜剧动力 ,https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
+柯南·奥布莱恩TV  [Geo-blocked],https://pb-nhrhhcia276e2.akamaized.net/Conan_OBrien_TV.m3u8
+CJ ENM韩语剧集 ,https://d32e935uzaanj4.cloudfront.net/e66911c8_a9c5_4206_979f_1ad694dcb8ad/hls/playlist.m3u8
+舒适氛围 ,https://d2tyl7oi9wycxs.cloudfront.net/playlist.m3u8
+手工TV ,https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8
+卡特勒法庭 ,https://d19h40d1rxo1la.cloudfront.net/playlist.m3u8
+CW永恒 ,https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+CW黄金 ,https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+舞蹈妈妈  [Geo-blocked],https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
+日界线24/7  [Geo-blocked],https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8
+成交或不成交  [Geo-blocked],https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8
+死亡谷岁月 ,https://d49k4i5y48mxv.cloudfront.net/SONO66.m3u8
+达尔·曼TV ,https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
+恐龙24/7 ,https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8
+纪录片+ ,https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+赏金猎犬  [Geo-blocked],https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
+狗语者  [Geo-blocked],https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+鸽子频道 ,https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
+菲尔博士的MeritTV ,https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
+G医生法医 ,https://d3gjnizphdm6xi.cloudfront.net/Dr_G_Medical_Examiner_SONO15.m3u8
+DraftKings网络 ,https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+鸭王朝  [Geo-blocked],https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
+狮门Ebony TV  [Geo-blocked],https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
+ElectricNOW  [Geo-blocked],https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
+埃梅里尔·拉加斯频道 ,https://d1ahlswyjfz32r.cloudfront.net/Emeril_Lagasse.m3u8
+史诗园艺TV ,https://d310j9emjmcwry.cloudfront.net/playlist.m3u8
+ESPN8 The Ocho ,https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+埃斯特雷拉游戏 ,https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+埃斯特雷拉新闻 ,https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+埃斯特雷拉TV ,https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+FanDuel TV额外台 ,https://d1x2mlky5ieruz.cloudfront.net/v1/fanduelgroup_fandueltv_01/samsungheadend_us/latest/main/hls/playlist.m3u8
+极限恐惧 ,https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
+壁炉氛围4K (2160p) [Geo-blocked],https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
+FOX体育 ,https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+FOX天气  [Geo-blocked],https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+FreeTV Estelar ,https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
+fubo体育网络 ,https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+狩猎与钓鱼TV ,https://d32bh11mbsmi60.cloudfront.net/Game_Fish_TV.m3u8
+Genie韩剧 ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus
+Genie韩国电影 ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US200001137&channel_id=newid_350&tp=samsung_tvplus
+高尔夫通行证 ,https://d2icntm6fhxrry.cloudfront.net/master.m3u8
+Gravitas电影 ,https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+Grit Xtra  [Geo-blocked],https://pb-7k9tqpp5wqdnj.akamaized.net/Grit_Xtra_US.m3u8
+哈格蒂（汽车） ,https://dqw6u0upa8l21.cloudfront.net/Hagerty.m3u8
+Hallmark电影与更多  [Geo-blocked],https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+快乐儿童 ,https://dil9xdvretp0f.cloudfront.net/index.m3u8
+惊悚TV ,https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
+心之大地  [Geo-blocked],https://pb-a0c87g3b3mtrw.akamaized.net/Heartland.m3u8
+地狱厨房  [Geo-blocked],https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8
+历史365  [Geo-blocked],https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+历史与战争现在时 ,https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+家居满溢 ,https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8
+ALTER恐怖 ,https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
+辣鸡翅 ,https://d532j1ra4v4q9.cloudfront.net/SONO65.m3u8
+风火轮行动 ,https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
+全职猎人 ,https://d190au8yjmla79.cloudfront.net/playlist.m3u8
+深度访谈（格雷厄姆·本辛格） ,https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
+A&E干预  [Geo-blocked],https://pb-5kduxc2en4kdz.akamaized.net/Intervention_by_AE.m3u8
+InWonder ,https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+ION  [Geo-blocked],https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+ION悬疑  [Geo-blocked],https://pb-usmbvsgwcg8pc.akamaized.net/Ion_Mystery_US.m3u8
+ION Plus  [Geo-blocked],https://pb-tcsruiaw9dc0i.akamaized.net/Ion_Plus_US.m3u8
+海岛氛围 ,https://d3fe47ml3w3qj1.cloudfront.net/playlist.m3u8
+动漫频道 ,https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
+杰米·奥利弗  [Geo-blocked],https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8
+JOJO的奇妙冒险 ,https://d2kqaqstkr42e1.cloudfront.net/playlist.m3u8
+CJ ENM韩剧 ,https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8
+韩剧+ ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US1700017NM&channel_id=newid_271&tp=samsung_tvplus
+CJ ENM韩食 ,https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8
+CJ ENM韩流流行乐 ,https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+CJ ENM韩国故事 ,https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+Kidoodle.TV ,https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
+更多欢笑 ,https://d3tf2qfyke992n.cloudfront.net/v1/scripps_laffmore_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+交易经典版 ,https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
+Lifetime爱情与戏剧电影 ,https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+洛杉矶小女人  [Geo-blocked],https://pb-dg3i75yovavc4.akamaized.net/Little_Women_LA.m3u8
+Live PD呈现 ,https://d8o79xse42g9s.cloudfront.net/Live_PD_Presents.m3u8
+FOX实时新闻  [Geo-blocked],https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
+本地生活 ,https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
+爱自然4K (2160p) [Geo-blocked],https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+爱宠物 ,https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+豪华壁炉氛围  [Geo-blocked],https://pb-0yvknepz2ngjh.akamaized.net/playlist.m3u8
+麦哲伦TV现在时  [Geo-blocked],https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
+马克·罗伯TV ,https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
+配对·结婚·见面  [Geo-blocked],https://pb-zrn69przatyzi.akamaized.net/Matched_Married_Meet.m3u8
+食肉者 ,https://d7hbn1ntae5ib.cloudfront.net/playlist.m3u8
+午夜pulp ,https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
+军事英雄 ,https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
+百万美元梦想之家  [Geo-blocked],https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8
+米拉麦克斯频道  [Geo-blocked],https://pb-w5d3w3kisxahy.akamaized.net/playlist.m3u8
+MLB频道  [Geo-blocked],https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+月亮虫 ,https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+MotoGP频道 ,https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
+山野男人  [Geo-blocked],https://pb-tc97nokxg85ph.akamaized.net/Mountain_Men.m3u8
+电影球  [Geo-blocked],https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8
+憨豆先生动画版 ,https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
+野兽先生 ,https://d1uoaa28av70en.cloudfront.net/playlist.m3u8
+神秘科学剧场3000 ,https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
+神话24/7  [Geo-blocked],https://pb-dq7godyssgjuz.akamaized.net/Mythical247.m3u8
+MyTime电影网 ,https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+火影忍者 ,https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+NASCAR频道 ,https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8
+国家讽刺  [Geo-blocked],https://pb-4l6m6c7pca5dy.akamaized.net/playlist.m3u8
+NBC LX家居 ,https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
+NBC新闻现在时  [Geo-blocked],https://pb-o6czxr182vtiv.akamaized.net/master.m3u8
+NBC体育现在时 ,https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+NESN国度 ,https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8
+新韩国电影 ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus
+新韩流流行乐 ,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus
+Newsmax 2 ,https://newsmax-samsungus.amagi.tv/playlist.m3u8
+NFL频道  [Geo-blocked],https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+NHRA TV ,https://d265y4sk8257lt.cloudfront.net/nh.m3u8
+Telemundo新闻现在时  [Geo-blocked],https://pb-21qh1uz4mmkrs.akamaized.net/master.m3u8
+海洋氛围4K (2160p) [Geo-blocked],https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
+拖车行动 ,https://d14kyo3ex6k293.cloudfront.net/playlist.m3u8
+户外美国 ,https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+外球 ,https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+OUTflix电影 ,https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
+户外TV ,https://desdobebr2wri.cloudfront.net/Outside.m3u8
+加时赛 ,https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+Pac 12内幕 ,https://pac12-samsungus.amagi.tv/playlist.m3u8
+PBS鉴宝路演  [Geo-blocked],https://pb-ft51qiiwihqtb.akamaized.net/PBS_Antiques_Roadshow.m3u8
+PBS数字工作室 ,https://d1l4qxz5lz9v2h.cloudfront.net/10501/88886029/hls/master.m3u8?ads.xumo_channelId=88886029
+PBS美食 ,https://d3w43rc3ob044a.cloudfront.net/PBS_Food.m3u8
+PBS家谱 ,https://d21xx25clbv3i1.cloudfront.net/PBS_Genealogy.m3u8
+PBS自然 ,https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
+PBS旅行 ,https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+PGA巡回赛  [Geo-blocked],https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+匹克球TV  [Geo-blocked],https://pb-p82n52ztxtyz8.akamaized.net/PickleballTV.m3u8
+pocket.watch 游戏开始 ,https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+宝可梦  [Geo-blocked],https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8
+动力国度 ,https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
+天桥骄子  [Geo-blocked],https://pb-w5i1ok5f9169m.akamaized.net/Project_Runway.m3u8
+追求UP ,https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+法特玛古尔的错 ,https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8
+赛车手精选 ,https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
+瑞秋·雷呈现 ,https://dhy1wwavvr8nc.cloudfront.net/Rachel_Ray_Presents.m3u8
+雨天氛围 ,https://d2fbuk9n5icao0.cloudfront.net/playlist.m3u8
+复古狂潮 ,https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+Revry ,https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
+RIG TV ,https://d3czphc6lk67kh.cloudfront.net/RIG_TV.m3u8
+Roku体育频道 ,https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
+Rovr宠物  [Geo-blocked],https://pb-vbv1er6nemjg9.akamaized.net/Rovr_Pets.m3u8
+莱恩和朋友 ,https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
+塞勒姆新闻频道  [Geo-blocked],https://pb-v4mil672yaqlk.akamaized.net/Salem_News_Channel.m3u8
+Sensical少儿 ,https://d1p10fe1a9f857.cloudfront.net/Sensical_Jr.m3u8
+Sensical创客 ,https://d2dxg18pxtlgy0.cloudfront.net/Sensical_Makers.m3u8
+K系列·前沿 ,https://d3mznj2vub522l.cloudfront.net/playlist.m3u8
+K系列·心动 ,https://d28efmnqar6ea8.cloudfront.net/playlist.m3u8
+K系列·经典 ,https://d2uvezlpjwbhrx.cloudfront.net/playlist.m3u8
+黑色色调  [Geo-blocked],https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8
+Shout! TV ,https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
+SLVR ,https://dnwqx9ivbd7ay.cloudfront.net/bbb/samshow/samshow.m3u8
+Smosh ,https://d2awq8rdysdj3u.cloudfront.net/playlist.m3u8
+SportsGrid ,https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+风暴氛围 ,https://d23gs0zonql31y.cloudfront.net/playlist.m3u8
+超市大扫荡  [Geo-blocked],https://pb-zp5s7cka1vjrd.akamaized.net/Supermarket_Sweep.m3u8
+冲浪者TV ,https://dgwfm675921lp.cloudfront.net/playlist.m3u8
+沼泽人  [Geo-blocked],https://pb-fbdfahhani6sz.akamaized.net/Swamp_People.m3u8
+Tastemade  [Geo-blocked],https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
+Tastemade家居 ,https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
+Tastemade旅行 ,https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+液体战队 ,https://d3qzt5cx2j8lfl.cloudfront.net/playlist.m3u8
+美国队TV ,https://d8b6mh9us4zvx.cloudfront.net/TEAM_USA_TV.m3u8
+TED ,https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+网球频道2  [Geo-blocked],https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
+精神病院（电影） ,https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
+橡树岛诅咒  [Geo-blocked],https://pb-jx22izjb024ns.akamaized.net/The_Curse_of_Oak_Island.m3u8
+设计网络 ,https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+第一频道  [Geo-blocked],https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8
+国会山  [Geo-blocked],https://pb-aq5tqlshz44jr.akamaized.net/playlist.m3u8
+杰克·汉纳频道  [Geo-blocked],https://pb-tdmd4j4zqfssc.akamaized.net/The_Jack_Hanna_Channel.m3u8
+吉姆·罗姆秀 ,https://d38ng35fgglvfs.cloudfront.net/The_Jim_Rome_Show.m3u8
+乐高频道 ,https://dh18i7whff86v.cloudfront.net/index.m3u8
+玛莎·斯图尔特频道 ,https://d1ob22c3xga9bf.cloudfront.net/Martha_Stewart_.m3u8
+NBA频道  [Geo-blocked],https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8
+宠物集合  [Geo-blocked],https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+Spotify的The Ringer ,https://d34e6a6i7rp7yc.cloudfront.net/SONO91_Spotify.m3u8
+尝试兄弟 ,https://d173iv46agmwo9.cloudfront.net/playlist.m3u8
+威廉·夏特纳之未解之谜  [Geo-blocked],https://pb-ii1ggyq6hduy9.akamaized.net/playlist.m3u8
+Sorry女孩TV ,https://d11iia85bv1ffj.cloudfront.net/playlist.m3u8
+旧屋改造  [Geo-blocked],https://pb-qmu0m4a1cb5dj.akamaized.net/This_Old_House.m3u8
+旧屋改造创客 ,https://d1v8bveimipl8w.cloudfront.net/This_Old_House_Makers.m3u8
+TMZ  [Geo-blocked],https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8
+TNA摔角 ,https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8
+今日全天候 ,https://d37kx062o4ii0p.cloudfront.net/master.m3u8
+托尼·罗宾斯  [Geo-blocked],https://pb-qon3pgefgm0aj.akamaized.net/playlist.m3u8
+UFC  [Geo-blocked],https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+不败体育频道 ,https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+未解之谜 ,https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+宇宙谜团解密  [Geo-blocked],https://pb-frhhb6b56246j.akamaized.net/The_Universe.m3u8
+今日美国  [Geo-blocked],https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8
+范海辛 ,https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
+Vevo乡村  [Geo-blocked],https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8
+Vevo乡村回顾 ,https://dtpafgv4jlncv.cloudfront.net/mt/rsu/v1/channel/AZlegsFKILvcvwCBYqT4vQ-V2/index.m3u8
+Vevo嘻哈 ,https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+Vevo拉丁 ,https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8
+Vevo流行 ,https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
+Vevo节奏蓝调 ,https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
+Vevo复古摇滚 ,https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+VICE ,https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
+胜利+ ,https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
+WAPA+ ,https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+Waypoint TV ,https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
+西部之旅  [Geo-blocked],https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8
+狂野西部TV  [Geo-blocked],https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8
+野生地球 ,https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+Willow体育 ,https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+冬日氛围 ,https://d11iakikomyd5e.cloudfront.net/playlist.m3u8
+大淘汰Xtra ,https://djoigjo2g1xzo.cloudfront.net/Wipeout_Xtra.m3u8
+女子体育网络 ,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+世界扑克巡回赛  [Geo-blocked],https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
+全球最恶杀手  [Geo-blocked],https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
+WSOC夏洛特  [Geo-blocked],https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8
+WWE巨星中心 ,https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+XITE热歌 ,https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+XITE放松一下 ,https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+XITE新拉丁 ,https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+XITE节奏蓝调经典  [Geo-blocked],https://pb-bakywpoa0kn1n.akamaized.net/XITE_RnB_Classic_Jams.m3u8
+XITE雷鬼氛围 ,https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+XITE摇滚金属 ,https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+XITE永恒拉丁 ,https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+探索 ,https://depdwjha9qyli.cloudfront.net/Xplore.m3u8
+雅虎财经 ,https://yahoo-samsung.amagi.tv/playlist.m3u8
+雅虎体育网络 ,https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
+游戏王 ,https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
+ZooMoo ,https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+
+
+
+美国 · XUMO,#genre#
+
+天气频道Now  [Geo-blocked],https://accuweather-xumo.amagi.tv/playlist.m3u8
+婚礼全纪录,https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+美国测试厨房  [Geo-blocked],https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
+美国忍者勇士 ,https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+PBS鉴宝路演 ,https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+英国鉴宝路演,https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
+幕后  [Geo-blocked],https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
+海滩救护队  [Geo-blocked],https://baywatch-xumo.amagi.tv/playlist.m3u8
+BBC地球 ,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+BBC 不可能,https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
+BBC 巅峰拍档 ,https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+beIN体育XTRA ,https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+Big 12体育工作室 ,https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
+Bravo宝库 ,https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+CBC新闻 ,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+名人猜名游戏  [Geo-blocked],https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+圆圈 ,https://circle-xumo.amagi.tv/playlist.m3u8
+喜剧动力 ,https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
+烹饪之乡频道  [Geo-blocked],https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
+手工TV ,https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
+指定幸存者  [Geo-blocked],https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+神秘博士经典,https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+塞萨尔·米兰之狗语者  [Geo-blocked],https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
+鸽子频道 ,https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+狮门Ebony TV  [Geo-blocked],https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
+埃斯特雷拉TV ,https://estrellatv-xumo.amagi.tv/playlist.m3u8
+家庭问答经典 ,https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
+Filmex  [Geo-blocked],https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+Filmex经典  [Geo-blocked],https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+叉与飞行 ,https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
+FOX体育  [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+FOX天气 ,https://foxweather-xumo.amagi.tv/playlist.m3u8
+蒙提·唐园艺,https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
+GustoTV ,https://gusto-xumo.amagi.tv/playlist.m3u8
+Hi-Yah! ,https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+家居满溢 ,https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
+调查频道 ,https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
+Hi-Yah! ,https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+家居满溢 ,https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
+调查频道 ,https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
+灵犬莱西 ,https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
+拉丁氛围  [Geo-blocked],https://amg00375-fusemedia-latinovibes-xumo-qyjhw.amagi.tv/playlist.m3u8
+留给比弗 ,https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8
+草原小屋 ,https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
+爱自然  [Geo-blocked],https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+midsomer谋杀案,https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
+百万房产宝库 ,https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
+Motorvision ,https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+电影球 ,https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+女作家谋杀案 ,https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
+神秘科学剧场3000  [Geo-blocked],https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8
+纳什·布里奇斯频道  [Geo-blocked],https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
+NBC喜剧宝库 ,https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+NBC新闻现在时 ,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+NBC体育 ,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+忍者小子TV,https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+Nosey坦白,https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
+户外美国 ,https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+外球  [Geo-blocked],https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
+PBS自然  [Geo-blocked],https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
+PokerGO ,https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
+NBC喜剧宝库 ,https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+NBC新闻现在时 ,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+NBC体育 ,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+忍者小子TV,https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+Nosey坦白,https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
+户外美国 ,https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+外球  [Geo-blocked],https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
+PBS自然  [Geo-blocked],https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
+PokerGO ,https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
+波特兰迪亚,https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
+房产与翻新  [Geo-blocked],https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8
+追求UP ,https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
+QVC大碗菜 [Geo-blocked],https://amg01717-qvc-amg01717c3-xumo-us-2876.playouts.now.amagi.tv/playlist.m3u8
+真实灾难频道  [Geo-blocked],https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
+真实主妇宝库 ,https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
+REELZ名人与恶名 ,https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+路透社现在时 ,https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+RIG TV ,https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
+塞勒姆新闻频道  [Geo-blocked],https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
+被钟声拯救 ,https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
+Shudder惊吓,https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8
+黑色色调  [Geo-blocked],https://xumo-fusebeats.amagi.tv/playlist.m3u8
+Shop LC ,https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+AMC故事,https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+大力士冠军联赛,https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
+超市大扫荡  [Geo-blocked],https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
+转向格斗 ,https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
+Tastemade ,https://tastemade-xumo.amagi.tv/playlist.m3u8
+Tastemade旅行  [Geo-blocked],https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
+康纳一家  [Geo-blocked],https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+设计网络  [Geo-blocked],https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
+杰米·奥利弗频道 ,https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+独行侠 ,https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
+价格猜猜猜（巴克时代）  [Geo-blocked],https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8
+行尸走肉宇宙,https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+Toon Goggles (720p) [Geo-blocked],https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
+顶级大厨宝库 ,https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8
+翠贝卡频道  [Geo-blocked],https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
+TV One罪案与正义 ,https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
+UFC ,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+环球动作 ,https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+环球罪案 ,https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+环球怪物 ,https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+环球西部片 ,https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+今日美国新闻  [Geo-blocked],https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+WaypointTV ,https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+狂野西部TV ,https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
+女子体育网络 [Geo-blocked],https://womensnetwork-xumo.amagi.tv/playlist.m3u8
+世界扑克巡回赛 ,https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+探索 ,https://xplore-xumo.amagi.tv/playlist.m3u8
+
+
+
+美国 · SOFAST,#genre#
+
+4K旅行TV ,https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+苦艾酒TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8
+王牌TV ,https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
+美国航海频道 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
+自动运动 ,https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+砰砰TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+最佳动作TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+最佳戏剧TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+最佳惊悚TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+台球+ ,https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+宝莱坞4U ,https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
+宝莱坞马萨拉 ,https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
+卡通经典 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+编年史 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
+马球 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8
+雪茄TV ,https://streams2.sofast.tv/vglive-sk-798765/index.m3u8
+色盲 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
+喜剧香料 ,https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
+牛仔电影频道 ,https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+板球黄金 ,https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
+烹饪文化 ,https://streams2.sofast.tv/umaxx/v1/01970b146c091ebd470414fa6dc31a/01970b14d5f11ea506ec1fab16cfb0/playlist.m3u8
+危险视觉 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
+手工艺术 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
+纪实视觉 ,https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
+驾驶+速度 ,https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
+汽车影院频道 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+前卫TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8
+前卫都市 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8
+安可+ ,https://streams2.sofast.tv/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
+英语TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
+逃脱TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
+格斗TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+进球TV,https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+心灵感应TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8
+遗产旅游 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
+遗产+ ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
+本垒打TV,https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
+篮球TV ,https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
+恐怖TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+狩猎钓鱼TV ,https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+ITSF ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
+木星TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8
+笑料恶搞 ,https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+宝贝+ ,https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
+Kozoom TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+功夫+ ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+拉丁经典TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+大笑TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
+爱恨交织TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8
+奢华梦想TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
+奔驰妈妈TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
+水星+ ,https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
+MMA TV.com ,https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+赛车运动,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
+氮气TV ,https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
+外部视觉 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
+PeekFlick ,https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8
+为改变而演奏 ,https://streams2.sofast.tv/vglive-sk-860453/index.m3u8
+动力管TV ,https://streams2.sofast.tv/powertube_live/master.m3u8
+科幻世界 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+太空系列 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+海钓TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+紧张TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
+试驾我的车 ,https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
+Thalaa TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+探险家 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+Tolly TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+松露 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8
+无束缚TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
+都市动作TV ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
+航海+ ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+WeShort ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
+最狂野愿望TV ,https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd4704322ec12ab7/0197e8dd477d1ea506ec3673c3696b/playlist.m3u8
+极限体育 ,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+游艇TV ,https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
+
+
+美国 · PBS,#genre#
+
+PBS儿童阿拉斯加 ,https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+PBS儿童东部/中部 (720p),https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+PBS儿童山地 ,https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+PBS儿童太平洋 ,https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+PBS全国东部  [Geo-blocked],https://pbs.lls.cdn.pbs.org/est/index.m3u8
+PBS全国西部  [Geo-blocked],https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+Hi-YAH! ,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+奇境 ,https://lds-wonder-plex.amagi.tv/playlist.m3u8
+Buzzr ,https://buzzrota-ono.amagi.tv/playlist.m3u8
+Flo冰球24/7 ,https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+Flo赛车24/7 ,https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+Newsmax 2 ,https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+Newsmax TV (720p),https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8
+OANPlus ,https://oan-plus-tcl.amagi.tv/playlist.m3u8
+CBS体育总部  [Geo-blocked],#EXTINF:-1 tvg-id="NBATV.us
+NBA TV  [Geo-blocked],https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+NHL网络 ,https://nhl-firetv.amagi.tv/playlist.m3u8
+恐龙战队  [Geo-blocked],https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
+变形金刚  [Geo-blocked],https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8
+TV花开 ,https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8
+Vice TV ,https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+Waypoint TV ,https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+超级简单儿歌 ,https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+InFast  [Geo-blocked],https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
+InTrouble  [Geo-blocked],https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+InWonder  [Geo-blocked],https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
+QwestTV ,https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+复古狂潮 ,https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+午夜pulp ,https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
+太阳马戏团  [Geo-blocked],https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8
+中国旅行 ,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+发现中国 ,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
