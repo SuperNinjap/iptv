@@ -1,59 +1,259 @@
 
-英国 · 本土,#genre#
+英国 · 通用,#genre#
 
-英国广播公司第一台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169062&extension=ts&play_token=XlZuHYYvAq
-英国广播公司第二台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169063&extension=ts&play_token=scnBDEeL01
-英国广播公司第三台 / 儿童台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=394411&extension=ts&play_token=xVShv4pGEp
-英国广播公司第四台 / 幼儿台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=394409&extension=ts&play_token=SIu2HWnXQI
-独立电视台第一台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169067&extension=ts&play_token=1si4kJICEd
-独立电视台第二台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169064&extension=ts&play_token=5g8dGfasce
-独立电视台第三台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169065&extension=ts&play_token=W8paTJCXTA
-独立电视台第四台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169066&extension=ts&play_token=ONdcmOmLCg
-第四频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169068&extension=ts&play_token=pWqyGJ7lr0
-第五频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169069&extension=ts&play_token=cigMjSakh7
-娱乐频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169070&extension=ts&play_token=OzYTQPCnUB
-更多第四频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169071&extension=ts&play_token=dNpdRDgqkx
+回旋镖,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905954.m3u8
+卡通网络,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905951.m3u8
+喜剧中心,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905948.m3u8
+黄金台,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905945.m3u8
+MTV,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905942.m3u8
+尼克国际儿童频道,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905936.m3u8
+尼克少儿,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905939.m3u8
+尼克卡通,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905933.m3u8
+英超体育1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905930.m3u8
+英超体育2,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905927.m3u8
+天空动作,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905923.m3u8
+天空冒险,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905826.m3u8
+天空动画,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905823.m3u8
+天空艺术1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905920.m3u8
+天空大西洋,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905917.m3u8
+天空伯恩,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905914.m3u8
+天空影院首映,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905911.m3u8
+天空喜剧,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905908.m3u8
+天空犯罪,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905905.m3u8
+天空纪录片,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905902.m3u8
+天空戏剧,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905899.m3u8
+天空经典,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905896.m3u8
+天空历史,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905893.m3u8
+天空儿童,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905890.m3u8
+天空麦克斯,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905887.m3u8
+天空自然,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905884.m3u8
+天空新闻直播,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905881.m3u8
+天空科幻/恐怖,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905878.m3u8
+天空科幻,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905875.m3u8
+天空展示,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905872.m3u8
+天空体育+,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905835.m3u8
+天空体育动作,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905867.m3u8
+天空体育板球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905864.m3u8
+天空体育足球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905858.m3u8
+天空体育主赛事,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905853.m3u8
+天空体育混合,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905850.m3u8
+天空体育新闻总部,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905847.m3u8
+天空体育英超,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905844.m3u8
+天空体育赛马,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905841.m3u8
+天空体育网球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905838.m3u8
+天空惊悚,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905832.m3u8
+天空见证,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905829.m3u8
+TNT体育1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905819.m3u8
+TNT体育2,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905816.m3u8
+TNT体育3,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905813.m3u8
+TNT体育4,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905810.m3u8
+英国|英国广播公司第三台/儿童台（HEVC）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/111550.m3u8
+英国|英国广播公司第四台/幼儿台（HEVC）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/111551.m3u8
+英国|家居装饰台,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1014329.m3u8
+英国|天空纪录片台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/164072.m3u8
+英国|探索频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30549.m3u8
+英国|历史频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30534.m3u8
+英国|历史第二频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30535.m3u8
+英国|国家地理野生台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30525.m3u8
+英国|国家地理频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458749.m3u8
+英国|天空自然台（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458747.m3u8
+英国|天空犯罪台（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458761.m3u8
+英国|科幻频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458754.m3u8
+英国|犯罪调查频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458757.m3u8
+英国|电影狂热好莱坞台（4K）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1430509.m3u8
+英国|天空影院动作台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163996.m3u8
+英国|天空影院家庭台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163993.m3u8
+英国|天空影院剧情台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163997.m3u8
+英国|天空影院经典台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/164000.m3u8
+英国|天空影院热播台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163992.m3u8
+英国|天空影院首映台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163991.m3u8
+英国|天空影院科幻台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163998.m3u8
+英国|天空影院惊悚台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163999.m3u8
+DISCOVERY+ DOC 1,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187714.m3u8
+DISCOVERY+ DOC 2,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187715.m3u8
+DISCOVERY+ IMAX,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187713.m3u8
+DISNEY+ 经典,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503115.m3u8
+DISNEY+ 喜剧,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503116.m3u8
+DISNEY+ 儿童,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503117.m3u8
+DISNEY+ 漫威,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503118.m3u8
+DISNEY+ 国家地理,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503119.m3u8
+DISNEY+ 皮克斯,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503120.m3u8
+DISNEY+ 浪漫,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503121.m3u8
+HBO 频道 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1034767.m3u8
 
-英国 · 新闻,#genre#
 
-英国广播公司新闻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169077&extension=ts&play_token=rNfxHP1Pdm
-天空新闻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169079&extension=ts&play_token=DEWl8vzFFN
-英国新闻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169080&extension=ts&play_token=L0oSM6aaM2
-有线电视新闻网,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169082&extension=ts&play_token=usfEiQ9PSk
-消费者新闻与商业频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169083&extension=ts&play_token=m9QrobUNzV
-彭博电视台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169084&extension=ts&play_token=lux7Wr8DCZ
-
-英国 · 儿童,#genre#
-
-天空儿童台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169090&extension=ts&play_token=qKLCfchiyI
-尼克罗迪恩儿童频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169091&extension=ts&play_token=AgcDgZ1kzN
-尼克小童频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169092&extension=ts&play_token=BT0MZScBZK
-卡通频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169093&extension=ts&play_token=h33SpMareO
-回旋镖动画频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169094&extension=ts&play_token=PysoVDQ13c
-
-英国 · 电影,#genre#
-
-天空影院首映台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169188&extension=ts&play_token=KPYEM8Z0tJ
-天空影院精选台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169189&extension=ts&play_token=AhsB2oAcoA
-天空影院动作台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169190&extension=ts&play_token=nDpUrHzlS8
-天空影院惊悚台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169191&extension=ts&play_token=1ZjckQFGlK
-天空影院喜剧台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169192&extension=ts&play_token=ZItk7EnzTD
-天空影院家庭台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169193&extension=ts&play_token=Ja0DOOzzhO
-天空影院剧情台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169194&extension=ts&play_token=3N8VCnsg5h
-天空影院科幻台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169195&extension=ts&play_token=h95LjseXQp
-天空影院热播台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169196&extension=ts&play_token=R2KdDzNUwG
-天空影院经典台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169197&extension=ts&play_token=KjMHGIZcMr
-天空影院动画台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169198&extension=ts&play_token=wmOto3wBJE
-天空喜剧台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169199&extension=ts&play_token=PeM6tfEuTl
-天空大西洋台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169201&extension=ts&play_token=BGQjsKBPb6
-天空展播台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169202&extension=ts&play_token=cUPP3a20ar
-天空纪实台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169200&extension=ts&play_token=BnmClwjfrP
-天空极限台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169203&extension=ts&play_token=WC9OpgALfO
-科幻频道,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169204&extension=ts&play_token=SWkeCQri1O
-电影第四台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169205&extension=ts&play_token=yvSulgftwJ
+天空影院首映,#genre#
 
 
-英国 · RAKUTEN,#genre#
+英国| 天空影院首映1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095797.m3u8
+英国| 天空影院首映2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095796.m3u8
+英国| 天空影院首映3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095795.m3u8
+英国| 天空影院首映4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095794.m3u8
+英国| 天空影院首映5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095793.m3u8
+英国| 天空影院首映6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095792.m3u8
+英国| 天空影院首映7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095791.m3u8
+英国| 天空影院首映8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095790.m3u8
+英国| 天空影院首映9 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095789.m3u8
+英国| 天空影院首映10 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095788.m3u8
+英国| 天空影院首映11 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095787.m3u8
+英国| 天空影院首映12 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095786.m3u8
+英国| 天空影院首映13 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095785.m3u8
+英国| 天空影院首映14 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095784.m3u8
+英国| 天空影院首映15 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095783.m3u8
+英国| 天空影院首映16 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095782.m3u8
+英国| 天空影院首映17 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095781.m3u8
+英国| 天空影院首映18 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095780.m3u8
+英国| 天空影院首映19 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095779.m3u8
+英国| 天空影院首映20 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095778.m3u8
+英国| 天空影院首映21 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1095777.m3u8
+英国| 天空影院首映22 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428747.m3u8
+英国| 天空影院首映23 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428746.m3u8
+英国| 天空影院首映24 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428745.m3u8
+英国| 天空影院首映25 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428744.m3u8
+英国| 天空影院首映26 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428743.m3u8
+英国| 天空影院首映27 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428742.m3u8
+英国| 天空影院首映28 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428741.m3u8
+英国| 天空影院首映29 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428740.m3u8
+英国| 天空影院首映30 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1428739.m3u8
+
+天空混合剧集,#genre#
+
+英国| 天空混合剧集1高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851245.m3u8
+英国| 天空混合剧集2高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851244.m3u8
+英国| 天空混合剧集3高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851243.m3u8
+英国| 天空混合剧集4高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851242.m3u8
+英国| 天空混合剧集5高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851241.m3u8
+英国| 天空混合剧集6高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851240.m3u8
+英国| 天空混合剧集7高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851239.m3u8
+英国| 天空混合剧集8高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851238.m3u8
+英国| 天空混合剧集10高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851237.m3u8
+英国| 天空混合剧集11高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851236.m3u8
+英国| 天空混合剧集12高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851235.m3u8
+英国| 天空混合剧集13高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851234.m3u8
+英国| 天空混合剧集14高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851233.m3u8
+英国| 天空混合剧集15高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851232.m3u8
+英国| 天空混合剧集16高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851231.m3u8
+英国| 天空混合剧集17高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1851230.m3u8
+
+天空混合纪录片,#genre#
+
+英国| 天空混合纪录片1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856995.m3u8
+英国| 天空混合纪录片2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856994.m3u8
+英国| 天空混合纪录片3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856993.m3u8
+英国| 天空混合纪录片4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856992.m3u8
+英国| 天空混合纪录片5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856991.m3u8
+英国| 天空混合纪录片6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856990.m3u8
+英国| 天空混合纪录片7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856989.m3u8
+英国| 天空混合纪录片8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856988.m3u8
+英国| 天空混合纪录片9 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856987.m3u8
+英国| 天空混合纪录片10 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856986.m3u8
+英国| 天空混合纪录片11 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856985.m3u8
+英国| 天空混合纪录片12 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856984.m3u8
+英国| 天空混合纪录片13 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856983.m3u8
+英国| 天空混合纪录片14 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856982.m3u8
+英国| 天空混合纪录片15 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1856981.m3u8
+
+Apple TV,#genre#
+
+英国| Apple TV+ 剧集1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917775.m3u8
+英国| Apple TV+ 剧集2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917774.m3u8
+英国| Apple TV+ 剧集3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917773.m3u8
+英国| Apple TV+ 剧集4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917772.m3u8
+英国| Apple TV+ 剧集5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917771.m3u8
+英国| Apple TV+ 剧集6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917770.m3u8
+英国| Apple TV+ 剧集7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917769.m3u8
+英国| Apple TV+ 剧集8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917768.m3u8
+英国| Apple TV+ 剧集9 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917767.m3u8
+英国| Apple TV+ 剧集10 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917766.m3u8
+
+
+
+Netflix剧集,#genre#
+
+
+英国| Netflix 剧集1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917807.m3u8
+英国| Netflix 剧集2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917806.m3u8
+英国| Netflix 剧集3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917805.m3u8
+英国| Netflix 剧集4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917804.m3u8
+英国| Netflix 剧集5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917803.m3u8
+英国| Netflix 剧集6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917802.m3u8
+英国| Netflix 剧集7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917801.m3u8
+英国| Netflix 剧集8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917800.m3u8
+英国| Netflix 剧集9 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917799.m3u8
+英国| Netflix 剧集10 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917798.m3u8
+
+
+Netflix首映,#genre#
+
+
+英国| Netflix 首映1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917790.m3u8
+英国| Netflix 首映2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917789.m3u8
+英国| Netflix 首映3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917788.m3u8
+英国| Netflix 首映4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917787.m3u8
+英国| Netflix 首映5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917786.m3u8
+英国| Netflix 首映6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917785.m3u8
+英国| Netflix 首映7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917784.m3u8
+英国| Netflix 首映8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917783.m3u8
+英国| Netflix 首映9 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917782.m3u8
+英国| Netflix 首映10 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917781.m3u8
+英国| Netflix 首映11 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917780.m3u8
+英国| Netflix 首映12 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917779.m3u8
+英国| Netflix 首映13 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917778.m3u8
+
+
+Prime Video剧集,#genre#
+
+
+英国| Prime Video 剧集1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917819.m3u8
+英国| Prime Video 剧集2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917818.m3u8
+英国| Prime Video 剧集3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917817.m3u8
+英国| Prime Video 剧集4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917816.m3u8
+英国| Prime Video 剧集5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917815.m3u8
+英国| Prime Video 剧集6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917814.m3u8
+英国| Prime Video 剧集7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917813.m3u8
+英国| Prime Video 剧集8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917812.m3u8
+英国| Prime Video 剧集9 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917811.m3u8
+英国| Prime Video 剧集10 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917810.m3u8
+
+
+
+BBC iPlayer剧集,#genre#
+
+
+英国| BBC iPlayer 剧集1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917763.m3u8
+英国| BBC iPlayer 剧集2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917762.m3u8
+英国| BBC iPlayer 剧集3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917761.m3u8
+英国| BBC iPlayer 剧集4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917760.m3u8
+英国| BBC iPlayer 剧集5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917759.m3u8
+英国| BBC iPlayer 剧集6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917758.m3u8
+英国| BBC iPlayer 剧集7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917757.m3u8
+英国| BBC iPlayer 剧集8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917756.m3u8
+
+
+真人秀电视,#genre#
+
+
+英国| 真人秀1 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917840.m3u8
+英国| 真人秀2 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917839.m3u8
+英国| 真人秀3 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917838.m3u8
+英国| 真人秀4 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917837.m3u8
+英国| 真人秀5 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917836.m3u8
+英国| 真人秀6 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917835.m3u8
+英国| 真人秀7 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917834.m3u8
+英国| 真人秀8 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917833.m3u8
+英国| 真人秀9 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917832.m3u8
+英国| 真人秀10 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917831.m3u8
+英国| 真人秀11 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917830.m3u8
+英国| 真人秀12 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917829.m3u8
+英国| 真人秀13 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917828.m3u8
+英国| 真人秀14 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917827.m3u8
+英国| 真人秀15 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917826.m3u8
+英国| 真人秀16 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917825.m3u8
+英国| 真人秀17 高清,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1917824.m3u8
+
+
+
+英国 · 乐天,#genre#
 
 
 
@@ -111,7 +311,7 @@ Vevo嘻哈与节奏布鲁斯 ,https://amg00056-amg00056c26-rakuten-uk-3236.playo
 
 
 
-英国 · SAMSUNG,#genre#
+英国 · 三星,#genre#
 
 
 
@@ -237,89 +437,6 @@ Wipeout Xtra ,https://d36nnn435goed2.cloudfront.net/WipeoutXtraPoweredbyBanijay_
 世界扑克巡回赛 ,https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
 世界大战TV ,https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
 
-
-
-英国 · 备用,#genre#
-
-回旋镖,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905954.m3u8
-卡通网络,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905951.m3u8
-喜剧中心,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905948.m3u8
-黄金台,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905945.m3u8
-MTV,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905942.m3u8
-尼克国际儿童频道,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905936.m3u8
-尼克少儿,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905939.m3u8
-尼克卡通,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905933.m3u8
-英超体育1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905930.m3u8
-英超体育2,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905927.m3u8
-天空动作,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905923.m3u8
-天空冒险,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905826.m3u8
-天空动画,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905823.m3u8
-天空艺术1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905920.m3u8
-天空大西洋,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905917.m3u8
-天空伯恩,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905914.m3u8
-天空影院首映,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905911.m3u8
-天空喜剧,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905908.m3u8
-天空犯罪,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905905.m3u8
-天空纪录片,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905902.m3u8
-天空戏剧,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905899.m3u8
-天空经典,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905896.m3u8
-天空历史,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905893.m3u8
-天空儿童,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905890.m3u8
-天空麦克斯,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905887.m3u8
-天空自然,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905884.m3u8
-天空新闻直播,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905881.m3u8
-天空科幻/恐怖,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905878.m3u8
-天空科幻,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905875.m3u8
-天空展示,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905872.m3u8
-天空体育+,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905835.m3u8
-天空体育动作,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905867.m3u8
-天空体育板球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905864.m3u8
-天空体育足球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905858.m3u8
-天空体育主赛事,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905853.m3u8
-天空体育混合,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905850.m3u8
-天空体育新闻总部,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905847.m3u8
-天空体育英超,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905844.m3u8
-天空体育赛马,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905841.m3u8
-天空体育网球,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905838.m3u8
-天空惊悚,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905832.m3u8
-天空见证,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905829.m3u8
-TNT体育1,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905819.m3u8
-TNT体育2,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905816.m3u8
-TNT体育3,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905813.m3u8
-TNT体育4,https://gh-proxy.com/https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1905810.m3u8
-英国|英国广播公司第三台/儿童台（HEVC）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/111550.m3u8
-英国|英国广播公司第四台/幼儿台（HEVC）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/111551.m3u8
-英国|家居装饰台,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1014329.m3u8
-英国|天空纪录片台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/164072.m3u8
-英国|探索频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30549.m3u8
-英国|历史频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30534.m3u8
-英国|历史第二频道（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30535.m3u8
-英国|国家地理野生台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/30525.m3u8
-英国|国家地理频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458749.m3u8
-英国|天空自然台（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458747.m3u8
-英国|天空犯罪台（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458761.m3u8
-英国|科幻频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458754.m3u8
-英国|犯罪调查频道（HEVC全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1458757.m3u8
-英国|电影狂热好莱坞台（4K）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1430509.m3u8
-英国|天空影院动作台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163996.m3u8
-英国|天空影院家庭台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163993.m3u8
-英国|天空影院剧情台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163997.m3u8
-英国|天空影院经典台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/164000.m3u8
-英国|天空影院热播台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163992.m3u8
-英国|天空影院首映台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163991.m3u8
-英国|天空影院科幻台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163998.m3u8
-英国|天空影院惊悚台（全高清）,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/163999.m3u8
-DISCOVERY+ DOC 1,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187714.m3u8
-DISCOVERY+ DOC 2,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187715.m3u8
-DISCOVERY+ IMAX,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1187713.m3u8
-DISNEY+ 经典,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503115.m3u8
-DISNEY+ 喜剧,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503116.m3u8
-DISNEY+ 儿童,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503117.m3u8
-DISNEY+ 漫威,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503118.m3u8
-DISNEY+ 国家地理,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503119.m3u8
-DISNEY+ 皮克斯,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503120.m3u8
-DISNEY+ 浪漫,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1503121.m3u8
-HBO 频道 4K,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1034767.m3u8
 
 
 
@@ -463,6 +580,7 @@ Nickelodeon 尼克频道,http://lunar.pm:8080/RandyJ/9876/8870
 大都会卡通台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=858772&extension=ts&play_token=3y6gHjLoG7
 公共电视儿童台,http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=858753&extension=ts&play_token=Whu49dktlr
 Boomerang 经典卡通,http://lunar.pm:8080/RandyJ/9876/110047
+月亮虫,https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
 
 美国 · 电影,#genre#
 Cinemax 电影,http://lunar.pm:8080/RandyJ/9876/18210
@@ -607,6 +725,7 @@ Willow 板球 2,http://lunar.pm:8080/RandyJ/9876/132414
 YES 体育网,http://lunar.pm:8080/RandyJ/9876/59692
 
 
+加勒比,#genre#
 
 加勒比-三方位广播电视网,http://lunar.pm:8080/RandyJ/9876/138951
 加勒比-艺术与娱乐频道,http://lunar.pm:8080/RandyJ/9876/138952
@@ -1640,7 +1759,7 @@ WWE摔角狂热,http://lunar.pm:8080/RandyJ/9876/134399
 
 
 
-美国 · SAMSUNG,#genre#
+美国 · 三星,#genre#
 
 4UV ,https://d3qg1liq0unuxm.cloudfront.net/4UV.m3u8
 ABC 20/20 ,https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
