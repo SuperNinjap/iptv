@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
+  "spider": "https://qiniu.gongxueyun.com/upload/1485643/2026-08-30/pay_slip_details/399640384_3_1788121085146.jar;md5;01e3d12b032b87e2e1f7c278453881ce",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -56,7 +56,7 @@
       "ext": {
         "cookie": ""
       }
-    },			
+    },	
     {
 			"key":"Youtube",
 			"name":"👾️┆油管┆视频",
@@ -433,7 +433,71 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-		},               
+		},       
+		{
+      "name": "MQitv61.63.19.241(瑞穗天合)",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
+      "ext": "61.63.19.241:1888",
+      "timeout": 30,
+      "playerType": 1
+        },
+        {
+      "name": "MQitv123.51.149.68(藍山飯店)",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
+      "ext": "123.51.149.68:1888",
+      "timeout": 30,
+      "playerType": 1
+        },
+        {
+      "name": "MQitv61.216.26.165(台灣酒店)",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
+      "ext": "61.216.26.165:1888",
+      "timeout": 30,
+      "playerType": 1
+        },
+       {
+      "name": "MQitv60.250.121.103(藍山飯店)",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
+      "ext": "60.250.121.103:1888",
+      "timeout": 30,
+      "playerType": 1
+        },
+       {
+      "name": "MQitv60.250.121.217(飯店)",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
+      "ext": "60.250.121.217:888",
+      "timeout": 30,
+      "playerType": 1
+        },
+       {
+      "name": "MQitv59.124.81.19(飯店)",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
+      "ext": "59.124.81.19:888",
+      "timeout": 30,
+      "playerType": 1
+        },
+       {
+      "name": "MQitv123.51.229.128(藍山飯店)",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
+      "ext": "123.51.229.128:1888",
+      "timeout": 30,
+      "playerType": 1
+        },
+		
 		{
 				"name": "易发",
 				"type": 0,
