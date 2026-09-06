@@ -188,7 +188,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0="
-    },    
+    },   
+    {
+      "key": "py_红果短剧",
+   "name": "🍅┆红果┆短剧" ,
+   "api": "http://127.0.0.1:9978/file/TVData/红果.py",
+   "filterable": 1,
+   "quickSearch": 1,
+   "searchable": 1,
+   "type": 3
+  },
     {
       "key": "Local",
       "name": "📁┆文件┆浏览",
@@ -434,70 +443,6 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
 		},       
-		{
-      "name": "MQitv61.63.19.241(瑞穗天合)",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
-      "ext": "61.63.19.241:1888",
-      "timeout": 30,
-      "playerType": 1
-        },
-        {
-      "name": "MQitv123.51.149.68(藍山飯店)",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
-      "ext": "123.51.149.68:1888",
-      "timeout": 30,
-      "playerType": 1
-        },
-        {
-      "name": "MQitv61.216.26.165(台灣酒店)",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
-      "ext": "61.216.26.165:1888",
-      "timeout": 30,
-      "playerType": 1
-        },
-       {
-      "name": "MQitv60.250.121.103(藍山飯店)",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
-      "ext": "60.250.121.103:1888",
-      "timeout": 30,
-      "playerType": 1
-        },
-       {
-      "name": "MQitv60.250.121.217(飯店)",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
-      "ext": "60.250.121.217:888",
-      "timeout": 30,
-      "playerType": 1
-        },
-       {
-      "name": "MQitv59.124.81.19(飯店)",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
-      "ext": "59.124.81.19:888",
-      "timeout": 30,
-      "playerType": 1
-        },
-       {
-      "name": "MQitv123.51.229.128(藍山飯店)",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/LinWei630718/iptvtw/main/jar/mtv.jar",
-      "ext": "123.51.229.128:1888",
-      "timeout": 30,
-      "playerType": 1
-        },
-		
 		{
 				"name": "易发",
 				"type": 0,
