@@ -1,136 +1,56 @@
 {
-  "spider": "https://img2.tofaka.com/autoupload/f/444eo/20260905/VWk0/aidaox-20260905-170225.jar;md5;d184d5a829d447d84bb7df409952da4e",
+  "spider": "https://zl.wpscdn.cn/2026/09/11/space_img/00d57d76-d36a-4666-808a-9f53c4c133a3.png;md5;1b1fe32a75667040acdb5462f4ed822d",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
-    {
+ {
+      "name": "🔥豆瓣┃推荐",
       "key": "Douban",
-      "name": "🏠豆瓣[导航]",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_DoubanAmns",
+      "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "indexs": 1,
-      "ext": "https://jk.catvod.site/jk/t4/douban.json"
+      "changeable": 0,
+      "ext": "Douban"
+    },
+    {
+      "name": "⭐瓜子┃秒播",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Guazi"
+    }, 
+    {
+      "name": "🧩金牌┃快速",
+      "key": "JinPai",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🧩荐片┃快速",
+      "key": "JPian",
+      "type": 3,
+      "api": "csp_JPianAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "JPian"
     },   
     {
-      "key": "观影",
-      "name": "🎬观影[4K]",
+      "name": "🌍爱瓜┃墙外",
+      "key": "AiGua",
       "type": 3,
-      "api": "csp_Gying",
+      "api": "csp_AiGuaAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.68
-      },
-      "ext": {
-        "site": [
-          "https://www.xn--10vr61a3xc5x3b.com",
-          "https://www.xn--kivn76b41nnhi.com",
-          "https://www.xn--wcv59z.com"
-        ]
-      },
-      "timeout": 120
-    },        
-    {
-      "key": "山楂",
-      "name": "🍬山楂[2K]",
-      "type": 3,
-      "api": "csp_PianKu8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "changeable": 0
     },
-    {
-      "key": "怀桑",
-      "name": "🎄怀桑[2K]",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "playname": "怀桑",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "剧圈99",
-      "name": "📺剧圈[2K]",
-      "type": 3,
-      "api": "csp_App99",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key": "爱营",
-      "name": "💥爱影[2K]",
-      "type": 3,
-      "api": "csp_AiYing",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|V122|okhttp/3.10.0"
-    },
-    {
-      "key": "枫叶",
-      "name": "🍁枫叶[2K]",
-      "type": 3,
-      "api": "csp_FengYe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.vip1949.com/"
-    },     
-    {
-      "key": "七味",
-      "name": "🎬七味[2K]",
-      "type": 3,
-      "api": "csp_Qiwei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 0.68
-      },
-      "ext": {
-        "site": [
-          "https://www.qwmp4.com",
-          "https://www.qwmkv.com",
-          "https://www.qwfilm.com",
-          "https://www.qwfun.com",
-          "https://www.qwshow.com",
-          "https://www.qwavi.com",
-          "https://www.qnnull.com",
-          "https://www.qnhot.com",
-          "https://www.qncool.com",
-          "https://www.qwfree.com"
-        ]
-      },
-      "timeout": 60
-    },            
     {
       "key": "xigua",
       "name": "🍉西瓜[采集]",
@@ -152,96 +72,44 @@
       "searchable": 1,
       "quickSearch": 1
     },         
-    {
-      "key": "瓜子影视",
-      "name": "🎞️瓜子[影视]",
+  {
+      "name": "🔗哔嘀┃2K",
+      "key": "Bidys",
       "type": 3,
-      "api": "csp_Gz360",
+      "api": "csp_BidysAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "天堂",
-      "name": "🎞️天堂[影视]",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "电影天堂",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.dytiantang.one",
-        "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "3.0.0.7",
-        "decrypt": "0"
-      }
-    }, 
-    {
-      "key": "文才",
-      "name": "✏️文才[影视]",
-      "type": 3,
-      "api": "csp_WenCai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },       
-    {
-      "key": "马猴影视",
-      "name": "🐵马猴[影视]",
-      "type": 3,
-      "api": "csp_AppMH",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://45.150.167.18:8000"
-    },   
-    {
-      "key": "苹果",
-      "name": "🔥苹果[影视]",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "小苹果",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
-        "host": "",
-        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-        "version": "1.0.0.3",
-        "decrypt": "0"
-      }
-    },
-    {
-      "key": "荐片",
-      "name": "🧲荐片[影视]",
-      "type": 3,
-      "api": "csp_JianPian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },   
-    {
-      "key": "push_agent",
-      "name": "💌推送[配置]",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
       "changeable": 0,
-      "indexs": 0,
-      "timeout": 60
+      "ext": "Bidys"
+    },
+    {
+      "name": "🔗厂长┃2K",
+      "key": "Czzy",
+      "type": 3,
+      "api": "csp_CzzyAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Czzy"
+    },
+    {
+      "name": "🔗LBV┃2K",
+      "key": "Libvio",
+      "type": 3,
+      "api": "csp_LibvioAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Libvio"
+    },   
+    {
+      "name": "🛴推送┃播放",
+      "key": "push_agent",
+      "type": 3,
+      "api": "csp_PushAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     }
   ],
   "lives": [
