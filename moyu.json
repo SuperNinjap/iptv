@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/6180265/2026-09-01/training_record/950055803_4_1788301315144.jar;md5;282aee405654188f1bc1822bbf137410",
+  "spider": "https://zl.wpscdn.cn/2026/09/11/space_img/00d57d76-d36a-4666-808a-9f53c4c133a3.png;md5;1b1fe32a75667040acdb5462f4ed822d",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -81,6 +81,13 @@
 			},			
 			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
 		},	
+	{
+      "key": "音乐聚合",
+      "name": "🎷┆音乐┆汇总",
+      "type": 3,
+      "api": "__custom_csp_音乐_汇总",
+      "homePage": "https://q-16a.pages.dev/"
+    },
     {
       "key": "FishPs",
       "name": "🐟┆鱼鱼┆盘搜",
