@@ -1,5 +1,5 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/09/11/space_img/00d57d76-d36a-4666-808a-9f53c4c133a3.png;md5;1b1fe32a75667040acdb5462f4ed822d",
+  "spider": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
  {
@@ -72,16 +72,6 @@
       "searchable": 1,
       "quickSearch": 1
     },         
-  {
-      "name": "🔗哔嘀┃2K",
-      "key": "Bidys",
-      "type": 3,
-      "api": "csp_BidysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Bidys"
-    },
     {
       "name": "🔗厂长┃2K",
       "key": "Czzy",
