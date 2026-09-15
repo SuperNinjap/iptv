@@ -22,7 +22,27 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi"
-    }, 
+    },  
+    {
+      "name": "🔗厂长┃2K",
+      "key": "Czzy",
+      "type": 3,
+      "api": "csp_CzzyAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Czzy"
+    },
+    {
+      "name": "🧩橘汁┃快速",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
     {
       "name": "🧩金牌┃快速",
       "key": "JinPai",
@@ -59,13 +79,6 @@
       "quickSearch": 1
     },       
     {
-      "key": "ruyi",
-      "name": "🎉如意[采集]",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1
-    },        
-    {
       "key": "zuida",
       "name": "🏍️最大[采集]",
       "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/",
@@ -73,25 +86,25 @@
       "quickSearch": 1
     },         
     {
-      "name": "🔗厂长┃2K",
-      "key": "Czzy",
+      "key": "飞流视频",
+      "name": "🦋 飞流┃视频",
       "type": 3,
-      "api": "csp_CzzyAmns",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/飞流.py",
+      "ext": "",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Czzy"
-    },
+      "category": "综合"
+    },      
     {
-      "name": "🔗LBV┃2K",
-      "key": "Libvio",
+      "key": "hstv",
+      "name": "🦋 华数┃影视",
       "type": 3,
-      "api": "csp_LibvioAmns",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/华数.py",
+      "ext": "",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Libvio"
-    },   
+      "category": "综合"
+    },        
     {
       "name": "🛴推送┃播放",
       "key": "push_agent",
