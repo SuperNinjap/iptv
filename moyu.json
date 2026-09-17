@@ -38,7 +38,7 @@
 				"ratio": 1.5
 			},   
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
-		},		
+		},	
 		{
 			"key":"bili",
 			"name":"🤖B站┃视频",
@@ -140,7 +140,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Czzy"
-    },
+    },        
     {
       "name": "🧩橘汁┃快速",
       "key": "Woshinidie",
@@ -178,7 +178,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    },    
+    },        
+    {
+            "key": "枫叶影院js",
+            "name": "🦋枫叶┃影院",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/FY.js",
+            "changeable": 0,
+            "ext": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "category": "综合"
+    },
     {
       "key": "飞流视频",
       "name": "🦋 飞流┃视频",
