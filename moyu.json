@@ -1,5 +1,5 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -83,7 +83,7 @@
 				"ratio": 1.77
 			},			
 			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
-		},	
+		},	     
 	{"key":"webhome","name":"Ⓜ️网页┃合集","type":3,"api":"csp_WebHome","ext":"http://127.0.0.1:9978/file/TVData/ext.json","changeable":0,"jar":"http://127.0.0.1:9978/file/TVData/vox.jar"},    
 	{
       "name": "🔍fish┃盘搜",
@@ -178,7 +178,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    },        
+    },       
+    {
+      "key": "gltv",
+      "name": "🦋 咕噜┃影视",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/gl.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },          
     {
             "key": "枫叶影院js",
             "name": "🦋枫叶┃影院",
@@ -190,16 +200,6 @@
             "quickSearch": 1,
             "category": "综合"
     },
-    {
-      "key": "飞流视频",
-      "name": "🦋 飞流┃视频",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/FL.py",
-      "ext": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "category": "综合"
-    },  
     {
       "key": "xigua",
       "name": "🍉西瓜┃采集",
@@ -214,7 +214,16 @@
       "searchable": 1,
       "quickSearch": 1
     },             
-	{"key":"HongGuo","name":"🍅红果┃短剧","type":3,"api":"csp_HongGuo","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"playerType": 2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	},
+    {
+      "key": "hgdj",
+      "name": "🍅 红果┃短剧",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/hg.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },     
     {
       "key": "hstv",
       "name": "🦋 华数┃影视",
@@ -224,7 +233,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "category": "综合"
-    },        
+    },       
     {
       "name": "🛴推送┃播放",
       "key": "push_agent",

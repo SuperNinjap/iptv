@@ -1,5 +1,5 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
  {
@@ -84,6 +84,16 @@
       "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1
+    },         
+    {
+      "key": "gltv",
+      "name": "🦋 咕噜┃影视",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/gl.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
     },           
     {
             "key": "枫叶影院js",
@@ -96,16 +106,6 @@
             "quickSearch": 1,
             "category": "综合"
     },  
-    {
-      "key": "飞流视频",
-      "name": "🦋 飞流┃视频",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/FL.py",
-      "ext": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "category": "综合"
-    },      
     {
       "key": "hstv",
       "name": "🦋 华数┃影视",
