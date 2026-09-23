@@ -94,7 +94,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "category": "综合"
-    },           
+    },      
+    {
+      "key": "fltv",
+      "name": "🦋 飞流┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/FL.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },              
     {
             "key": "枫叶影院js",
             "name": "🦋枫叶┃影院",
