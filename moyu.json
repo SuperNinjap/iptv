@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -85,6 +85,16 @@
 			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
 		},	     
 	{"key":"webhome","name":"Ⓜ️网页┃合集","type":3,"api":"csp_WebHome","ext":"http://127.0.0.1:9978/file/TVData/ext.json","changeable":0,"jar":"http://127.0.0.1:9978/file/TVData/vox.jar"},    
+	{
+            "name": "🛡️鉴黄师┃原生",
+            "key": "ZakaJavrate",
+            "type": 3,
+            "jar": "http://127.0.0.1:9978/file/TVData/ai.png",
+            "api": "csp_ZakaJavrateAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
 	{
       "name": "🔍fish┃盘搜",
       "key": "PSfish",
@@ -183,7 +193,7 @@
       "key": "gltv",
       "name": "🦋 咕噜┃影视",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVData/gl.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/GL.py",
       "ext": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -218,7 +228,7 @@
       "key": "hgdj",
       "name": "🍅 红果┃短剧",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVData/hg.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/HG.py",
       "ext": "",
       "searchable": 1,
       "quickSearch": 1,

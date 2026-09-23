@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
  {
@@ -89,7 +89,7 @@
       "key": "gltv",
       "name": "🦋 咕噜┃影视",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVData/gl.py",
+      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/GL.py",
       "ext": "",
       "searchable": 1,
       "quickSearch": 1,
