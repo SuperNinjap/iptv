@@ -94,7 +94,7 @@
             "quickSearch": 0,
             "category": "体育/直播"
         },     
-	{"key":"webhome","name":"Ⓜ️网页┃合集","type":3,"api":"csp_WebHome","ext":"http://127.0.0.1:9978/file/TVData/ext.json","changeable":0,"jar":"http://127.0.0.1:9978/file/TVData/vox.jar"},    
+	{"key":"webhome","name":"Ⓜ️网页┃合集","type":3,"api":"csp_WebHome","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/ext.json","changeable":0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/vox.jar"},    
 	{
             "name": "🛡️鉴师┃原生",
             "key": "ZakaJavrate",
