@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+  "spider": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -83,10 +83,20 @@
 				"ratio": 1.77
 			},			
 			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
-		},	     
+		},	        
+		{
+            "key": "jhzb",
+            "name": "🦋 聚合┃直播",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/ZB.py",
+            "ext": "",
+            "searchable": 0,
+            "quickSearch": 0,
+            "category": "体育/直播"
+        },     
 	{"key":"webhome","name":"Ⓜ️网页┃合集","type":3,"api":"csp_WebHome","ext":"http://127.0.0.1:9978/file/TVData/ext.json","changeable":0,"jar":"http://127.0.0.1:9978/file/TVData/vox.jar"},    
 	{
-            "name": "🛡️鉴黄师┃原生",
+            "name": "🛡️鉴师┃原生",
             "key": "ZakaJavrate",
             "type": 3,
             "jar": "http://127.0.0.1:9978/file/TVData/ai.png",
@@ -498,7 +508,42 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
 		        }	
-  ],
+  ],    
+  "proxy": [
+		    {
+		        "name": "指定域名代理",
+		        "hosts": [
+		        "cdn6.cc.cd",
+		        "serv00.com",
+                "serv00.net",
+                "googlevideo.com",
+                "youtube.com",
+                "youtu.be",
+                "yt.be",
+                "googlevideo.com",
+                "googleapis.com",
+                "youtube-nocookie.com",
+                "youtube.googleapis.com",
+                "youtubei.googleapis.com",
+                "ytimg.com",
+                "google.com",
+                "googleapis.com",
+                "gstatic.com",
+                "ggpht.com",
+                "1e100.net",
+                "zhangqun1818.serv00.net",
+                "zhangqun66.com",
+                "zhangqun66.xyz",
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "youtube.com"
+                ],
+                "urls": [
+                    "http://127.0.0.1:10172"
+                    ]
+		        
+		    }
+            ],
   "parses": [],
   "flags": [],
   "ijk": [
