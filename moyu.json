@@ -265,15 +265,15 @@
       "quickSearch": 1
     },             
     {
-      "key": "hgdj",
-      "name": "🍅 红果┃短剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/HG.py",
-      "ext": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "category": "综合"
-    },     
+            "key": "hongguo",
+            "name": "🍅 红果┃短剧",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/HG.py",
+            "ext": "",
+            "category": "综合",
+            "searchable": 1,
+            "quickSearch": 1
+        },
     {
       "key": "hstv",
       "name": "🦋 华数┃影视",
