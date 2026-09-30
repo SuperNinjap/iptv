@@ -142,16 +142,6 @@
       "ext": "Guazi"
     },       
     {
-      "name": "🔗哔嘀┃2K",
-      "key": "Bidys",
-      "type": 3,
-      "api": "csp_BidysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Bidys"
-    },
-    {
       "name": "🔗厂长┃2K",
       "key": "Czzy",
       "type": 3,
