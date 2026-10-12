@@ -1,5 +1,5 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+  "spider": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png;md5;4c4f8a2ce645a5539405defe99d17fa3",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -269,6 +269,36 @@
       "name": "🦋 华数┃影视",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/HS.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },          
+    {
+      "key": "234tv",
+      "name": "🦋234┃影视",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/234.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },        
+    {
+      "key": "yszb",
+      "name": "🦋央视┃直播",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/ysp1.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },       
+    {
+      "key": "zgj",
+      "name": "🦋真果鉴┃影视",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/真果鉴.py",
       "ext": "",
       "searchable": 1,
       "quickSearch": 1,
