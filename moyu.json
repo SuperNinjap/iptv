@@ -40,26 +40,23 @@
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
 		},	
 		{
-			"key":"bili",
-			"name":"🤖B站┃视频",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout":60,
-			"playerType": 2,
-			"ext":{
-				"token":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main//lib/tokenm.json",
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":"buvid3=4A568D44-90BC-AA9F-65ED-3429A5638B1400173infoc; b_nut=1776583700; bsource=search_google; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; buvid4=45141449-1E8E-B726-0423-596A7B67BE1202661-126041915-yMP1ArBB5q4BVQyvptHqNA%3D%3D; _uuid=82CD1EC4-4852-5710D-5D92-E2E103D1FBD5701956infoc; buvid_fp=e134e207dc3a7d1f93cd2b4235067e61; DedeUserID=2333; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzc2ODYxNDcsImlhdCI6MTc3NzQyNjg4NywicGx0IjotMX0._6zD8AmSSkhogBo4rO97NOlORNVCItxFpoOCNRVTffo; bili_ticket_expires=1777686087; SESSDATA=0bc8058d%2C1792978992%2C9b7e8%2A42CjB_Z3sETMvapbExdz1_E02sXwfnZropPLjYvuxs5vJgm-abwtqxm-4momW-thxEl4ASVmtlNE9INlNmUks3S28tZWVhaFk2QnRKZk5MX21wRlkybHdwQXltaE11WEpzVFkyNkFoWG14Ry1McmkyallGNlJEMVdzSTd4WTlBNDk3SlY5Z0IwdVBnIIEC; bili_jct=016a47f9d56d28bdd0fad714cf39076c; DedeUserID=476091398; DedeUserID__ckMd5=27900e9fc073f43b; sid=7b5iov93; b_lsid=A2DC34BF_19DD6E7A576"
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			},		
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
-		},
+            "name": "🤖B站┃视频",
+            "key": "BiliHeji",
+            "type": 3,
+            "api": "csp_BiliAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "home": "1",
+                "json": "https://file.icve.com.cn/file_doc/299/797/4AFC77E563EDEDB37F18BA6458610E16.aowu",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
     {
 			"key":"Youtube",
 			"name":"👾️油管┃视频",
@@ -288,12 +285,34 @@
       "key": "234tv",
       "name": "🦋234┃影视",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVData/234.py",
+      "api": "http://127.0.0.1:9978/file/TVData/jh.py",
       "ext": "",
       "searchable": 1,
       "quickSearch": 1,
       "category": "综合"
     },        
+    {
+      "key": "jh_ok_py",
+      "name": "鉴黄师┃PY",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/jh_ok.py",
+      "ext": "{\"port\":9978,\"timeout\":20}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "category": "综合"
+    },
+    {
+            "key": "4gtv",
+            "name": "4gtv home+live",
+            "type": 3,
+            "api": "http://127.0.0.1:9978/file/TVData/4gtv_home_live.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },    
     {
       "name": "🛴推送┃播放",
       "key": "push_agent",
@@ -317,7 +336,13 @@
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
-			},
+			},  
+			{
+            "name": "4gtv home+live(python)",
+            "type": 3,
+            "api": "./py/4gtv_home_live.py",
+            "ext": {}
+        },
 			{
 				"name": "最强国内直播",
 				"type": 0,
