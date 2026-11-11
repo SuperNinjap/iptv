@@ -166,13 +166,31 @@ class Spider(Spider):
         groups = {}
         for url, sid, nid, ename in eps:
             groups.setdefault(sid, []).append((nid, ename, url))
-        pf, pu = [], []
+
+        # 选集按集数从小到大排序（数字优先，非数字排最后）
+        for sid in groups:
+            groups[sid].sort(key=lambda x: int(x[0]) if str(x[0]).isdigit() else 10 ** 9)
+
+        # 收集所有「可播放」线路（sid 在白名单且确实有剧集）
+        playable = []
         for sid, fname in froms:
             if sid not in groups or not groups[sid] or sid not in PLAYABLE:
                 continue
             fname = re.sub(r'\(\d+\)$', '', re.sub(r'\s+', '', re.sub(r'<[^>]+>', '', fname).replace('&nbsp;', ' ')).strip())
-            pf.append(fname or ("线路%s" % sid))
+            playable.append((sid, fname or ("线路%s" % sid)))
+
+        # 优先级：至臻4K > 至臻 > 全部可播放
+        chosen = [x for x in playable if "至臻" in x[1] and "4K" in x[1]]
+        if not chosen:
+            chosen = [x for x in playable if "至臻" in x[1]]
+        if not chosen:
+            chosen = playable
+
+        pf, pu = [], []
+        for sid, fname in chosen:
+            pf.append(fname)
             pu.append("#".join("%s$%s" % (e, u) for n, e, u in groups[sid]))
+
         if pf:
             d["vod_play_from"] = "$$$".join(pf)
             d["vod_play_url"] = "$$$".join(pu)

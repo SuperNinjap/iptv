@@ -863,7 +863,7 @@ class Spider:
     UA = USER_AGENT
 
     _play_order = [
-        "咕噜4K", "菲乐4K", "鲸宝4K", "神话", "臻影4K", "精品2K",
+        "新咕噜4K", "咕噜4K", "鲸宝4K", "菲乐4K", "神话", "臻影4K", "精品2K",
         "鲸宝2K", "短剧2K", "天堂", "☆讯飞☆", "☆奇趣☆", "☆果汁☆",
         "☆酷萌☆", "☆哔哩☆", "咖啡", "量子", "非凡", "暴风", "蚂蚁",
         "小熊", "海外", "花旗",
@@ -1026,6 +1026,17 @@ class Spider:
                 play_blocks.append("#".join(episodes))
         paired = list(zip(play_from, play_blocks))
         paired.sort(key=lambda x: self._rank(x[0]))
+
+        # 优先只显示 新咕噜4K / 鲸宝4K 线路；两者都不存在时才显示其他线路
+        _preferred_keys = ("咕噜4k", "鲸宝4k")
+
+        def _is_preferred(name):
+            low = self._clean_name(name).lower()
+            return any(k in low for k in _preferred_keys)
+
+        _priority = [p for p in paired if _is_preferred(p[0])]
+        if _priority:
+            paired = _priority
 
         vod = {
             "vod_id": detail["id"],
