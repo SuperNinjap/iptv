@@ -27,6 +27,11 @@ def _s(v):
     return "" if v is None else str(v).strip()
 
 
+def _is_4k_line(name):
+    """线路名包含 4k（不区分大小写）即视为 4K 线路。"""
+    return "4k" in _s(name).lower()
+
+
 class Spider(BaseSpider):
     _sess = {"jwt": "", "sid": "", "at": 0.0}
 
@@ -185,6 +190,13 @@ class Spider(BaseSpider):
                 if eps:
                     froms.append(name)
                     urls.append("#".join(eps))
+
+            # 线路优先：优先只保留 4K 线路；没有 4K 线路才显示其他能播放的线路
+            preferred = [(f, u) for f, u in zip(froms, urls) if _is_4k_line(f)]
+            if preferred:
+                froms = [f for f, _ in preferred]
+                urls = [u for _, u in preferred]
+
             pic = _s(info.get("vod_pic"))
             if pic.startswith("//"):
                 pic = "https:" + pic

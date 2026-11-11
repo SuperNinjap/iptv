@@ -50,6 +50,9 @@ FILTER_NAMES = {
 }
 HOME_CACHE_TTL = 6 * 3600
 
+# 优先线路关键词：存在则只显示这三类，不存在则回退显示全部可播放线路
+PREFERRED_LINES = ('联通云', '移动云', '天翼云')
+
 _BASE64_RE = re.compile(r'(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?')
 _LDMAX_RE = re.compile(r'^https?://ldmax\.cooom/', re.I)
 _MEDIA_RE = re.compile(r'\.(?:mp4|m3u8?|flv|avi|mkv|ts|mov|wmv|webm|m4v|mpd)$', re.I)
@@ -303,6 +306,12 @@ def is_4k_source(url):
     return is_media_url(url) and not is_stream_url(url)
 
 
+def is_preferred_line(name):
+    """判断线路名是否属于联通云/移动云/天翼云优先线路（包含即命中）。"""
+    name = text(name)
+    return bool(name) and any(kw in name for kw in PREFERRED_LINES)
+
+
 def home(extend=''):
     cache_key = '%s_home_%s' % (KEY, text(extend))
     cached = _home_cache.get(cache_key)
@@ -436,6 +445,13 @@ def detail(ids):
             name = text(source.get('name')) or text(source.get('code')) or '线路%d' % (index + 1)
             froms.append(re.sub(r'[$#]', ' ', name))
             urls.append(url)
+
+        # 线路优先：优先只保留联通云/移动云/天翼云；三线都无则回退显示全部可播放线路
+        preferred = [(f, u) for f, u in zip(froms, urls) if is_preferred_line(f)]
+        if preferred:
+            froms = [f for f, _ in preferred]
+            urls = [u for _, u in preferred]
+
         vod['vod_play_from'] = '$$$'.join(froms)
         vod['vod_play_url'] = '$$$'.join(urls)
         lst.append(vod)
