@@ -173,7 +173,7 @@ class Spider(Spider):
         return result
 
     def detailContent(self, ids):
-        """详情页：获取视频详情和播放源"""
+        """详情页：获取视频详情和播放源（星空优先，无星空回退其它可播放线路）"""
         video_id = ids[0]
 
         # 获取视频元数据
@@ -209,14 +209,23 @@ class Spider(Spider):
         sources_data = self.get_json(f'/videos/{video_id}/sources')
         sources = sources_data.get('data', [])
 
-        play_from_list = []
-        play_url_list = []
+        # 先收集所有可播放源 (name, url)
+        playable = []
         for source in sources:
-            source_name = source.get('name', '')
-            source_url = source.get('url', '')
-            if source_name and source_url:
-                play_from_list.append(source_name)
-                play_url_list.append(source_url)
+            name = source.get('name', '')
+            url = source.get('url', '')
+            if url:
+                playable.append((name, url))
+
+        # 1. 优先星空线路（有则只保留星空）
+        selected = [x for x in playable if x[0] == '星空']
+
+        # 2. 无星空，回退到其它可播放线路（大陆、龙渊等）
+        if not selected:
+            selected = playable
+
+        play_from_list = [x[0] for x in selected]
+        play_url_list = [x[1] for x in selected]
 
         vod['vod_play_from'] = '$$$'.join(play_from_list)
         vod['vod_play_url'] = '$$$'.join(play_url_list)
