@@ -114,16 +114,6 @@
       "category": "综合"
     },        
     {
-      "key": "山楂tv",
-      "name": "🦋山楂┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/SZ.py",
-      "ext": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "category": "综合"
-    },          
-    {
       "key": "影探tv",
       "name": "🦋影探┃影视",
       "type": 3,
