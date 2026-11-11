@@ -234,6 +234,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "category": "综合"
+    },       
+    {
+      "key": "txtv",
+      "name": "🦋疼训┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/TX.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
     },                   
     {
       "key": "xigua",
@@ -301,7 +311,7 @@
     }, 
     {
       "key": "missav",
-      "name": "🦋 密视┃影视",
+      "name": "🦋 蜜视┃影视",
       "type": 3,
       "api": "http://127.0.0.1:9978/file/TVData/py/MVJP.py",
       "ext": "",
