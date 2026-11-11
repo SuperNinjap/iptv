@@ -146,15 +146,6 @@
       "ext": "Czzy"
     },        
     {
-      "name": "🧩金牌┃快速",
-      "key": "JinPai",
-      "type": 3,
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "gltv",
       "name": "🦋 咕噜┃影视",
       "type": 3,
@@ -235,6 +226,16 @@
       "quickSearch": 1,
       "category": "综合"
     },       
+    {
+      "key": "wctv",
+      "name": "🦋文才┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/WC.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },      
     {
       "key": "txtv",
       "name": "🦋疼训┃影视",
@@ -351,7 +352,7 @@
     },           
     {
             "key": "测试tv",
-            "name": "测试tv",
+            "name": "测试┃影视",
             "type": 3,
             "api": "http://127.0.0.1:9978/file/TVData/py/1.py",
             "style": {
