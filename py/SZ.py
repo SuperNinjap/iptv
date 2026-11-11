@@ -27,9 +27,14 @@ def _s(v):
     return "" if v is None else str(v).strip()
 
 
-def _is_4k_line(name):
-    """线路名包含 4k（不区分大小写）即视为 4K 线路。"""
-    return "4k" in _s(name).lower()
+def _line_rank(name):
+    """线路优先级：0=蓝光4K推荐，1=其它4K线路，2=普通线路。"""
+    n = _s(name)
+    if "蓝光4K推荐" in n:
+        return 0
+    if "4k" in n.lower():
+        return 1
+    return 2
 
 
 class Spider(BaseSpider):
@@ -191,11 +196,12 @@ class Spider(BaseSpider):
                     froms.append(name)
                     urls.append("#".join(eps))
 
-            # 线路优先：优先只保留 4K 线路；没有 4K 线路才显示其他能播放的线路
-            preferred = [(f, u) for f, u in zip(froms, urls) if _is_4k_line(f)]
-            if preferred:
-                froms = [f for f, _ in preferred]
-                urls = [u for _, u in preferred]
+            # 线路优先：蓝光4K推荐 > 其它4K线路 > 其它可播放线路
+            if froms:
+                best = min(_line_rank(f) for f in froms)
+                keep = [i for i, f in enumerate(froms) if _line_rank(f) == best]
+                froms = [froms[i] for i in keep]
+                urls = [urls[i] for i in keep]
 
             pic = _s(info.get("vod_pic"))
             if pic.startswith("//"):
