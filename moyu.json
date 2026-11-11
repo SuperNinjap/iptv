@@ -1,5 +1,5 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png;md5;bb065fc30372ceee6fb15feec0c6a5fe",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -80,8 +80,8 @@
 				"ratio": 1.77
 			},			
 			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"	
-		},	           
-		{
+	},	           
+	{
             "key": "jhzb",
             "name": "🦋 聚合┃直播",
             "type": 3,
@@ -90,18 +90,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "category": "体育/直播"
-        },     
-	{"key":"webhome","name":"Ⓜ️网页┃合集","type":3,"api":"csp_WebHome","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/ext.json","changeable":0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/vox.jar"},    
+	},     
 	{
-            "name": "🛡️鉴师┃原生",
-            "key": "ZakaJavrate",
-            "type": 3,
-            "jar": "http://127.0.0.1:9978/file/TVData/ai.png",
-            "api": "csp_ZakaJavrateAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+	    "key":"webhome",
+	    "name":"Ⓜ️网页┃合集","
+	    type":3,"api":"csp_WebHome",
+	    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/ext.json",
+	    "changeable":0,
+	    "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/vox.jar"
+	},    
 	{
       "name": "🔍fish┃盘搜",
       "key": "PSfish",
@@ -125,7 +122,7 @@
 			"style": {
 				"type": "list",
 				"ratio": 1.1
-			},
+			          },
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"			
 	},         
 	{
@@ -149,16 +146,6 @@
       "ext": "Czzy"
     },        
     {
-      "name": "🧩橘汁┃快速",
-      "key": "Woshinidie",
-      "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
-      "api": "csp_Woshinidie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "name": "🧩金牌┃快速",
       "key": "JinPai",
       "type": 3,
@@ -167,25 +154,6 @@
       "quickSearch": 1,
       "changeable": 0
     },
-    {
-      "name": "🧩荐片┃快速",
-      "key": "JPian",
-      "type": 3,
-      "api": "csp_JPianAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "JPian"
-    },    
-    {
-      "name": "🌍爱瓜┃墙外",
-      "key": "AiGua",
-      "type": 3,
-      "api": "csp_AiGuaAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },       
     {
       "key": "gltv",
       "name": "🦋 咕噜┃影视",
@@ -196,16 +164,6 @@
       "quickSearch": 1,
       "category": "综合"
     },          
-    {
-      "key": "missav",
-      "name": "🦋 miss┃影视",
-      "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVData/MVJP.py",
-      "ext": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "category": "综合"
-    },       
     {
       "key": "fltv",
       "name": "🦋 飞流┃影视",
@@ -226,7 +184,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "category": "综合"
-        },        
+    },         
+    {
+      "key": "jztv",
+      "name": "🦋 橘汁┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/JZ.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },          
+    {
+      "key": "jptv",
+      "name": "🦋 荐片┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/JP.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },          
     {
             "key": "qlys",
             "name": "🦋 麒麟┃影视",
@@ -236,7 +214,37 @@
             "searchable": 1,
             "quickSearch": 1,
             "category": "综合"
-        },                
+    },    
+    {
+      "key": "片帝tv",
+      "name": "🦋片帝┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/PD.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },        
+    {
+      "key": "山楂tv",
+      "name": "🦋山楂┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/SZ.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },          
+    {
+      "key": "影探tv",
+      "name": "🦋影探┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/YT.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },                   
     {
       "key": "xigua",
       "name": "🍉西瓜┃采集",
@@ -255,7 +263,7 @@
       "key": "kanjuai",
       "name": "💽看剧┃AI",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVData/看剧AI.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/KJ.py",
       "ext": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -270,7 +278,7 @@
             "category": "综合",
             "searchable": 1,
             "quickSearch": 1
-        },
+    },
     {
       "key": "hstv",
       "name": "🦋 华数┃影视",
@@ -280,39 +288,78 @@
       "searchable": 1,
       "quickSearch": 1,
       "category": "综合"
+    },       	
+    {
+            "name": "🛡️鉴师┃原生",
+            "key": "ZakaJavrate",
+            "type": 3,
+            "jar": "http://127.0.0.1:9978/file/TVData/zakatv.jar",
+            "api": "csp_ZakaJavrateAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+    },           
+    {
+   "key": "zakav01",
+   "name": "👸艾薇┃零壹",
+   "type": 3,
+   "api": "csp_ZakaAv01Amns",
+   "jar": "http://127.0.0.1:9978/file/TVData/zakatv.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+    }, 
+    {
+      "key": "missav",
+      "name": "🦋 密视┃影视",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/py/MVJP.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
     },          
+    {
+      "key": "91tv",
+      "name": "🦋玖壹┃短剧",
+      "type": 3,
+      "api": "http://127.0.0.1:9978/file/TVData/py/91.py",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },       
     {
       "key": "234tv",
       "name": "🦋234┃影视",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVData/jh.py",
+      "api": "http://127.0.0.1:9978/file/TVData/py/234.py",
       "ext": "",
       "searchable": 1,
       "quickSearch": 1,
       "category": "综合"
     },        
     {
-      "key": "jh_ok_py",
-      "name": "鉴黄师┃PY",
+      "key": "hdrtv",
+      "name": "🦋hdr┃影视",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/jh_ok.py",
-      "ext": "{\"port\":9978,\"timeout\":20}",
+      "api": "http://127.0.0.1:9978/file/TVData/py/HDRip.py",
+      "ext": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
       "category": "综合"
-    },
+    },           
     {
-            "key": "4gtv",
-            "name": "4gtv home+live",
+            "key": "测试tv",
+            "name": "测试tv",
             "type": 3,
-            "api": "http://127.0.0.1:9978/file/TVData/4gtv_home_live.py",
+            "api": "http://127.0.0.1:9978/file/TVData/py/1.py",
             "style": {
                 "type": "rect",
                 "ratio": 0.75
             },
             "changeable": 1
-        },    
+    },     
     {
       "name": "🛴推送┃播放",
       "key": "push_agent",
