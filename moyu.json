@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png;md5;bb065fc30372ceee6fb15feec0c6a5fe",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png;md5;e76d6f0107817970b9f57d7d29129efe",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
@@ -39,7 +39,19 @@
 			},   
 			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar"
 		},	
-		{
+    {
+            "key": "bili",
+            "name": "🎨┆笔触┆琉璃",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "cookie": ""
+            },
+            "jar":"https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar;md5;53b51f8c239b727ce4cd18dc2c3b7a99"
+    },
+	{
             "name": "🤖B站┃视频",
             "key": "BiliHeji",
             "type": 3,
@@ -56,7 +68,7 @@
                 "type": "rect",
                 "ratio": 1.433
             }
-        },
+    },
     {
 			"key":"Youtube",
 			"name":"👾️油管┃视频",
@@ -238,7 +250,7 @@
     },      
     {
       "key": "txtv",
-      "name": "🦋疼训┃影视",
+      "name": "🦋藤讯┃影视",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/py/TX.py",
       "ext": "",
@@ -289,7 +301,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "category": "综合"
-    },       	
+    },    
     {
             "name": "🛡️鉴师┃原生",
             "key": "ZakaJavrate",
@@ -299,7 +311,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
-    },           
+    },     
     {
    "key": "zakav01",
    "name": "👸艾薇┃零壹",
@@ -599,6 +611,14 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
 		},       
+		{
+      "name": "我的ok影視央視頻直播",
+      "type": 0,
+      "url":"",
+      "api": "http://127.0.0.1:9978/file/TVData/py/ysp.py",
+      "epg":"https://epg.112114.xyz/pp.xml",
+      "ext": {}
+        },   
 		{
 				"name": "易发",
 				"type": 0,
