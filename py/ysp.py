@@ -304,7 +304,7 @@ def resolution_from_screen_param (screen_param :str )->str :
         return f'{parts [0 ]}*{parts [1 ]}'
     return '3840*2160'
 def channels ():
-    return [('cctv1','Live1717729995180256'),('cctv2','Live1718261577870260'),('cctv3','Live1718261955077261'),('cctv4','Live1718276148119264'),('cctv5','Live1719474204987287'),('cctv5p','Live1719473996025286'),('cctv7','Live1718276412224269'),('cctv8','Live1718276458899270'),('cctv9','Live1718276503187272'),('cctv10','Live1718276550002273'),('cctv11','Live1718276603690275'),('cctv12','Live1718276623932276'),('cctv13','Live1718276575708274'),('cctv14','Live1718276498748271'),('cctv15','Live1718276319614267'),('cctv16','Live1718276256572265'),('cctv17','Live1718276138318263'),('cctv4k','Live1767871224782105'),('cctv8k','Live1688400593818102'),('cctv164k','Live1704966749996185'),('cgtn','Live1719392219423280'),('cgtnfr','Live1719392670442283'),('cgtnru','Live1719392779653284'),('cgtnar','Live1719392885692285'),('cgtnes','Live1719392560433282'),('cgtndoc','Live1719392360336281')]
+    return [('cctv1','Live1717729995180256'),('cctv2','Live1718261577870260'),('cctv3','Live1718261955077261'),('cctv4','Live1718276148119264'),('cctv5','Live1719474204987287'),('cctv5p','Live1719473996025286'),('cctv7','Live1718276412224269'),('cctv8','Live1718276458899270'),('cctv9','Live1718276503187272'),('cctv10','Live1718276550002273'),('cctv11','Live1718276603690275'),('cctv12','Live1718276623932276'),('cctv13','Live1718276575708274'),('cctv14','Live1718276498748271'),('cctv15','Live1718276319614267'),('cctv16','Live1718276256572265'),('cctv17','Live1718276138318263'),('cctv4k','Live1767871224782105'),('cctv8k','Live1688400593818102'),('cctv164k','Live1704966749996185'),]
 def channel_by_name (name :str ):
     for c ,live_id in channels ():
         if c ==name :
@@ -2713,9 +2713,7 @@ DEFAULT_CHANNELS =[
 ]
 ALIAS_MAP ={
 'anhuiws':'ahws','beijingws':'bjws','cctv16hd':'cctv16','cctv5plus':'cctv5p',
-'cctvdiyijuchang':'cctvdyjc','cctvfengyunjuchang':'cctvfyjc','cctvhuaijiujuchang':'cctvhjjc',
-'cgtnalaboyu':'cgtnar','cgtneyu':'cgtnru','cgtnfayu':'cgtnfr','cgtnwaiyujilu':'cgtndoc',
-'cgtnxibanyayu':'cgtnes','chongqingws':'cqws','dongfangws':'dfws','fujiandongnanws':'dnws',
+'chongqingws':'cqws','dongfangws':'dfws','fujiandongnanws':'dnws',
 'guangdongws':'gdws','guangxiws':'gxws','guizhouws':'gzws','hebeiws':'hebws',
 'heilongjiangws':'hljws','hubeiws':'hbws','hunanws':'hnws','jiangsuws':'jsws',
 'jiangxiws':'jxws','jilinws':'jlws','liaoningws':'lnws','neimengguws':'nmgws',
@@ -2732,6 +2730,38 @@ TVG_IDS ={
 'cctv8k':'CCTV-8K','cetv1':'CETV1','bjws':'北京卫视','jsws':'江苏卫视','dfws':'东方卫视','zjws':'浙江卫视','hnws':'湖南卫视','hbws':'湖北卫视','gdws':'广东卫视','gxws':'广西卫视','hljws':'黑龙江卫视','hainanws':'海南卫视','cqws':'重庆卫视','szws':'深圳卫视','scws':'四川卫视','henanws':'河南卫视','dnws':'东南卫视','gzws':'贵州卫视','jxws':'江西卫视','lnws':'辽宁卫视','ahws':'安徽卫视','hebws':'河北卫视','sdws':'山东卫视','tjws':'天津卫视','jlws':'吉林卫视','saxws':'陕西卫视','nxws':'宁夏卫视','nmgws':'内蒙古卫视','ynws':'云南卫视','shanxiws':'山西卫视','qhws':'青海卫视','xizangws':'西藏卫视','xjws':'新疆卫视','gsws':'甘肃卫视','guoxue':'国学'
 }
 LOGO_BASE ='https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos'
+
+# ===== 已下线的频道（黑名单）=====
+# 这些频道不再对外提供：CGTN 系列 6 个 + 央视剧场 3 个。
+# 任何路径（API/播放列表/直链）请求到这些 slug 都会被拒绝。
+DISABLED_SLUGS = {
+    'cgtn', 'cgtnfr', 'cgtnru', 'cgtnar', 'cgtnes', 'cgtndoc',
+    'cctvfyjc', 'cctvdyjc', 'cctvhjjc',
+}
+# 中文名兜底，防止有地方按名字匹配
+DISABLED_NAMES = {
+    'CGTN', 'CGTN法语', 'CGTN俄语', 'CGTN阿拉伯语', 'CGTN西班牙语', 'CGTN纪录',
+    'CCTV风云剧场', 'CCTV 第一剧场', 'CCTV第一剧场', 'CCTV怀旧剧场',
+}
+
+
+def is_disabled_channel(slug: str = '', name: str = '') -> bool:
+    """判断频道是否已下线。slug 走别名归一化后比对。"""
+    if slug:
+        low = slug.strip().lower()
+        low = ALIAS_MAP.get(low, low)
+        if low in DISABLED_SLUGS:
+            return True
+        for d in DISABLED_SLUGS:
+            if low == d or low.startswith(d + '_') or low.endswith('_' + d):
+                return True
+    if name:
+        n = re.sub(r'[\s\u3000_\-—–·\.]+', '', name).lower()
+        for d in DISABLED_NAMES:
+            if re.sub(r'[\s\u3000_\-—–·\.]+', '', d).lower() in n:
+                return True
+    return False
+
 UA ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36'
 REFRESH_INTERVAL =10 
 IDLE_TIMEOUT =120 
@@ -2742,14 +2772,13 @@ BK_URL_TTL =300
 BACKEND_CHANNELS ={
 'cctv1','cctv2','cctv3','cctv4','cctv5','cctv5p','cctv7','cctv8',
 'cctv9','cctv10','cctv11','cctv12','cctv13','cctv14','cctv15',
-'cctv16','cctv17','cctv4k','cctv8k','cctv164k','cgtn','cgtnfr',
-'cgtnru','cgtnar','cgtnes','cgtndoc'
+'cctv16','cctv17','cctv4k','cctv8k','cctv164k'
 }
 TRUE_4K_CHANNELS ={'cctv4k','cctv8k','cctv164k'}
 active_backend_channels =set (BACKEND_CHANNELS )
 TIMESHIFT_SUPPORTED ={
 "cctv1","cctv2","cctv3","cctv4","cctv5","cctv5p","cctv6","cctv7","cctv8","cctv9","cctv10","cctv13","cctv8k",
-"cgtn","cgtnfr","cgtnru","cgtnar","cgtnes","cgtndoc","cetv1","guoxue",
+"cetv1","guoxue",
 "bjws","jsws","dfws","zjws","hnws","hbws","gdws","gxws",
 "hljws","hainanws","cqws","szws","scws","henanws","dnws",
 "gzws","jxws","lnws","ahws","hebws","sdws","tjws","jlws",
@@ -2941,6 +2970,8 @@ class ChannelDirectory :
     def load_defaults (self ):
         self .canonical_slugs .clear ()
         for slug ,name ,sid ,pid ,defn in DEFAULT_CHANNELS :
+            if is_disabled_channel (slug ,name ):
+                continue
             grp =get_channel_group (slug )
             tid =TVG_IDS .get (slug ,slug .upper ())
             logo =f"{LOGO_BASE }/{slug }.png"
@@ -2951,13 +2982,16 @@ class ChannelDirectory :
             self .canonical_slugs .append (slug )
     def get_meta (self ,slug :str )->dict |None :
         slug =ALIAS_MAP .get (slug .lower (),slug .lower ())
+        if is_disabled_channel (slug ):
+            return None
         with self .lock :
             return self .channels_meta .get (slug )
     def all_channels (self )->list [dict ]:
         return self .unique_channels ()
     def unique_channels (self )->list [dict ]:
         with self .lock :
-            return [self .channels_meta [s ]for s in self .canonical_slugs if s in self .channels_meta ]
+            return [self .channels_meta [s ]for s in self .canonical_slugs
+                    if s in self .channels_meta and not is_disabled_channel (s )]
 global_channel_dir =ChannelDirectory ()
 class LiveTimeline:
     def __init__(self):
@@ -3375,7 +3409,7 @@ def trigger_background_refresh (ch ):
             build_playlist (ch ,holdback =True )
     threading .Thread (target =coalesce_refresh ,args =(ch .slug ,_do ),daemon =True ).start ()
 CHANNEL_MAP :dict [str ,Channel ]={c [0 ]:Channel (*c )for c in DEFAULT_CHANNELS }
-FORCE_BK ={'cctv11','cctv12','cctv14','cctv15','cctv16','cctv17','cctvfyjc','cctvdyjc','cctvhjjc'}
+FORCE_BK ={'cctv11','cctv12','cctv14','cctv15','cctv16','cctv17'}
 for _s in FORCE_BK :
     if _s in CHANNEL_MAP :
         CHANNEL_MAP [_s ].mode ='bk'
@@ -3396,6 +3430,8 @@ _last_channel_request_lock =threading .Lock ()
 def get_channel_instance (slug :str )->Channel |None :
     slug =normalize_channel (slug )
     canonical =ALIAS_MAP .get (slug ,slug )
+    if is_disabled_channel (canonical ,slug ):
+        return None
     if canonical in CHANNEL_MAP :
         return CHANNEL_MAP [canonical ]
     meta =global_channel_dir .get_meta (canonical )
