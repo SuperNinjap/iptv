@@ -105,6 +105,12 @@ def load_playlist(src, ua=MAG_UA, timeout=90):
 
     # 本地文件
     log(f"读取本地文件：{src}")
+    if not os.path.exists(src):
+        raise FileNotFoundError(
+            f"找不到列表文件 {src!r}。"
+            f"提示：不填参数会用内置远程列表；"
+            f"手机上若 App 传参丢了 -p，纯数字会被自动当端口处理"
+        )
     return open(src, encoding="utf-8", errors="ignore").read()
 
 
@@ -355,13 +361,60 @@ class Handler(http.server.BaseHTTPRequestHandler):
         self.send_error(404)
 
 
+def sanitize_args(ap):
+    """兼容 Android App / 内嵌 Python 环境里不可靠的参数传递。
+
+    真实踩到的情况：
+      · App 把 "-p 8080" 拆开，只把 "8080" 塞进来 → 被当成列表文件路径
+      · App 把整串参数合成一个带空格的字符串 → argparse 认不出来
+      · 参数里混进选项片段 → 被当成文件路径
+    """
+    raw = sys.argv[1:]
+
+    # 情况 A：整个参数串被合并成一项，例如 "-p 8080 -f NL"
+    if len(raw) == 1 and " " in raw[0]:
+        log(f"参数被合并成一项 {raw[0]!r}，自动拆分")
+        raw = raw[0].split()
+
+    a = ap.parse_args(raw)
+
+    # 情况 B：位置参数漏进来纯数字，例如 App 弄丢了 "-p" 只剩 "8080"
+    if a.src and re.fullmatch(r"\d{2,5}", a.src.strip()):
+        log(f"参数 {a.src!r} 是纯数字，判定为端口号（App 传参丢了 -p），按 -p {a.src} 处理")
+        a.port = int(a.src)
+        a.src = DEFAULT_PLAYLIST
+
+    # 情况 C：位置参数像个选项片段
+    elif a.src and a.src.startswith("-"):
+        log(f"参数 {a.src!r} 像选项而非列表来源，忽略并用内置列表")
+        a.src = DEFAULT_PLAYLIST
+
+    return a
+
+
+def bind_server(port, handler):
+    """端口被占用时自动往后找，手机常见 8080 已被别的 App 占了。"""
+    for p in range(port, port + 30):
+        try:
+            srv = socketserver.ThreadingTCPServer(("0.0.0.0", p), handler)
+            if p != port:
+                log(f"端口 {port} 被占用，改用 {p}")
+            return srv, p
+        except OSError:
+            continue
+    raise OSError(f"{port}~{port+29} 范围内端口全被占用")
+
+
 def main():
     global IDLE_SEC, SEG_ROOT, WINDOW
     ap = argparse.ArgumentParser(add_help=True)
     ap.add_argument("src", nargs="?", default=DEFAULT_PLAYLIST,
                     help="m3u 来源：本地路径 / http(s) 地址 / - (stdin)；不填用内置远程列表")
     ap.add_argument("-p", "--port", type=int, default=8080)
-    ap.add_argument("-o", "--out", default="/tmp/local_playlist.m3u")
+    ap.add_argument("-o", "--out",
+                    default=os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                         "local_playlist.m3u"),
+                    help="生成的本地列表路径（默认脚本同目录，Android 上别用 /tmp）")
     ap.add_argument("-u", "--ua", default=MAG_UA)
     ap.add_argument("-i", "--idle", type=int, default=180)
     ap.add_argument("-f", "--filter", default="")
@@ -369,7 +422,7 @@ def main():
     ap.add_argument("-w", "--window", type=int, default=WINDOW, help="保留切片数，每片约10秒")
     ap.add_argument("-r", "--reload", type=int, default=30,
                     help="每隔多少分钟重新拉取远程列表，0=只拉一次")
-    a = ap.parse_args()
+    a = sanitize_args(ap)
     IDLE_SEC = a.idle
     SEG_ROOT = a.segdir
     WINDOW = a.window
@@ -387,22 +440,25 @@ def main():
         CHANS[i] = ChannelRelay(i, name, group, logo, url, a.ua)
     log(f"解析到 {len(CHANS)} 个频道")
 
+    # 先抢端口，拿到真实监听端口后所有地址都按它写
+    socketserver.ThreadingTCPServer.allow_reuse_address = True
+    httpd, port = bind_server(a.port, Handler)
+    httpd.daemon_threads = True
+
     # 生成本地 m3u 文件
-    write_local_playlist(a.out, a.port)
+    write_local_playlist(a.out, port)
     log(f"本地播放列表已写出 → {a.out}")
-    log(f"服务地址 → http://127.0.0.1:{a.port}/playlist.m3u")
-    log(f"状态查看 → http://127.0.0.1:{a.port}/status")
+    log(f"服务地址 → http://127.0.0.1:{port}/playlist.m3u")
+    log(f"状态查看 → http://127.0.0.1:{port}/status")
+    log(f"局域网访问 → http://<本机IP>:{port}/playlist.m3u")
     if a.src.startswith("http"):
         log(f"远程列表每 {a.reload} 分钟自动重拉（0=不重拉）")
 
     # 定时重拉远程列表，刷新 token / 收录新频道
     if a.reload > 0 and a.src.startswith("http"):
-        threading.Thread(target=reload_loop, args=(a.src, a.ua, a.reload, a.filter, a.out, a.port),
+        threading.Thread(target=reload_loop, args=(a.src, a.ua, a.reload, a.filter, a.out, port),
                          daemon=True).start()
 
-    socketserver.ThreadingTCPServer.allow_reuse_address = True
-    httpd = socketserver.ThreadingTCPServer(("0.0.0.0", a.port), Handler)
-    httpd.daemon_threads = True
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
