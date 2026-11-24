@@ -58,7 +58,7 @@ SEG_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "segs")
 # ---------------------------------------------------------------- 内置远程列表
 # 不带参数直接运行时就加载这份列表。想换成别的，命令行传路径/URL 即可覆盖。
 DEFAULT_PLAYLIST = (
-    "https://ghfast.top/https://raw.githubusercontent.com/SuperNinjap/iptv/main/USA.txt"
+    "https://ghfast.top/https://raw.githubusercontent.com/SuperNinjap/iptv/main/USA.m3u"
 )
 # 远程列表本地缓存：网络拉取失败时回退用它
 CACHE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".playlist_cache.m3u")
