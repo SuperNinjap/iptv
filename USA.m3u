@@ -1,70 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ GENERAL HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ GENERAL HD ☰☰☰☰.png" group-title="┃UK┃ GENERAL",☰☰☰☰ ┃UK┃ GENERAL HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168939&extension=ts&play_token=6sskQXEZMW
-#EXTINF:-1 tvg-name="┃UK┃ BBC 1 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 1 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ BBC 1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168940&extension=ts&play_token=kU6GWKJWK3
-#EXTINF:-1 tvg-name="┃UK┃ BBC 2 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 2 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ BBC 2 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168971&extension=ts&play_token=sDjdHDq3qO
-#EXTINF:-1 tvg-name="┃UK┃ BBC 3 / CBBC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 3 / CBBC HD.png" group-title="┃UK┃ GENERAL",┃UK┃ BBC 3 / CBBC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168941&extension=ts&play_token=m6VBu8CPQs
-#EXTINF:-1 tvg-name="┃UK┃ BBC 4 / CBEEBIES HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 4 / CBEEBIES HD.png" group-title="┃UK┃ GENERAL",┃UK┃ BBC 4 / CBEEBIES HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168942&extension=ts&play_token=fN9cYmvC0O
-#EXTINF:-1 tvg-name="┃UK┃ ITV 1 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 1 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ ITV 1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168943&extension=ts&play_token=cmiayRX4o3
-#EXTINF:-1 tvg-name="┃UK┃ ITV 2 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 2 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ ITV 2 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168944&extension=ts&play_token=7WREsEOnHg
-#EXTINF:-1 tvg-name="┃UK┃ ITV 3 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 3 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ ITV 3 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168945&extension=ts&play_token=A3ZYswHvDk
-#EXTINF:-1 tvg-name="┃UK┃ ITV 4 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 4 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ ITV 4 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168946&extension=ts&play_token=8YrDTCVzDA
-#EXTINF:-1 tvg-name="┃UK┃ ITVBE HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITVBE HD.png" group-title="┃UK┃ GENERAL",┃UK┃ ITVBE HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168947&extension=ts&play_token=zd2oc8qUq4
-#EXTINF:-1 tvg-name="┃UK┃ ITV 1 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 1 +1.png" group-title="┃UK┃ GENERAL",┃UK┃ ITV 1 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168948&extension=ts&play_token=NCwPPlDbLP
-#EXTINF:-1 tvg-name="┃UK┃ ITV 2 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 2 +1.png" group-title="┃UK┃ GENERAL",┃UK┃ ITV 2 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168949&extension=ts&play_token=KljvJtJmL5
-#EXTINF:-1 tvg-name="┃UK┃ - ITV3 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ - ITV3 +1.png" group-title="┃UK┃ GENERAL",┃UK┃ - ITV3 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168950&extension=ts&play_token=z2qWE7A1Rk
-#EXTINF:-1 tvg-name="┃UK┃ ITV 4 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 4 +1.png" group-title="┃UK┃ GENERAL",┃UK┃ ITV 4 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168951&extension=ts&play_token=O03bmWTII2
-#EXTINF:-1 tvg-name="┃UK┃ CITV" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CITV.png" group-title="┃UK┃ GENERAL",┃UK┃ CITV
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168952&extension=ts&play_token=ZRgTvvwfDu
-#EXTINF:-1 tvg-name="┃UK┃ CHANNEL 4 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CHANNEL 4 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ CHANNEL 4 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168953&extension=ts&play_token=BHkOqCb5Da
-#EXTINF:-1 tvg-name="┃UK┃ CHANNEL 4 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CHANNEL 4 +1.png" group-title="┃UK┃ GENERAL",┃UK┃ CHANNEL 4 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168954&extension=ts&play_token=sOBmXV2Zy2
-#EXTINF:-1 tvg-name="┃UK┃ CHANNEL 5 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CHANNEL 5 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ CHANNEL 5 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168955&extension=ts&play_token=qCEKJRt6Uf
-#EXTINF:-1 tvg-name="┃UK┃ CHANNEL 5 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CHANNEL 5 +1.png" group-title="┃UK┃ GENERAL",┃UK┃ CHANNEL 5 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168956&extension=ts&play_token=eUb0qjcWs6
-#EXTINF:-1 tvg-name="┃UK┃ E4 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ E4 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ E4 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168957&extension=ts&play_token=J20PQhX7Tl
-#EXTINF:-1 tvg-name="┃UK┃- E4 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃- E4 +1.png" group-title="┃UK┃ GENERAL",┃UK┃- E4 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168958&extension=ts&play_token=wthxF85Wvv
-#EXTINF:-1 tvg-name="┃UK┃ MORE 4 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ MORE 4 HD.png" group-title="┃UK┃ GENERAL",┃UK┃ MORE 4 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168959&extension=ts&play_token=oZAQRpZPti
-#EXTINF:-1 tvg-name="┃UK┃- MORE4 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃- MORE4 +1.png" group-title="┃UK┃ GENERAL",┃UK┃- MORE4 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168960&extension=ts&play_token=rzgRMm7tCf
-#EXTINF:-1 tvg-name="┃UK┃ 4 SEVEN" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ 4 SEVEN.png" group-title="┃UK┃ GENERAL",┃UK┃ 4 SEVEN
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168961&extension=ts&play_token=2omrwzxHqK
-#EXTINF:-1 tvg-name="┃UK┃ CBBC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CBBC HD.png" group-title="┃UK┃ GENERAL",┃UK┃ CBBC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168962&extension=ts&play_token=lZe4Qm6gto
-#EXTINF:-1 tvg-name="┃UK┃ U&ALIBI HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ U&ALIBI HD.png" group-title="┃UK┃ GENERAL",┃UK┃ U&ALIBI HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168963&extension=ts&play_token=TJez0FLJXB
-#EXTINF:-1 tvg-name="┃UK┃ U&ALIBI +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ U&ALIBI +1.png" group-title="┃UK┃ GENERAL",┃UK┃ U&ALIBI +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168964&extension=ts&play_token=Rdze4hSDAb
-#EXTINF:-1 tvg-name="┃UK┃ STV NORTH" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ STV NORTH.png" group-title="┃UK┃ GENERAL",┃UK┃ STV NORTH
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168966&extension=ts&play_token=t2wFrUtrCM
-#EXTINF:-1 tvg-name="┃UK┃ STV WEST" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ STV WEST.png" group-title="┃UK┃ GENERAL",┃UK┃ STV WEST
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168967&extension=ts&play_token=zBCrJ1DOmI
-#EXTINF:-1 tvg-name="┃UK┃ STV EAST" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ STV EAST.png" group-title="┃UK┃ GENERAL",┃UK┃ STV EAST
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168965&extension=ts&play_token=SFdGPK4Bz1
-#EXTINF:-1 tvg-name="┃UK┃ UTV HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ UTV HD.png" group-title="┃UK┃ GENERAL",┃UK┃ UTV HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168968&extension=ts&play_token=N0tbXI70Fu
-#EXTINF:-1 tvg-name="┃UK┃ FOOD NETWORK" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ FOOD NETWORK.png" group-title="┃UK┃ GENERAL",┃UK┃ FOOD NETWORK
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168969&extension=ts&play_token=8AKQofGtSX
-#EXTINF:-1 tvg-name="┃UK┃ FOOD NETWORK +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ FOOD NETWORK +1.png" group-title="┃UK┃ GENERAL",┃UK┃ FOOD NETWORK +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168970&extension=ts&play_token=vq14M5CWol
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ GENERAL FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ GENERAL FHD ☰☰☰☰.png" group-title="┃UK┃ GENERAL",☰☰☰☰ ┃UK┃ GENERAL FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168972&extension=ts&play_token=QQDYRDolT7
 #EXTINF:-1 tvg-name="┃UK┃ BBC 1 FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 1 FHD.png" group-title="┃UK┃ GENERAL",┃UK┃ BBC 1 FHD
@@ -101,30 +35,7 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823721&exte
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823716&extension=ts&play_token=CQz1bRQPoF
 #EXTINF:-1 tvg-name="┃UK┃ UTV FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ UTV FHD.png" group-title="┃UK┃ GENERAL",┃UK┃ UTV FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168974&extension=ts&play_token=0qd3OePILG
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ GENERAL HEVC HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ GENERAL HEVC HD ☰☰☰☰.png" group-title="┃UK┃ GENERAL HEVC",☰☰☰☰ ┃UK┃ GENERAL HEVC HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168979&extension=ts&play_token=QHIm9Dtp67
-#EXTINF:-1 tvg-name="┃UK┃ BBC 1 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 1 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ BBC 1 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168980&extension=ts&play_token=aYHW5687vc
-#EXTINF:-1 tvg-name="┃UK┃ BBC 2 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 2 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ BBC 2 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168981&extension=ts&play_token=vMbY5RdO3A
-#EXTINF:-1 tvg-name="┃UK┃ ITV 1 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 1 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ ITV 1 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168985&extension=ts&play_token=Sb8TgYnXoQ
-#EXTINF:-1 tvg-name="┃UK┃ ITV 2 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 2 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ ITV 2 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168982&extension=ts&play_token=DX2pvgS8Ap
-#EXTINF:-1 tvg-name="┃UK┃ ITV 3 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 3 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ ITV 3 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168983&extension=ts&play_token=SVKcsSurJD
-#EXTINF:-1 tvg-name="┃UK┃ ITV 4 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ITV 4 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ ITV 4 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168984&extension=ts&play_token=QIwzdZ20hb
-#EXTINF:-1 tvg-name="┃UK┃ CHANNEL 4 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CHANNEL 4 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ CHANNEL 4 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168986&extension=ts&play_token=5lK6uJXLwx
-#EXTINF:-1 tvg-name="┃UK┃ CHANNEL 5 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CHANNEL 5 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ CHANNEL 5 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168987&extension=ts&play_token=kv6yqpJDQp
-#EXTINF:-1 tvg-name="┃UK┃ E4 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ E4 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ E4 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168988&extension=ts&play_token=OzY8EtNFZO
-#EXTINF:-1 tvg-name="┃UK┃ MORE 4 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ MORE 4 HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ MORE 4 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168989&extension=ts&play_token=jON5PiEqRX
-#EXTINF:-1 tvg-name="┃UK┃ U&ALIBI HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ U&ALIBI HEVC HD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ U&ALIBI HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1168990&extension=ts&play_token=86COhpEvKn
+
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ GENERAL HEVC FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ GENERAL HEVC FHD ☰☰☰☰.png" group-title="┃UK┃ GENERAL HEVC",☰☰☰☰ ┃UK┃ GENERAL HEVC FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169061&extension=ts&play_token=bkYnSSjlCQ
 #EXTINF:-1 tvg-name="┃UK┃ BBC 1 HEVC FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC 1 HEVC FHD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ BBC 1 HEVC FHD
@@ -149,72 +60,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169070&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169071&extension=ts&play_token=dNpdRDgqkx
 #EXTINF:-1 tvg-name="┃UK┃ U&ALIBI HEVC FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ U&ALIBI HEVC FHD.png" group-title="┃UK┃ GENERAL HEVC",┃UK┃ U&ALIBI HEVC FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169072&extension=ts&play_token=5rjfo661XZ
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ NEWS HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ NEWS HD ☰☰☰☰.png" group-title="┃UK┃ NEWS",☰☰☰☰ ┃UK┃ NEWS HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169073&extension=ts&play_token=4InzX261sj
-#EXTINF:-1 tvg-name="┃UK┃ BBC NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ BBC NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823745&extension=ts&play_token=8XlI88nRad
-#EXTINF:-1 tvg-name="┃UK┃ BBC WORLD NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC WORLD NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ BBC WORLD NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823744&extension=ts&play_token=0hB9yb6u8I
-#EXTINF:-1 tvg-name="┃UK┃ BBC PARLIAMENT HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC PARLIAMENT HD.png" group-title="┃UK┃ NEWS",┃UK┃ BBC PARLIAMENT HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823743&extension=ts&play_token=TQzYIITMBu
-#EXTINF:-1 tvg-name="┃UK┃ SKY NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ SKY NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823742&extension=ts&play_token=IZC6LbWaBr
-#EXTINF:-1 tvg-name="┃UK┃ GB NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GB NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ GB NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823741&extension=ts&play_token=qgmPnwKJ6G
-#EXTINF:-1 tvg-name="┃UK┃ DW NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ DW NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ DW NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823740&extension=ts&play_token=uAubpm6H2j
-#EXTINF:-1 tvg-name="┃UK┃ EURONEWS" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ EURONEWS.png" group-title="┃UK┃ NEWS",┃UK┃ EURONEWS
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823739&extension=ts&play_token=cB1QnAem3D
-#EXTINF:-1 tvg-name="┃UK┃ ARISE NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ ARISE NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ ARISE NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823738&extension=ts&play_token=kHyQ57Kemd
-#EXTINF:-1 tvg-name="┃UK┃ FRANCE 24 HD (EN)" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ FRANCE 24 HD (EN).png" group-title="┃UK┃ NEWS",┃UK┃ FRANCE 24 HD (EN)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823737&extension=ts&play_token=03ytvDUr8N
-#EXTINF:-1 tvg-name="┃UK┃ AL JAZEERA HD (EN)" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ AL JAZEERA HD (EN).png" group-title="┃UK┃ NEWS",┃UK┃ AL JAZEERA HD (EN)
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823736&extension=ts&play_token=PNbnuZaq8J
-#EXTINF:-1 tvg-name="┃UK┃ CNN HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CNN HD.png" group-title="┃UK┃ NEWS",┃UK┃ CNN HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823735&extension=ts&play_token=blTfncbuou
-#EXTINF:-1 tvg-name="┃UK┃ CNBC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CNBC HD.png" group-title="┃UK┃ NEWS",┃UK┃ CNBC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823734&extension=ts&play_token=xESboPZZuJ
-#EXTINF:-1 tvg-name="┃UK┃ NBC NEWS NOW HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NBC NEWS NOW HD.png" group-title="┃UK┃ NEWS",┃UK┃ NBC NEWS NOW HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823733&extension=ts&play_token=uHM7tl66Kh
-#EXTINF:-1 tvg-name="┃UK┃ TVC NEWS" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ TVC NEWS.png" group-title="┃UK┃ NEWS",┃UK┃ TVC NEWS
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823732&extension=ts&play_token=IkBZ0Vt3Rn
-#EXTINF:-1 tvg-name="┃UK┃ NEWS 18" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NEWS 18.png" group-title="┃UK┃ NEWS",┃UK┃ NEWS 18
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823731&extension=ts&play_token=VG0Jq0sZ4O
-#EXTINF:-1 tvg-name="┃UK┃ I24 NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ I24 NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ I24 NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823730&extension=ts&play_token=CO61LTeNjy
-#EXTINF:-1 tvg-name="┃UK┃ BLOOMBERG HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BLOOMBERG HD.png" group-title="┃UK┃ NEWS",┃UK┃ BLOOMBERG HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823729&extension=ts&play_token=qYJ570NPkR
-#EXTINF:-1 tvg-name="┃UK┃ RT NEWS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ RT NEWS HD.png" group-title="┃UK┃ NEWS",┃UK┃ RT NEWS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823728&extension=ts&play_token=e5PP3aTLG8
-#EXTINF:-1 tvg-name="┃UK┃ RT NEWS ENGLISH HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ RT NEWS ENGLISH HD.png" group-title="┃UK┃ NEWS",┃UK┃ RT NEWS ENGLISH HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169074&extension=ts&play_token=DyvI1KWnjt
-#EXTINF:-1 tvg-name="┃UK┃ TRT WORLD HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ TRT WORLD HD.png" group-title="┃UK┃ NEWS",┃UK┃ TRT WORLD HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823727&extension=ts&play_token=uYZXBXM99F
-#EXTINF:-1 tvg-name="┃UK┃ CGTN 8K" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CGTN 8K.png" group-title="┃UK┃ NEWS",┃UK┃ CGTN 8K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823726&extension=ts&play_token=pGjdAMoItx
-#EXTINF:-1 tvg-name="┃UK┃ NDTV" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NDTV.png" group-title="┃UK┃ NEWS",┃UK┃ NDTV
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823725&extension=ts&play_token=Hwng5hU808
-#EXTINF:-1 tvg-name="┃UK┃ NHK WORLD HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NHK WORLD HD.png" group-title="┃UK┃ NEWS",┃UK┃ NHK WORLD HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823724&extension=ts&play_token=XJNDTusNHr
-#EXTINF:-1 tvg-name="┃UK┃ IRAN INT 8K" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ IRAN INT 8K.png" group-title="┃UK┃ NEWS",┃UK┃ IRAN INT 8K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=828037&extension=ts&play_token=5GdSudfJaV
-#EXTINF:-1 tvg-name="┃UK┃ SKY NEWS ARABIA 8K" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY NEWS ARABIA 8K.png" group-title="┃UK┃ NEWS",┃UK┃ SKY NEWS ARABIA 8K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=828036&extension=ts&play_token=w6gy2hE8Os
-#EXTINF:-1 tvg-name="┃UK┃ GEO NEWS 8K" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GEO NEWS 8K.png" group-title="┃UK┃ NEWS",┃UK┃ GEO NEWS 8K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=828035&extension=ts&play_token=CmrsIWmBz8
-#EXTINF:-1 tvg-name="┃UK┃ WION 8K" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ WION 8K.png" group-title="┃UK┃ NEWS",┃UK┃ WION 8K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=828034&extension=ts&play_token=N9UoGUYiM4
-#EXTINF:-1 tvg-name="┃UK┃ DUNYA NEWS" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ DUNYA NEWS.png" group-title="┃UK┃ NEWS",┃UK┃ DUNYA NEWS
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=828033&extension=ts&play_token=vHMQfjLC5q
-#EXTINF:-1 tvg-name="┃UK┃ 92 NEWS" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ 92 NEWS.png" group-title="┃UK┃ NEWS",┃UK┃ 92 NEWS
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=828032&extension=ts&play_token=C7vgSlMWMg
-#EXTINF:-1 tvg-name="┃UK┃ VOX AFRICA EUROPE 8K" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ VOX AFRICA EUROPE 8K.png" group-title="┃UK┃ NEWS",┃UK┃ VOX AFRICA EUROPE 8K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=828031&extension=ts&play_token=NM0LSgTwU1
-#EXTINF:-1 tvg-name="┃UK┃ TALK TV HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ TALK TV HD.png" group-title="┃UK┃ NEWS",┃UK┃ TALK TV HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823723&extension=ts&play_token=430sYsKW7V
-#EXTINF:-1 tvg-name="┃UK┃ CRUISE 1ST TV" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CRUISE 1ST TV.png" group-title="┃UK┃ NEWS",┃UK┃ CRUISE 1ST TV
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169075&extension=ts&play_token=UGCXdxHQU6
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ NEWS FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ NEWS FHD ☰☰☰☰.png" group-title="┃UK┃ NEWS",☰☰☰☰ ┃UK┃ NEWS FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169076&extension=ts&play_token=xFSaosdqHe
 #EXTINF:-1 tvg-name="┃UK┃ BBC NEWS FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BBC NEWS FHD.png" group-title="┃UK┃ NEWS",┃UK┃ BBC NEWS FHD
@@ -237,42 +82,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169084&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169085&extension=ts&play_token=seRYYl4MQI
 #EXTINF:-1 tvg-name="┃UK┃ SKY NEWS ARABIA FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY NEWS ARABIA FHD.png" group-title="┃UK┃ NEWS",┃UK┃ SKY NEWS ARABIA FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169086&extension=ts&play_token=oFsKli86uy
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ KIDS | BABY HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ KIDS | BABY HD ☰☰☰☰.png" group-title="┃UK┃ KIDS | BABY",☰☰☰☰ ┃UK┃ KIDS | BABY HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169088&extension=ts&play_token=YA60ZH1UXL
-#EXTINF:-1 tvg-name="┃UK┃ SKY KIDS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY KIDS HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ SKY KIDS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823751&extension=ts&play_token=zK0RMN30Ck
-#EXTINF:-1 tvg-name="┃UK┃ NICKELODEON HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NICKELODEON HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ NICKELODEON HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823764&extension=ts&play_token=UI32UhRCYQ
-#EXTINF:-1 tvg-name="┃UK┃ NICKELODEON +1 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NICKELODEON +1 HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ NICKELODEON +1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823763&extension=ts&play_token=4P6TtoVYYq
-#EXTINF:-1 tvg-name="┃UK┃ NICK.JR HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NICK.JR HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ NICK.JR HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823761&extension=ts&play_token=8NU4pMEZe2
-#EXTINF:-1 tvg-name="┃UK┃ NICK.JR +1 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NICK.JR +1 HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ NICK.JR +1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823760&extension=ts&play_token=O3x0VzleRi
-#EXTINF:-1 tvg-name="┃UK┃ NICK TOONS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NICK TOONS HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ NICK TOONS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823762&extension=ts&play_token=DP8DEitsxs
-#EXTINF:-1 tvg-name="┃UK┃ DISNEY CHANNEL HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ DISNEY CHANNEL HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ DISNEY CHANNEL HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823766&extension=ts&play_token=9nPzZA0zUw
-#EXTINF:-1 tvg-name="┃UK┃ DISNEY JUNIOR HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ DISNEY JUNIOR HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ DISNEY JUNIOR HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823765&extension=ts&play_token=vbNcZVYi0i
-#EXTINF:-1 tvg-name="┃UK┃ DISNEY XD HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ DISNEY XD HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ DISNEY XD HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823767&extension=ts&play_token=Iqqj1pnhlM
-#EXTINF:-1 tvg-name="┃UK┃ CARTOON NETWORK HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CARTOON NETWORK HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ CARTOON NETWORK HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823756&extension=ts&play_token=samRApF7Ie
-#EXTINF:-1 tvg-name="┃UK┃ BOOMERANG HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BOOMERANG HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ BOOMERANG HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823754&extension=ts&play_token=ktbvN9btfq
-#EXTINF:-1 tvg-name="┃UK┃ BOOMERANG +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BOOMERANG +1.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ BOOMERANG +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823753&extension=ts&play_token=mXVe719GZ8
-#EXTINF:-1 tvg-name="┃UK┃ BABY TV HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BABY TV HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ BABY TV HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823750&extension=ts&play_token=0etUUV5AOf
-#EXTINF:-1 tvg-name="┃UK┃ POP HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ POP HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ POP HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823749&extension=ts&play_token=6kr8li02dw
-#EXTINF:-1 tvg-name="┃UK┃ POP +1 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ POP +1 HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ POP +1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823748&extension=ts&play_token=6g3HjmMDa7
-#EXTINF:-1 tvg-name="┃UK┃ TINY POP HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ TINY POP HD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ TINY POP HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823747&extension=ts&play_token=T3n6QPukTr
-#EXTINF:-1 tvg-name="┃UK┃ TINY POP +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ TINY POP +1.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ TINY POP +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823746&extension=ts&play_token=LCoJUelkno
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ KIDS | BABY FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ KIDS | BABY FHD ☰☰☰☰.png" group-title="┃UK┃ KIDS | BABY",☰☰☰☰ ┃UK┃ KIDS | BABY FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169089&extension=ts&play_token=oO4GtUwDOt
 #EXTINF:-1 tvg-name="┃UK┃ SKY KIDS FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY KIDS FHD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ SKY KIDS FHD
@@ -285,18 +94,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169092&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169093&extension=ts&play_token=h33SpMareO
 #EXTINF:-1 tvg-name="┃UK┃ BOOMERANG FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BOOMERANG FHD.png" group-title="┃UK┃ KIDS | BABY",┃UK┃ BOOMERANG FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169094&extension=ts&play_token=PysoVDQ13c
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ KIDS | BABY HEVC HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ KIDS | BABY HEVC HD ☰☰☰☰.png" group-title="┃UK┃ KIDS | BABY HEVC",☰☰☰☰ ┃UK┃ KIDS | BABY HEVC HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169095&extension=ts&play_token=OLxKTv7jeA
-#EXTINF:-1 tvg-name="┃UK┃ SKY KIDS HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY KIDS HEVC HD.png" group-title="┃UK┃ KIDS | BABY HEVC",┃UK┃ SKY KIDS HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169096&extension=ts&play_token=9cnHZoWc8C
-#EXTINF:-1 tvg-name="┃UK┃ NICKELODEON HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NICKELODEON HEVC HD.png" group-title="┃UK┃ KIDS | BABY HEVC",┃UK┃ NICKELODEON HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169097&extension=ts&play_token=J0l0geXTh0
-#EXTINF:-1 tvg-name="┃UK┃ NICK.JR HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ NICK.JR HEVC HD.png" group-title="┃UK┃ KIDS | BABY HEVC",┃UK┃ NICK.JR HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169098&extension=ts&play_token=4ESF6GtmrB
-#EXTINF:-1 tvg-name="┃UK┃ CARTOON NETWORK HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ CARTOON NETWORK HEVC HD.png" group-title="┃UK┃ KIDS | BABY HEVC",┃UK┃ CARTOON NETWORK HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169099&extension=ts&play_token=0GBp7Mnhmu
-#EXTINF:-1 tvg-name="┃UK┃ BOOMERANG HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ BOOMERANG HEVC HD.png" group-title="┃UK┃ KIDS | BABY HEVC",┃UK┃ BOOMERANG HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169100&extension=ts&play_token=XzrBO2yyLW
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ KIDS | BABY HEVC FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ KIDS | BABY HEVC FHD ☰☰☰☰.png" group-title="┃UK┃ KIDS | BABY HEVC",☰☰☰☰ ┃UK┃ KIDS | BABY HEVC FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169101&extension=ts&play_token=kQMNczkHpE
 #EXTINF:-1 tvg-name="┃UK┃ SKY KIDS HEVC FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY KIDS HEVC FHD.png" group-title="┃UK┃ KIDS | BABY HEVC",┃UK┃ SKY KIDS HEVC FHD
@@ -411,94 +208,7 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823931&exte
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823930&extension=ts&play_token=SnzcEe5ymT
 #EXTINF:-1 tvg-name="┃UK┃ PLAY SELECT KIDS ZIG SHARKO HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ PLAY SELECT KIDS ZIG SHARKO HD.png" group-title="┃UK┃ OD PLAY KIDS",┃UK┃ PLAY SELECT KIDS ZIG SHARKO HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823929&extension=ts&play_token=9vqU9jHc3g
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ SKY CINEMA HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ SKY CINEMA HD ☰☰☰☰.png" group-title="┃UK┃ SKY CINEMA",☰☰☰☰ ┃UK┃ SKY CINEMA HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169107&extension=ts&play_token=w3ckfWBEm8
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA PREMIER HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA PREMIER HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA PREMIER HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823805&extension=ts&play_token=NbCVhfBdDl
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA SELECT HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA SELECT HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA SELECT HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823804&extension=ts&play_token=yqS8rEhQoL
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA ACTION HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA ACTION HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA ACTION HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823803&extension=ts&play_token=LbHwnK4kW5
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA THRILLER HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA THRILLER HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA THRILLER HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823802&extension=ts&play_token=7qqxV2nMiH
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA COMEDY HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA COMEDY HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA COMEDY HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823801&extension=ts&play_token=TTvolrIUtq
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA FAMILY HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA FAMILY HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA FAMILY HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823800&extension=ts&play_token=fCMQ0ZaF4G
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA DRAMA HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA DRAMA HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA DRAMA HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823799&extension=ts&play_token=nvZMnT7yoT
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA SCIFI HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA SCIFI HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA SCIFI HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823798&extension=ts&play_token=nEjh2WC1ox
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA HITS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA HITS HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA HITS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823797&extension=ts&play_token=5DBZ7Om13h
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA GREATS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA GREATS HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA GREATS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823796&extension=ts&play_token=L1kWn6R62z
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA ANIMATION HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA ANIMATION HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA ANIMATION HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823795&extension=ts&play_token=kkPy0UgaM3
-#EXTINF:-1 tvg-name="┃UK┃ SKY COMEDY HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY COMEDY HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY COMEDY HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823794&extension=ts&play_token=5vaLPTHVzO
-#EXTINF:-1 tvg-name="┃UK┃ SKY ATLANTIC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY ATLANTIC HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY ATLANTIC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823793&extension=ts&play_token=IhiiOQuIWX
-#EXTINF:-1 tvg-name="┃UK┃ SKY SHOWCASE HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY SHOWCASE HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY SHOWCASE HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823792&extension=ts&play_token=r6Z4xj9Lvc
-#EXTINF:-1 tvg-name="┃UK┃ SKY WITNESS HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY WITNESS HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY WITNESS HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169112&extension=ts&play_token=1yo9g6KyLK
-#EXTINF:-1 tvg-name="┃UK┃ SKY MAX HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY MAX HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY MAX HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823791&extension=ts&play_token=1kcaXxZdZ9
-#EXTINF:-1 tvg-name="┃UK┃ SKY REPLAY" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY REPLAY.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY REPLAY
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170556&extension=ts&play_token=jlHEAe4LKo
-#EXTINF:-1 tvg-name="┃UK┃ SYFY HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SYFY HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SYFY HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823790&extension=ts&play_token=X8DHXvs9YE
-#EXTINF:-1 tvg-name="┃UK┃ TCM HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ TCM HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ TCM HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823789&extension=ts&play_token=2NUydSS6Zi
-#EXTINF:-1 tvg-name="┃UK┃ FILM 4 HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ FILM 4 HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ FILM 4 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823788&extension=ts&play_token=3sc0Y5BTgn
-#EXTINF:-1 tvg-name="┃UK┃ FILM 4 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ FILM 4 +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ FILM 4 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823787&extension=ts&play_token=LC8wET1l5K
-#EXTINF:-1 tvg-name="┃UK┃ 5 ACTION" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ 5 ACTION.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ 5 ACTION
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823786&extension=ts&play_token=QuVvgofdzc
-#EXTINF:-1 tvg-name="┃UK┃ 5 SELECT" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ 5 SELECT.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ 5 SELECT
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823785&extension=ts&play_token=QFppPB3wWR
-#EXTINF:-1 tvg-name="┃UK┃ 5 USA" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ 5 USA.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ 5 USA
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823784&extension=ts&play_token=JAECtzlXyi
-#EXTINF:-1 tvg-name="┃UK┃ 5 USA +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ 5 USA +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ 5 USA +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823783&extension=ts&play_token=ElvnCQzuyv
-#EXTINF:-1 tvg-name="┃UK┃ TALKING PICTURES" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ TALKING PICTURES.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ TALKING PICTURES
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823782&extension=ts&play_token=UzWKGpdGjM
-#EXTINF:-1 tvg-name="┃UK┃ GREAT TV" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT TV.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT TV
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823781&extension=ts&play_token=9SqVjEQSXn
-#EXTINF:-1 tvg-name="┃UK┃ GREAT TV +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT TV +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT TV +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823780&extension=ts&play_token=hgd0y5hHgS
-#EXTINF:-1 tvg-name="┃UK┃ GREAT MOVIES" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT MOVIES.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT MOVIES
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823779&extension=ts&play_token=1HAdKjMvqq
-#EXTINF:-1 tvg-name="┃UK┃ GREAT MOVIES +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT MOVIES +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT MOVIES +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823778&extension=ts&play_token=IVxrkQhfCD
-#EXTINF:-1 tvg-name="┃UK┃ GREAT ACTION" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT ACTION.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT ACTION
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823777&extension=ts&play_token=6gxXmuzg2D
-#EXTINF:-1 tvg-name="┃UK┃ GREAT ACTION +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT ACTION +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT ACTION +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823776&extension=ts&play_token=Le7YjAQolB
-#EXTINF:-1 tvg-name="┃UK┃ GREAT ROMANACE" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT ROMANACE.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT ROMANACE
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823775&extension=ts&play_token=rWBmdkgFb4
-#EXTINF:-1 tvg-name="┃UK┃ GREAT ROMANCE +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ GREAT ROMANCE +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ GREAT ROMANCE +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823774&extension=ts&play_token=p3tMbf7yGc
-#EXTINF:-1 tvg-name="┃UK┃ LEGEND" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ LEGEND.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ LEGEND
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823773&extension=ts&play_token=NAXLXKBK6M
-#EXTINF:-1 tvg-name="┃UK┃ LEGEND XTRA" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ LEGEND XTRA.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ LEGEND XTRA
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823772&extension=ts&play_token=kQuv0EYilp
-#EXTINF:-1 tvg-name="┃UK┃ LEGEND XTRA +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ LEGEND XTRA +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ LEGEND XTRA +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823771&extension=ts&play_token=q2okpA0QmR
-#EXTINF:-1 tvg-name="┃UK┃ THAT'S TV" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ THAT'S TV.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ THAT'S TV
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823770&extension=ts&play_token=p1qOKeitHe
-#EXTINF:-1 tvg-name="┃UK┃ THAT'S TV 2" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ THAT'S TV 2.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ THAT'S TV 2
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823769&extension=ts&play_token=g85EoZf5wn
-#EXTINF:-1 tvg-name="┃UK┃ MOVIES 24" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ MOVIES 24.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ MOVIES 24
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=823768&extension=ts&play_token=mucNxr2uim
-#EXTINF:-1 tvg-name="┃UK┃ MOVIES 24 +1" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ MOVIES 24 +1.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ MOVIES 24 +1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169109&extension=ts&play_token=2j2K86Bn0H
-#EXTINF:-1 tvg-name="┃UK┃ SONY TV HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SONY TV HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SONY TV HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169110&extension=ts&play_token=A7zugiodDc
-#EXTINF:-1 tvg-name="┃UK┃ SONY MAX HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SONY MAX HD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SONY MAX HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169111&extension=ts&play_token=T8MxLDMseq
+
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ SKY CINEMA FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ SKY CINEMA FHD ☰☰☰☰.png" group-title="┃UK┃ SKY CINEMA",☰☰☰☰ ┃UK┃ SKY CINEMA FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169113&extension=ts&play_token=jVmn7NEyHu
 #EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA PREMIER FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA PREMIER FHD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ SKY CINEMA PREMIER FHD
@@ -539,44 +249,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169130&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169131&extension=ts&play_token=JgDQa2FU3W
 #EXTINF:-1 tvg-name="┃UK┃ FILM 4 FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ FILM 4 FHD.png" group-title="┃UK┃ SKY CINEMA",┃UK┃ FILM 4 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169132&extension=ts&play_token=UJhOqSidAq
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ SKY CINEMA HEVC HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ SKY CINEMA HEVC HD ☰☰☰☰.png" group-title="┃UK┃ SKY CINEMA HEVC",☰☰☰☰ ┃UK┃ SKY CINEMA HEVC HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169168&extension=ts&play_token=9UhYQtqhZt
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA PREMIER HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA PREMIER HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA PREMIER HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169169&extension=ts&play_token=2TsOMMPmAR
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA SELECT HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA SELECT HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA SELECT HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169170&extension=ts&play_token=WYdJ93zmB0
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA ACTION HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA ACTION HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA ACTION HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169171&extension=ts&play_token=8hTwrZiNDs
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA THRILLER HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA THRILLER HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA THRILLER HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169172&extension=ts&play_token=w1D8S29SL7
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA COMEDY HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA COMEDY HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA COMEDY HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169173&extension=ts&play_token=eaOxypCUtI
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA FAMILY HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA FAMILY HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA FAMILY HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169174&extension=ts&play_token=A2LsoNh5U4
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA DRAMA HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA DRAMA HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA DRAMA HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169175&extension=ts&play_token=bSwvbvz485
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA SCIFI HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA SCIFI HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA SCIFI HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169176&extension=ts&play_token=55vYoA5Z0a
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA HITS HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA HITS HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA HITS HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169177&extension=ts&play_token=WGpOmkLjnN
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA GREATS HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA GREATS HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA GREATS HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169178&extension=ts&play_token=jCmAkwjBKT
-#EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA ANIMATION HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA ANIMATION HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA ANIMATION HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169179&extension=ts&play_token=e4L2gk8sEp
-#EXTINF:-1 tvg-name="┃UK┃ SKY COMEDY HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY COMEDY HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY COMEDY HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169180&extension=ts&play_token=cDdxFWifRx
-#EXTINF:-1 tvg-name="┃UK┃ SKY ATLANTIC HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY ATLANTIC HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY ATLANTIC HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169181&extension=ts&play_token=vjP9cHRlji
-#EXTINF:-1 tvg-name="┃UK┃ SKY SHOWCASE HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY SHOWCASE HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY SHOWCASE HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169182&extension=ts&play_token=0iL68LcmaN
-#EXTINF:-1 tvg-name="┃UK┃ SKY WITNESS HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY WITNESS HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY WITNESS HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169183&extension=ts&play_token=lVHag979cY
-#EXTINF:-1 tvg-name="┃UK┃ SKY MAX HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY MAX HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY MAX HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169184&extension=ts&play_token=HRwRsoHanG
-#EXTINF:-1 tvg-name="┃UK┃ SYFY HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SYFY HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SYFY HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169185&extension=ts&play_token=el30wPdMbb
-#EXTINF:-1 tvg-name="┃UK┃ FILM 4 HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ FILM 4 HEVC HD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ FILM 4 HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169186&extension=ts&play_token=DpqWFSIMIz
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ SKY CINEMA HEVC FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ SKY CINEMA HEVC FHD ☰☰☰☰.png" group-title="┃UK┃ SKY CINEMA HEVC",☰☰☰☰ ┃UK┃ SKY CINEMA HEVC FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1169187&extension=ts&play_token=PLp3VxBXDN
 #EXTINF:-1 tvg-name="┃UK┃ SKY CINEMA PREMIER HEVC FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY CINEMA PREMIER HEVC FHD.png" group-title="┃UK┃ SKY CINEMA HEVC",┃UK┃ SKY CINEMA PREMIER HEVC FHD
@@ -1083,20 +755,7 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170596&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170597&extension=ts&play_token=U0yGkYbe0i
 #EXTINF:-1 tvg-name="┃UK┃ QVC STYLE" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ QVC STYLE.png" group-title="┃UK┃ ENTERTAINMENT",┃UK┃ QVC STYLE
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170598&extension=ts&play_token=IRhmVsReX9
-#EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ ENTERTAINMENT HEVC HD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ ENTERTAINMENT HEVC HD ☰☰☰☰.png" group-title="┃UK┃ ENTERTAINMENT HEVC",☰☰☰☰ ┃UK┃ ENTERTAINMENT HEVC HD ☰☰☰☰
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170639&extension=ts&play_token=Isj5XPdlHJ
-#EXTINF:-1 tvg-name="┃UK┃ SKY ARTS HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY ARTS HEVC HD.png" group-title="┃UK┃ ENTERTAINMENT HEVC",┃UK┃ SKY ARTS HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170643&extension=ts&play_token=4EQX34OWUJ
-#EXTINF:-1 tvg-name="┃UK┃ COMEDY CENTRAL HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ COMEDY CENTRAL HEVC HD.png" group-title="┃UK┃ ENTERTAINMENT HEVC",┃UK┃ COMEDY CENTRAL HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170641&extension=ts&play_token=MtyhlWTNGC
-#EXTINF:-1 tvg-name="┃UK┃ MTV HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ MTV HEVC HD.png" group-title="┃UK┃ ENTERTAINMENT HEVC",┃UK┃ MTV HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170640&extension=ts&play_token=f1BnkTLYov
-#EXTINF:-1 tvg-name="┃UK┃ WATCH HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ WATCH HEVC HD.png" group-title="┃UK┃ ENTERTAINMENT HEVC",┃UK┃ WATCH HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170642&extension=ts&play_token=HpGEtHbUeG
-#EXTINF:-1 tvg-name="┃UK┃ U&DAVE HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ U&DAVE HEVC HD.png" group-title="┃UK┃ ENTERTAINMENT HEVC",┃UK┃ U&DAVE HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170644&extension=ts&play_token=h4Y8056giM
-#EXTINF:-1 tvg-name="┃UK┃ U&GOLD HEVC HD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ U&GOLD HEVC HD.png" group-title="┃UK┃ ENTERTAINMENT HEVC",┃UK┃ U&GOLD HEVC HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170645&extension=ts&play_token=AUfxe3CIAW
+=1170639&extension=ts&play_token=Isj5XPdlHJ
 #EXTINF:-1 tvg-name="☰☰☰☰ ┃UK┃ ENTERTAINMENT HEVC FHD ☰☰☰☰" tvg-logo="https://live.fanmingming.com/tv/☰☰☰☰ ┃UK┃ ENTERTAINMENT HEVC FHD ☰☰☰☰.png" group-title="┃UK┃ ENTERTAINMENT HEVC",☰☰☰☰ ┃UK┃ ENTERTAINMENT HEVC FHD ☰☰☰☰
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:81:31:53&stream=1170646&extension=ts&play_token=6ghUk1KyrQ
 #EXTINF:-1 tvg-name="┃UK┃ SKY ARTS HEVC FHD" tvg-logo="https://live.fanmingming.com/tv/┃UK┃ SKY ARTS HEVC FHD.png" group-title="┃UK┃ ENTERTAINMENT HEVC",┃UK┃ SKY ARTS HEVC FHD
