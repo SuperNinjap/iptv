@@ -57,7 +57,7 @@ MAG_UA = ("Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 "
 
 REFRESH_INTERVAL = 18      # token 活约 30s，18s 换一次才安全
 WINDOW = 30                # 播放中保留切片数
-IDLE_SEC = 60              # 播放器多久没请求 → 停止缓存 + 清盘
+IDLE_SEC = 10              # 播放器多久没请求 → 停止缓存 + 清盘
 PRELOAD = 2                # 还没开始播放时最多预取几个最新分片
 SEG_DL_LIMIT = 6           # 单轮最多补几个分片，防止一次爆下载
 MAX_FAILS = 3              # 单个分片最多试几次，超了就放弃（不无限重试）
