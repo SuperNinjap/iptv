@@ -1,48 +1,49 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-IPTV m3u 播放列表批量中转器（按需缓存 · 自动清理版）
-=====================================================
-解决三类问题：
+IPTV m3u 播放列表批量中转器（按需缓存 · 自动清理 · 修复卡缓冲版）
+==================================================================
+解决四件事：
   1. 源站播放 token 只有约 30 秒寿命 → 后台自动续期，播放器无感
-  2. 整份 m3u 里几十上百个频道 → 「谁在播才缓存谁」，没在看的一律不动
-  3. 缓存切片占满磁盘/内存 → 播完即停、停即清空，播放中也只留一个窗口
+  2. 谁在看才缓存谁，没看的一律不动
+  3. 播完即停、停即清盘，播放中也只留一个滑动窗口
+  4. 播放器不再"卡在缓冲中"——第一次请求就等到分片，清单可续取
 
-本版相对上一版的关键变化（都是为上面 2、3 条）：
-  · 空闲判定只看「播放器的真实请求」（m3u8 或分片），后台续期本身不算活着
-    —— 上一版 refresher 每轮自己 touch()，IDLE_SEC 永远不成立，所以看过一次就永久续期
-  · 未在播放的频道只预取最新 2 个分片，播放器跳过/拖走的旧分片不再补下
-  · 播放中只保留最近 WINDOW 个分片，字典淘汰和磁盘删除同步做，另加磁盘兜底扫描
-  · 频道一停（空闲超时 / 切换）立刻停线程、清空内存池、删掉整个分片目录
-  · 启动时清掉上次异常退出残留的缓存；后台还有守护线程定期扫残
-  · 分片先写 .part 再原子改名，避免播放器读到半截文件
+本版相对上一版的关键修正（都是导致卡缓冲的直接原因）：
+  · 清单响应加 no-cache：播放器拿到空清单后必须重新来问，不能吃缓存
+  · 首次请求最多等 10 秒拿到 2 个分片再回清单，不再秒回空清单
+  · 对外清单只给最近 4 个分片（约 40 秒），播放器不会从几分钟前的地方起播
+    磁盘保留 15 片，播放器正在读的片一定还在，不会 404 卡死
+  · 主清单（多码率 master m3u8）自动下钻一层，取子清单再解析
+  · 分片相对路径统一 urljoin(base, line)，base 取重定向后的真实地址
+  · 分片被请求但还没下完时，短等 3 秒再回，减少播放器 404 报错
+  · 后台续期不再自己给自己续命，只有播放器真实请求才刷新活跃时间
 
 用法：
-    python3 iptv_relay_multi.py                      # 直接跑，用内置远程列表
-    python3 iptv_relay_multi.py 你的列表.m3u          # 用本地文件
-    python3 iptv_relay_multi.py -p 8080 -o local.m3u  # 改端口/输出名
-    cat 你的列表.m3u | python3 iptv_relay_multi.py -   # 从管道读
-
-然后：
-    · 本机播放：播放器打开 http://127.0.0.1:8080/playlist.m3u
-    · 局域网/电视盒子：http://<电脑IP>:8080/playlist.m3u
+    python3 iptv_relay_修复卡缓冲.py                    # 用内置远程列表
+    python3 iptv_relay_修复卡缓冲.py 你的列表.m3u        # 用本地文件
+    python3 iptv_relay_修复卡缓冲.py -p 8080 -o local.m3u
+    cat 你的列表.m3u | python3 iptv_relay_修复卡缓冲.py -
 
 参数：
     src         列表来源：本地路径 / http(s) 地址 / - (stdin)，不填用内置远程列表
-    -p/--port   本地端口，默认 8080
-    -o/--out    生成到本地的 m3u 文件名，默认脚本同目录
+    -p/--port   本地端口，默认 8080（被占会自动往后找）
+    -o/--out    生成的本地 m3u 路径，默认脚本同目录
     -u/--ua     请求用的 User-Agent，默认 MAG 机顶盒 UA
     -i/--idle   播放器多久没请求就停止缓存并清盘（秒），默认 60
     -f/--filter 只处理名字包含该关键字的频道
     -s/--segdir 切片缓存目录
-    -w/--window 播放中保留多少个分片，默认 30
+    -w/--window 磁盘上保留多少个分片，默认 15
     -r/--reload 每隔多少分钟重新拉取远程列表，0 表示只拉一次，默认 30
 """
 
 import argparse
 import http.server
+import math
 import os
 import re
 import shutil
+import socket
 import socketserver
 import sys
 import threading
@@ -50,25 +51,29 @@ import time
 import urllib.error
 import urllib.request
 from collections import OrderedDict
-from urllib.parse import quote, urljoin
+from urllib.parse import urljoin, urlsplit
 
 MAG_UA = ("Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 "
           "(KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3")
 
-REFRESH_INTERVAL = 18      # token 活约 30s，18s 换一次才安全
-WINDOW = 30                # 播放中保留切片数
+REFRESH_INTERVAL = 12      # 清单刷新间隔：token 活约 30s，12s 换一次足够安全
+WINDOW = 15                # 磁盘保留分片数（每片约 6~10 秒）
+PLAYLIST_SEGS = 4          # 对外清单暴露的最近分片数，太多播放器会落后
 IDLE_SEC = 60              # 播放器多久没请求 → 停止缓存 + 清盘
-PRELOAD = 2                # 还没开始播放时最多预取几个最新分片
+FIRST_WAIT = 10.0          # 首次请求清单时，最多等多久拿首个分片
+FIRST_MIN_SEGS = 2         # 等够几个分片就立刻返回（不等满）
 SEG_DL_LIMIT = 6           # 单轮最多补几个分片，防止一次爆下载
-MAX_FAILS = 3              # 单个分片最多试几次，超了就放弃（不无限重试）
-# 默认放在脚本同级目录，避免 /tmp 容量不足（部分系统 /tmp 只有 256MB）
-SEG_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "segs")
+MAX_FAILS = 4              # 单个分片最多试几次，超了就放弃（不无限重试）
+SEG_TIMEOUT = 15           # 单个分片下载超时（秒）
+PL_TIMEOUT = 15            # 拉清单超时（秒）
 
-# ---------------------------------------------------------------- 内置远程列表
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SEG_ROOT = os.path.join(BASE_DIR, "segs")
+
 DEFAULT_PLAYLIST = (
     "https://ghfast.top/https://raw.githubusercontent.com/SuperNinjap/iptv/main/USA.m3u"
 )
-CACHE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".playlist_cache.m3u")
+CACHE_FILE = os.path.join(BASE_DIR, ".playlist_cache.m3u")
 
 
 def log(*a):
@@ -76,7 +81,7 @@ def log(*a):
 
 
 class _NoRedirect(urllib.request.HTTPRedirectHandler):
-    """自己接管 302：直接读 Location，不靠 geturl() 猜。"""
+    """自己接管 3xx：直接读 Location，不去猜 geturl()。"""
 
     def redirect_request(self, req, fp, code, msg, headers, newurl):
         raise urllib.error.HTTPError(req.full_url, code, msg, headers, fp)
@@ -166,25 +171,38 @@ class ChannelRelay:
         self.group = group
         self.logo = logo
         self.ua = ua
-        self.entry = self._to_m3u8(url)
-        self.segs = OrderedDict()          # seq -> {url, dur, local, fails}
+        self.entry = self._to_entry(url)
+
+        self.segs = OrderedDict()          # sid -> {url, dur, local, fails, key}
+        self.keymap = OrderedDict()        # 分片 key -> sid（去重用）
+        self.next_sid = 1
+
         self.lock = threading.Lock()
+        self.pl_lock = threading.Lock()
+        self.pl_time = 0.0                 # 上次成功/尝试拉清单的时间
+        self.pl_base = None                # 清单真实地址（重定向后）
+        self.pl_ok_ts = 0.0                # 上次成功时间
+
         self.running = False
-        self.last_client = 0.0             # 只有播放器真实请求才更新
-        self.play_pos = None               # 播放器最近请求的分片号
-        self.fail = 0
-        self.seg_dir = os.path.join(SEG_ROOT, str(idx))
         self.stop_evt = threading.Event()
-        self.first_ready = threading.Event()
-        self.threads = []
+        self.last_client = 0.0             # 只有播放器真实请求才更新
+        self.play_pos = None
+        self.fail = 0
+        self.last_err = ""
+        self.thread = None
+
+        self.seg_dir = os.path.join(SEG_ROOT, str(idx))
 
     # ------------------------------------------------ 地址
     @staticmethod
-    def _to_m3u8(u):
+    def _to_entry(u):
+        """把播放地址改成要 m3u8 的形态。"""
         if "extension=" in u:
             return re.sub(r"extension=\w*", "extension=m3u8", u)
         if ".m3u8" in u:
             return u
+        if re.search(r"\.ts(\?|$)", u, re.I):
+            return re.sub(r"\.ts(\?|$)", r".m3u8\1", u, flags=re.I)
         sep = "&" if "?" in u else "?"
         return u + sep + "extension=m3u8"
 
@@ -204,15 +222,13 @@ class ChannelRelay:
 
     def start(self):
         self.stop_evt = threading.Event()
-        self.first_ready = threading.Event()
         self.running = True
         self.last_client = time.time()
         self.fail = 0
+        self.pl_time = 0.0
         os.makedirs(self.seg_dir, exist_ok=True)
-        for fn in (self.refresher, self.downloader):
-            t = threading.Thread(target=fn, daemon=True)
-            t.start()
-            self.threads.append(t)
+        self.thread = threading.Thread(target=self.worker, daemon=True)
+        self.thread.start()
 
     def stop(self, reason="空闲"):
         """停线程 + 清内存池 + 删整目录（缓存不留在盘上）。"""
@@ -222,104 +238,177 @@ class ChannelRelay:
         self.play_pos = None
         with self.lock:
             self.segs.clear()
+            self.keymap.clear()
         shutil.rmtree(self.seg_dir, ignore_errors=True)
-        self.threads = []
         if was_running:
             log(f"[{self.idx}]{self.name} {reason}，已停止缓存并清空磁盘")
 
     # ------------------------------------------------ 源站清单
     def _read_list(self, url, depth=0):
-        if depth > 3:
-            return None, "__ERR_too_many_redirect"
-        req = urllib.request.Request(url, headers={"User-Agent": self.ua})
+        """拿一份播放清单。302 自己跟，直接 200 返回清单也认。"""
+        if depth > 4:
+            self.last_err = "__ERR_too_many_redirect"
+            return None, self.last_err
+        req = urllib.request.Request(url, headers={
+            "User-Agent": self.ua,
+            "Accept": "*/*",
+            "Connection": "close",
+        })
         try:
-            with _OPENER.open(req, timeout=20) as r:
-                body = r.read().decode("utf-8", "ignore")
-                if body.lstrip().upper().startswith("#EXTM3U"):
-                    return url, body
+            with _OPENER.open(req, timeout=PL_TIMEOUT) as r:
+                raw = r.read()
+                body = raw.decode("utf-8", "ignore")
+                final = r.geturl() or url
+                if body.lstrip().upper().startswith("#EXTM3U") or "#EXTINF" in body[:8000]:
+                    return final, body
                 loc = r.headers.get("Location")
                 if loc:
-                    return self._read_list(urljoin(url, loc), depth + 1)
-                return None, "__ERR_not_m3u8"
+                    return self._read_list(urljoin(final, loc), depth + 1)
+                self.last_err = "__ERR_not_playlist"
+                return None, self.last_err
         except urllib.error.HTTPError as e:
             loc = e.headers.get("Location") if e.headers else None
             if loc:
                 return self._read_list(urljoin(url, loc), depth + 1)
-            return None, f"__ERR_{e.code}"
+            self.last_err = f"__ERR_{e.code}"
+            return None, self.last_err
         except Exception as e:
-            return None, f"__ERR_{type(e).__name__}"
+            self.last_err = f"__ERR_{type(e).__name__}"
+            return None, self.last_err
 
-    def _fetch_playlist(self):
-        """一次请求拿 m3u8：302 跟 Location，直接 200 返回清单也认。"""
-        return self._read_list(self.entry)
+    def _refresh(self):
+        """拉一次清单并把分片收进池子。返回是否成功。"""
+        with self.pl_lock:
+            now = time.time()
+            # 成功时按 worker 的节奏走；失败时退避，越错越慢，别打爆源站
+            backoff = 3.0 if self.fail == 0 else min(30.0, 3.0 * self.fail)
+            if now - self.pl_time < backoff:
+                return False
+            self.pl_time = now
 
-    def _parse(self, text, base):
-        m = re.search(r"#EXT-X-MEDIA-SEQUENCE:(\d+)", text)
-        bseq = int(m.group(1)) if m else 0
-        out, dur, i = [], 10.0, 0
+            pl, text = self._read_list(self.entry)
+            if not pl or not text or text.startswith("__ERR"):
+                self.fail += 1
+                if self.fail == 1 or self.fail % 5 == 0:
+                    log(f"[{self.idx}]{self.name} 取地址失败 {text} {self.last_err}")
+                return False
+
+            items, subs = self._parse(text, pl)
+            # 多码率主清单：往下钻一层拿子清单
+            if not items and subs:
+                sub = self._pick_variant(text, pl, subs)
+                pl2, text2 = self._read_list(sub)
+                if text2 and not text2.startswith("__ERR"):
+                    items, subs2 = self._parse(text2, pl2)
+                    if items:
+                        pl = pl2
+
+            if not items:
+                self.fail += 1
+                if self.fail == 1 or self.fail % 5 == 0:
+                    log(f"[{self.idx}]{self.name} 清单里没解析到分片（主清单层数过深或格式不认识）")
+                return False
+
+            self.pl_base = pl
+            self.pl_ok_ts = time.time()
+            self.fail = 0
+            added = self._ingest(items)
+            if added:
+                log(f"[{self.idx}]{self.name} 续期OK 新增{added} 池{len(self.segs)}")
+            return True
+
+    @staticmethod
+    def _pick_variant(text, base, subs):
+        """主清单里挑一路码率：取带宽最高的那路。"""
+        best_url, best_bw = subs[0], -1
+        last_bw = -1
         for line in text.splitlines():
             line = line.strip()
+            if line.upper().startswith("#EXT-X-STREAM-INF"):
+                m = re.search(r"BANDWIDTH=(\d+)", line)
+                last_bw = int(m.group(1)) if m else 0
+            elif line and not line.startswith("#"):
+                u = urljoin(base, line)
+                if u.split("?")[0].lower().endswith((".m3u8", ".m3u")) and last_bw > best_bw:
+                    best_url, best_bw = u, last_bw
+                last_bw = -1
+        return best_url
+
+    @staticmethod
+    def _parse(text, base):
+        """返回 (分片列表 [(序号, url, 时长)], 子清单列表)。"""
+        m = re.search(r"#EXT-X-MEDIA-SEQUENCE:(\d+)", text)
+        bseq = int(m.group(1)) if m else 0
+        items, subs = [], []
+        dur, i = 10.0, 0
+        for line in text.splitlines():
+            line = line.strip()
+            if not line:
+                continue
             if line.startswith("#EXTINF:"):
                 try:
-                    dur = float(line.split(":")[1].split(",")[0])
+                    dur = float(line.split(":", 1)[1].split(",")[0])
                 except Exception:
                     dur = 10.0
-            elif line and not line.startswith("#") and ".ts" in line:
-                url = line if line.startswith("http") else urljoin(base, line)
-                mm = re.search(r"_(\d+)\.ts", line)
-                out.append((int(mm.group(1)) if mm else bseq + i, url, dur))
-                i += 1
-        return out
+                continue
+            if line.startswith("#"):
+                continue
+            u = urljoin(base, line)
+            low = u.split("?")[0].lower()
+            if low.endswith((".m3u8", ".m3u")):
+                subs.append(u)
+                continue
+            items.append((bseq + i, u, dur))
+            i += 1
+        return items, subs
 
-    # ------------------------------------------------ 续期线程
-    def refresher(self):
-        while self.running:
-            if not self.alive():
-                self.stop("播放器已停止请求")
-                break
-            pl, text = self._fetch_playlist()
-            if pl and text and not text.startswith("__ERR"):
-                try:
-                    items = self._parse(text, pl)
-                    if not items:
-                        raise ValueError("清单里没有分片")
-                    new = 0
-                    with self.lock:
-                        for seq, url, dur in items:
-                            if seq not in self.segs:
-                                self.segs[seq] = {"url": url, "dur": dur,
-                                                  "local": None, "fails": 0}
-                                new += 1
-                    self.prune()
-                    self.fail = 0
-                    if new:
-                        log(f"[{self.idx}]{self.name} 续期OK 新增{new} 池{len(self.segs)}")
-                except Exception as e:
-                    self.fail += 1
-                    log(f"[{self.idx}]{self.name} 解析失败 {e}")
-                    if self.fail >= MAX_FAILS:
-                        log(f"[{self.idx}]{self.name} 连续失败，暂停 30s")
-                        self.stop_evt.wait(30)
-            else:
-                self.fail += 1
-                log(f"[{self.idx}]{self.name} 取token失败 {text}")
-                if self.fail >= MAX_FAILS:
-                    log(f"[{self.idx}]{self.name} 连续失败，暂停 30s")
-                    self.stop_evt.wait(30)
-            self.stop_evt.wait(REFRESH_INTERVAL)
+    @staticmethod
+    def _seg_key(u):
+        """分片去重用的 key：去掉 token 的路径。"""
+        p = urlsplit(u)
+        path = p.path
+        if re.search(r"\d", path):
+            return path
+        return path + "?" + p.query
 
-    # ------------------------------------------------ 下载线程
-    def _download_one(self, seq, url):
-        p = os.path.join(self.seg_dir, f"{seq}.ts")
+    def _ingest(self, items):
+        """把清单里的分片收进池子；用本地连续编号，避免源站序号乱跳。"""
+        added = 0
+        with self.lock:
+            for _hint, url, dur in items:
+                key = self._seg_key(url)
+                sid = self.keymap.get(key)
+                if sid is not None and sid in self.segs:
+                    self.segs[sid]["url"] = url
+                    self.segs[sid]["dur"] = dur
+                    continue
+                sid = self.next_sid
+                self.next_sid += 1
+                self.keymap[key] = sid
+                self.segs[sid] = {"url": url, "dur": dur, "local": None,
+                                  "fails": 0, "key": key}
+                added += 1
+            # keymap 别无限涨
+            while len(self.keymap) > max(WINDOW * 6, 60):
+                self.keymap.popitem(last=False)
+        return added
+
+    # ------------------------------------------------ 下载
+    def _download_one(self, sid, url):
+        p = os.path.join(self.seg_dir, f"{sid}.ts")
         tmp = p + ".part"
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": self.ua})
-            with urllib.request.urlopen(req, timeout=20) as r, open(tmp, "wb") as f:
-                shutil.copyfileobj(r, f)
+            req = urllib.request.Request(url, headers={
+                "User-Agent": self.ua,
+                "Accept": "*/*",
+                "Connection": "close",
+            })
+            with urllib.request.urlopen(req, timeout=SEG_TIMEOUT) as r, open(tmp, "wb") as f:
+                shutil.copyfileobj(r, f, 65536)
             if os.path.getsize(tmp) < 1000:
                 os.remove(tmp)
                 raise ValueError("分片太小")
-            os.replace(tmp, p)          # 原子替换，播放器读不到半截文件
+            os.replace(tmp, p)              # 原子替换，播放器读不到半截文件
         except Exception:
             try:
                 if os.path.exists(tmp):
@@ -327,58 +416,49 @@ class ChannelRelay:
             except OSError:
                 pass
             with self.lock:
-                it = self.segs.get(seq)
+                it = self.segs.get(sid)
                 if it is not None:
                     it["fails"] = it.get("fails", 0) + 1
-                    if it["fails"] >= MAX_FAILS:
-                        it["local"] = None      # 放弃，不再反复重试
             return False
+
+        keep = False
         with self.lock:
-            it = self.segs.get(seq)
-            if it is None:                  # 下载途中已被淘汰 → 不留
-                keep = False
-            else:
+            it = self.segs.get(sid)
+            if it is not None:
                 it["local"] = p
                 keep = True
-        if not keep:
+        if not keep:                        # 下载途中已被淘汰 → 不留
             try:
                 os.remove(p)
             except OSError:
                 pass
             return False
-        self.first_ready.set()
         return True
 
-    def downloader(self):
-        os.makedirs(self.seg_dir, exist_ok=True)
-        while self.running:
-            todo = []
-            with self.lock:
-                pos = self.play_pos
-                items = [(s, i["url"]) for s, i in self.segs.items()
-                         if i["local"] is None and i.get("fails", 0) < MAX_FAILS]
-            if pos is None:
-                # 还没开始串流：只预取最新几个，别把整段历史拉下来
-                todo = items[-PRELOAD:]
-            else:
-                # 只补播放位置前后的，播放器早就跳过的旧分片不再下
-                todo = [(s, u) for s, u in items if s >= pos - 1][:SEG_DL_LIMIT]
-            for s, u in todo:
-                if not self.running:
-                    break
-                if time.time() - self.last_client > IDLE_SEC:
-                    break
-                self._download_one(s, u)
-            self.prune()
-            time.sleep(0.3 if todo else 0.8)
+    def _download_batch(self):
+        with self.lock:
+            pending = [(s, i["url"]) for s, i in self.segs.items()
+                       if i["local"] is None and i.get("fails", 0) < MAX_FAILS]
+        if not pending:
+            return
+        # 新分片优先下：直播最要紧的是最新的那几片
+        pending.sort(key=lambda x: x[0], reverse=True)
+        budget = time.time() + 6
+        n = 0
+        for s, u in pending:
+            if not self.running or n >= SEG_DL_LIMIT or time.time() > budget:
+                break
+            self._download_one(s, u)
+            n += 1
 
     # ------------------------------------------------ 缓存回收
     def prune(self):
-        """播放中只留 WINDOW 个分片：字典裁 + 磁盘删，双保险。"""
+        """播放中只留最近 WINDOW 个分片：字典裁 + 磁盘删，双保险。"""
         dropped = []
         with self.lock:
             while len(self.segs) > WINDOW:
                 _, info = self.segs.popitem(last=False)
+                self.keymap.pop(info.get("key"), None)
                 if info.get("local"):
                     dropped.append(info["local"])
             keep = {os.path.basename(i["local"]) for i in self.segs.values() if i.get("local")}
@@ -399,8 +479,8 @@ class ChannelRelay:
             except OSError:
                 continue
             if fn.endswith(".ts"):
-                # 3 秒内的新文件留给下载线程收尾，避免竞态误删
-                if fn not in keep and age > 3:
+                # 5 秒内的新文件留给下载线程收尾，避免竞态误删
+                if fn not in keep and age > 5:
                     try:
                         os.remove(fp)
                     except OSError:
@@ -412,32 +492,89 @@ class ChannelRelay:
                     pass
 
     # ------------------------------------------------ 本地清单
-    def has_ready(self):
+    def ready_segs(self):
         with self.lock:
-            return any(i["local"] for i in self.segs.values())
+            return sorted([(s, i) for s, i in self.segs.items() if i["local"]])
 
-    def wait_first(self, timeout=6.0):
-        if self.has_ready():
-            return
-        self.first_ready.wait(timeout)
+    def ready_count(self):
+        with self.lock:
+            return sum(1 for i in self.segs.values() if i["local"])
+
+    def wait_first(self, timeout=FIRST_WAIT):
+        """等首批分片就绪；等够 FIRST_MIN_SEGS 个就立刻返回。"""
+        start = time.time()
+        while time.time() - start < timeout:
+            if self.ready_count() >= FIRST_MIN_SEGS:
+                return True
+            if time.time() - start > 2 and self.pl_ok_ts == 0:
+                # 后台还没拉回清单，这里主动催一次，别干等
+                self._refresh()
+            time.sleep(0.15)
+        return self.ready_count() > 0
 
     def build_m3u8(self):
-        with self.lock:
-            ready = sorted([(s, i) for s, i in self.segs.items() if i["local"]])
-        head = ["#EXTM3U", "#EXT-X-VERSION:3", "#EXT-X-TARGETDURATION:14"]
+        ready = self.ready_segs()
+        head = ["#EXTM3U", "#EXT-X-VERSION:3"]
         if not ready:
-            return "\n".join(head + ["#EXT-X-MEDIA-SEQUENCE:0"]) + "\n"
-        ready = ready[-WINDOW:]
-        first = ready[0][0]
-        out = head + [f"#EXT-X-MEDIA-SEQUENCE:{first}"]
-        prev = None
-        for s, i in ready:
-            if prev is not None and s != prev + 1:
-                out.append("#EXT-X-DISCONTINUITY")
-            out.append(f"#EXTINF:{i['dur']:.3f},")
+            # 给一个短 targetduration 的空清单：播放器会很快再回来问
+            return "\n".join(head + ["#EXT-X-TARGETDURATION:4",
+                                     "#EXT-X-MEDIA-SEQUENCE:0"]) + "\n"
+
+        # 只取尾部连续的几个分片：避免中间缺口让播放器卡住
+        sids = [s for s, _ in ready]
+        sidset = set(sids)
+        tail = [sids[-1]]
+        cur = sids[-1]
+        while len(tail) < PLAYLIST_SEGS:
+            cur -= 1
+            if cur in sidset:
+                tail.append(cur)
+            else:
+                break
+        tail.reverse()
+
+        info = {s: i for s, i in ready}
+        max_dur = max(info[s]["dur"] for s in tail)
+        td = max(4, int(math.ceil(max_dur)))
+
+        out = head + [f"#EXT-X-TARGETDURATION:{td}",
+                      f"#EXT-X-MEDIA-SEQUENCE:{tail[0]}"]
+        for s in tail:
+            out.append(f"#EXTINF:{info[s]['dur']:.3f},")
             out.append(f"/ch/{self.idx}/seg/{s}.ts")
-            prev = s
         return "\n".join(out) + "\n"
+
+    # ------------------------------------------------ 后台线程
+    def _refresh_interval(self):
+        """按分片时长自适应：分片短就刷得勤一点，否则清单会给空窗。"""
+        dur = 0.0
+        with self.lock:
+            recent = list(self.segs.values())[-PLAYLIST_SEGS:]
+            for i in recent:
+                dur += i.get("dur") or 10.0
+        if dur <= 0:
+            return REFRESH_INTERVAL
+        return max(2.0, min(float(REFRESH_INTERVAL), dur / 2.0))
+
+    def worker(self):
+        os.makedirs(self.seg_dir, exist_ok=True)
+        last_refresh = 0.0
+        try:
+            while self.running:
+                now = time.time()
+                need = (now - last_refresh >= self._refresh_interval()) or (self.pl_ok_ts == 0)
+                if need:
+                    if self._refresh():
+                        last_refresh = time.time()
+                self._download_batch()
+                self.prune()
+                if not self.alive():
+                    self.stop("播放器已停止请求")
+                    break
+                time.sleep(0.25)
+        except Exception as e:
+            log(f"[{self.idx}]{self.name} 后台异常：{e}")
+            self.stop("异常退出")
 
 
 # ---------------------------------------------------------------- 管理
@@ -463,13 +600,20 @@ class Handler(http.server.BaseHTTPRequestHandler):
     def log_message(self, *a):
         pass
 
-    def _send(self, body, ctype):
+    def _send(self, body, ctype, cache=False):
         if isinstance(body, str):
             body = body.encode()
         self.send_response(200)
         self.send_header("Content-Type", ctype)
         self.send_header("Content-Length", str(len(body)))
         self.send_header("Access-Control-Allow-Origin", "*")
+        if cache:
+            self.send_header("Cache-Control", "public, max-age=60")
+        else:
+            # 清单绝对不能缓存：否则播放器会拿着空清单一直转圈
+            self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
+            self.send_header("Pragma", "no-cache")
+            self.send_header("Expires", "0")
         self.end_headers()
         self.wfile.write(body)
 
@@ -478,31 +622,44 @@ class Handler(http.server.BaseHTTPRequestHandler):
         # 总播放列表
         if path in ("/", "/playlist.m3u", "/playlist.m3u8"):
             lines = ["#EXTM3U"]
+            host = self.headers.get("Host", "127.0.0.1")
             for idx, ch in CHANS.items():
                 g = f' group-title="{ch.group}"' if ch.group else ""
-                n = f' tvg-name="{ch.name}"' if ch.name else ""
-                lines.append(f"#EXTINF:-1{n}{g},{ch.name}")
-                lines.append(f"http://{self.headers.get('Host','127.0.0.1')}/ch/{idx}/live.m3u8")
-            return self._send("\n".join(lines) + "\n", "application/vnd.apple.mpegurl")
+                lg = f' tvg-logo="{ch.logo}"' if ch.logo else ""
+                lines.append(f"#EXTINF:-1{lg}{g},{ch.name}")
+                lines.append(f"http://{host}/ch/{idx}/live.m3u8")
+            return self._send("\n".join(lines) + "\n",
+                              "application/vnd.apple.mpegurl")
         # 单频道 m3u8 —— 只有这里被请求，才算「有人在看这个台」
         m = re.match(r"^/ch/(\d+)/live\.m3u8$", path)
         if m:
             ch = get_relay(int(m.group(1)))
             if not ch:
                 return self.send_error(404)
-            if not ch.has_ready():
-                ch.wait_first(6.0)      # 等首个分片，别回空清单让播放器报错
+            if ch.ready_count() < FIRST_MIN_SEGS:
+                ch.wait_first(FIRST_WAIT)   # 等首批分片，别回空清单让播放器转圈
             return self._send(ch.build_m3u8(), "application/vnd.apple.mpegurl")
         # 切片
         m = re.match(r"^/ch/(\d+)/seg/(\d+)\.ts$", path)
         if m:
             idx, seq = int(m.group(1)), int(m.group(2))
             ch = get_relay(idx, seq)
-            p = os.path.join(SEG_ROOT, str(idx), f"{seq}.ts")
+            if not ch:
+                return self.send_error(404)
+            p = os.path.join(ch.seg_dir, f"{seq}.ts")
+            if not os.path.exists(p):
+                # 刚下的分片可能还在路上，短等一会儿再回，别直接 404
+                with ch.lock:
+                    known = seq in ch.segs
+                if known:
+                    for _ in range(20):
+                        if os.path.exists(p):
+                            break
+                        time.sleep(0.15)
             if os.path.exists(p):
                 with open(p, "rb") as f:
                     data = f.read()
-                return self._send(data, "video/mp2t")
+                return self._send(data, "video/mp2t", cache=True)
             return self.send_error(404)
         # 状态
         if path == "/status":
@@ -525,6 +682,7 @@ class Handler(http.server.BaseHTTPRequestHandler):
             for c in running:
                 idle = int(time.time() - c.last_client)
                 rows.append(f"#{c.idx} {c.name} | 分组={c.group} | 分片池={len(c.segs)} "
+                            f"| 可播={c.ready_count()} | 失败={c.fail} "
                             f"| 播放位置={c.play_pos} | 上次请求={idle}s前")
             if not rows:
                 rows = ["(当前没有频道在播放，播放器请求某个频道后才会开始缓存)"]
@@ -565,6 +723,21 @@ def bind_server(port, handler):
         except OSError:
             continue
     raise OSError(f"{port}~{port+29} 范围内端口全被占用")
+
+
+def detect_lan_ip():
+    """探测本机局域网 IP，写进播放列表，电视/手机也能直接用。"""
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    try:
+        s.connect(("223.5.5.5", 80))
+        return s.getsockname()[0]
+    except Exception:
+        return "127.0.0.1"
+    finally:
+        try:
+            s.close()
+        except Exception:
+            pass
 
 
 def purge_stale_cache():
@@ -617,13 +790,13 @@ def main():
                     help="播放器多久没请求就停止缓存并清盘（秒）")
     ap.add_argument("-f", "--filter", default="")
     ap.add_argument("-s", "--segdir", default=SEG_ROOT, help="切片缓存目录")
-    ap.add_argument("-w", "--window", type=int, default=WINDOW, help="播放中保留切片数")
+    ap.add_argument("-w", "--window", type=int, default=WINDOW, help="磁盘保留切片数")
     ap.add_argument("-r", "--reload", type=int, default=30,
                     help="每隔多少分钟重新拉取远程列表，0=只拉一次")
     a = sanitize_args(ap)
     IDLE_SEC = a.idle
     SEG_ROOT = a.segdir
-    WINDOW = a.window
+    WINDOW = max(6, a.window)
     os.makedirs(SEG_ROOT, exist_ok=True)
     purge_stale_cache()
 
@@ -643,12 +816,13 @@ def main():
     httpd, port = bind_server(a.port, Handler)
     httpd.daemon_threads = True
 
-    write_local_playlist(a.out, port)
+    lan = detect_lan_ip()
+    write_local_playlist(a.out, port, lan)
     threading.Thread(target=janitor_loop, daemon=True).start()
     log(f"本地播放列表已写出 → {a.out}")
-    log(f"服务地址 → http://127.0.0.1:{port}/playlist.m3u")
+    log(f"本机播放 → http://127.0.0.1:{port}/playlist.m3u")
+    log(f"局域网播放 → http://{lan}:{port}/playlist.m3u")
     log(f"状态查看 → http://127.0.0.1:{port}/status")
-    log(f"局域网访问 → http://<本机IP>:{port}/playlist.m3u")
     if a.src.startswith("http"):
         log(f"远程列表每 {a.reload} 分钟自动重拉（0=不重拉）")
 
@@ -664,18 +838,19 @@ def main():
         log("已停止")
 
 
-def write_local_playlist(path, port):
+def write_local_playlist(path, port, host="127.0.0.1"):
     with open(path, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for i, c in CHANS.items():
             g = f' group-title="{c.group}"' if c.group else ""
             lg = f' tvg-logo="{c.logo}"' if c.logo else ""
             f.write(f"#EXTINF:-1{lg}{g},{c.name}\n")
-            f.write(f"http://127.0.0.1:{port}/ch/{i}/live.m3u8\n")
+            f.write(f"http://{host}:{port}/ch/{i}/live.m3u8\n")
 
 
 def reload_loop(src, ua, minutes, flt, out, port):
     """定时重拉远程列表：更新地址、收录新频道，正在播的不动。"""
+    lan = detect_lan_ip()
     while True:
         time.sleep(minutes * 60)
         try:
@@ -694,11 +869,11 @@ def reload_loop(src, ua, minutes, flt, out, port):
                         CHANS[i] = ChannelRelay(i, name, group, logo, url, ua)
                         added += 1
                     else:
-                        new_entry = ChannelRelay._to_m3u8(url)
+                        new_entry = ChannelRelay._to_entry(url)
                         if ch.entry != new_entry:
                             ch.entry = new_entry
                             updated += 1
-            write_local_playlist(out, port)
+            write_local_playlist(out, port, lan)
             log(f"列表已刷新：新增 {added}，更新 {updated}，总计 {len(CHANS)}")
         except Exception as e:
             log(f"列表重拉失败：{e}")
